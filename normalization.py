@@ -1,13 +1,19 @@
+import os
+from collections import deque
+
 import pandas as pd
 import numpy as np
 
-from collections import deque
 
 def normalize():
-    mpv = standardize_mpv(pd.read_csv('datasets/mpv.csv'))
-    wapo = standardize_wapo(pd.read_csv('datasets/wapo.csv'))
-    mpv.to_csv('normal_mpv.csv')
-    wapo.to_csv('normal_wapo.csv')
+    '''import csvs, clean them, and delete from datasets_to_be_cleaned folder'''
+    mpv = standardize_mpv(pd.read_csv('datasets_to_be_cleaned/dirty_mpv.csv'))
+    wapo = standardize_wapo(pd.read_csv('datasets_to_be_cleaned/dirty_wapo.csv'))
+    mpv.to_csv('datasets_to_be_merged/clean_mpv.csv')
+    wapo.to_csv('datasets_to_be_merged/clean_wapo.csv')
+    os.remove('datasets_to_be_cleaned/mpv.csv')
+    os.remove('datasets_to_be_cleaned/wapo.csv')
+
     
 
 def standardize_wapo(wapo):
@@ -28,6 +34,7 @@ def standardize_wapo(wapo):
                    'longitude': 'Longitude'}
 
     wapo = wapo[wapo['race'] == 'B']
+    '''truncate dataframe down to keys used by rename dict'''
     keys = [key for key in rename_dict.keys()]
     wapo = wapo[keys]
     wapo = wapo.rename(columns=rename_dict)
@@ -71,11 +78,13 @@ def standardize_mpv(mpv):
                    'longitude': 'Longitude'}
     
     mpv = mpv[mpv['race'] == 'Black']
+    '''truncate dataframe down to keys used by rename dict'''
     keys = [key for key in rename_dict.keys()]
     mpv = mpv[keys]
     mpv = mpv.rename(columns=rename_dict)
     mpv = mpv.fillna(0)
     mpv['Age'] = mpv['Age'].astype(int)
+
     mpv['Incident Date (MM/DD/YYYY)'] = pd.to_datetime(mpv['Incident Date (MM/DD/YYYY)'])
     full_names = lists_of_names_for_df(mpv['Victim\'s name'])
     mpv['First'] = full_names[0]
@@ -117,7 +126,7 @@ def lists_of_names_for_df(names):
     suffixes = [name[3] for name in full_names]
     return [firsts, middles, lasts, suffixes]
 
-normalize()
+
 
 
 
