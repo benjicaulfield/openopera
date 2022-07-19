@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from collections import Counter
+from collections import deque
 
 def normalize():
     mpv = standardize_mpv(pd.read_csv('datasets/mpv.csv'))
@@ -31,9 +31,15 @@ def standardize_wapo(wapo):
     keys = [key for key in rename_dict.keys()]
     wapo = wapo[keys]
     wapo = wapo.rename(columns=rename_dict)
+    wapo['Victim\'s name'] = wapo['Victim\'s name'].fillna("- -")
     wapo = wapo.fillna(0)
     wapo['Age'] = wapo['Age'].astype(int)
     wapo['Gender'] = wapo['Gender'].replace(['M', 'F'], ['Male', 'Female'])
+    full_names = lists_of_names_for_df(wapo['Victim\'s name'])
+    wapo['First'] = full_names[0]
+    wapo['Middle'] = full_names[1]
+    wapo['Last'] = full_names[2]
+    wapo['Suffix'] = full_names[3]
     wapo['Incident Date (MM/DD/YYYY)'] = pd.to_datetime(wapo['Incident Date (MM/DD/YYYY)'])
     return wapo
     
@@ -71,7 +77,42 @@ def standardize_mpv(mpv):
     mpv = mpv.fillna(0)
     mpv['Age'] = mpv['Age'].astype(int)
     mpv['Incident Date (MM/DD/YYYY)'] = pd.to_datetime(mpv['Incident Date (MM/DD/YYYY)'])
+    full_names = lists_of_names_for_df(mpv['Victim\'s name'])
+    mpv['First'] = full_names[0]
+    mpv['Middle'] = full_names[1]
+    mpv['Last'] = full_names[2]
+    mpv['Suffix'] = full_names[3]
     return mpv
+
+def split_names(names):
+    names = deque(names)
+    
+    suffixes = ['Jr.', 'III', 'Sr.', 'II', 'IV', 'Jr']
+    suffix = [name for name in names if name in suffixes]
+    if suffix:
+        suffix = suffix[0]
+        names.remove(suffix)
+    else:
+        suffix = ''
+
+    last = names.pop()
+    first = names.popleft()
+    
+    if len(names) > 0:
+        middle = ' '.join([name for name in names])
+    else:
+        middle = ''
+        
+    return first, middle, last, suffix
+
+def lists_of_names_for_df(names):
+    names = [name.split() for name in names]
+    full_names = [split_names(name) for name in names]
+    firsts = [name[0] for name in full_names]
+    middles = [name[1] for name in full_names]
+    lasts = [name[2] for name in full_names]
+    suffixes = [name[3] for name in full_names]
+    return [firsts, middles, lasts, suffixes]
 
 normalize()
 
