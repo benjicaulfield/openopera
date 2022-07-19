@@ -14,9 +14,10 @@ def import_wapo():
     with open('datasets_to_be_cleaned/dirty_wapo.csv', 'w') as f:
         f.write(table)
 
-if __name__ == '__main__':
-    import_mpv()
-    import_wapo()
+import_mpv()
+import_wapo()
+
+
 
 
 

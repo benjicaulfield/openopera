@@ -11,8 +11,8 @@ def normalize():
     wapo = standardize_wapo(pd.read_csv('datasets_to_be_cleaned/dirty_wapo.csv'))
     mpv.to_csv('datasets_to_be_merged/clean_mpv.csv')
     wapo.to_csv('datasets_to_be_merged/clean_wapo.csv')
-    os.remove('datasets_to_be_cleaned/mpv.csv')
-    os.remove('datasets_to_be_cleaned/wapo.csv')
+    os.remove('datasets_to_be_cleaned/dirty_mpv.csv')
+    os.remove('datasets_to_be_cleaned/dirty_wapo.csv')
 
     
 
@@ -126,7 +126,7 @@ def lists_of_names_for_df(names):
     suffixes = [name[3] for name in full_names]
     return [firsts, middles, lasts, suffixes]
 
-
+normalize()
 
 
 
