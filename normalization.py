@@ -84,6 +84,7 @@ def standardize_mpv(mpv):
     mpv['Suffix'] = full_names[3]
     return mpv
 
+'''splits one name into first, middle, last, suffix'''
 def split_names(names):
     names = deque(names)
     
@@ -105,6 +106,8 @@ def split_names(names):
         
     return first, middle, last, suffix
 
+'''returns list of all first, middle, last, suffix, for
+   easy insertion into dataframes'''
 def lists_of_names_for_df(names):
     names = [name.split() for name in names]
     full_names = [split_names(name) for name in names]
