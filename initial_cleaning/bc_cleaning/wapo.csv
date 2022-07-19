@@ -1,0 +1,1607 @@
+,wapo_id,name,date,age,gender,race,city,state
+9,17,"['Leslie', 'Sapp', 'III']",2015-01-06,47,B,B,Knoxville,PA
+11,21,"['Ron', 'Sneed']",2015-01-07,31,B,B,Freeport,TX
+12,22,"['Hashim', 'Hanif', 'Ibn', 'Abdul-Rasheed']",2015-01-07,41,B,B,Columbus,OH
+14,27,"['Omarr', 'Julian', 'Maximillian', 'Jackson']",2015-01-07,37,B,B,New Orleans,LA
+17,36,"['Artago', 'Damon', 'Howard']",2015-01-08,36,B,B,Strong,AR
+26,49,"['Marcus', 'Golden']",2015-01-14,24,B,B,St. Paul,MN
+28,51,"['Mario', 'Jordan']",2015-01-14,34,B,B,Chesapeake,VA
+32,56,"['Donte', 'Sowell']",2015-01-15,27,B,B,Indianapolis,IN
+33,57,"['Kavonda', 'Earl', 'Payton']",2015-01-15,39,B,B,Aurora,CO
+39,74,"['Terence', 'Walker']",2015-01-17,21,B,B,Muskogee,OK
+45,85,"['Dewayne', 'Carr']",2015-01-20,42,B,B,Scottsdale,AZ
+48,90,"['Isaac', 'Holmes']",2015-01-21,19,B,B,St. Louis,MO
+50,99,"['Tiano', 'Meton']",2015-01-22,25,B,B,Sierra Blanca,TX
+52,101,"['Demaris', 'Turner']",2015-01-23,29,B,B,Fort Lauderdale,FL
+56,107,"['Darin', 'Hutchins']",2015-01-24,26,B,B,Baltimore,MD
+67,350,"['Jermonte', 'Fletcher']",2015-01-27,33,B,B,Columbus,OH
+75,339,"['Edward', 'Donnell', 'Bright']",2015-01-31,54,B,B,Randallstown,MD
+79,117,"['Ledarius', 'D.', 'Williams']",2015-02-03,23,B,B,St. Louis,MO
+80,118,"['Yuvette', 'Henderson']",2015-02-03,38,B,B,Emeryville,CA
+81,119,"['Dewayne', 'Deshawn', 'Ward']",2015-02-03,29,B,B,Antioch,CA
+83,116,"['Jeremy', 'Lett']",2015-02-04,28,B,B,Tallahassee,FL
+87,126,"['Jimmy', 'Ray', 'Robinson', 'Jr.']",2015-02-04,51,B,B,Lorena,TX
+88,127,"['Markell', 'Atkins']",2015-02-04,36,B,B,Memphis,TN
+90,129,"['Herbert', 'Hill']",2015-02-06,25,B,B,Oklahoma City,OK
+92,554,"['James', 'Allen']",2015-02-07,74,B,B,Gastonia,NC
+99,137,"['Desmond', 'Luster']",2015-02-09,45,B,B,Dallas,TX
+100,139,"['Anthony', 'Bess']",2015-02-10,49,B,B,Whitehaven,TN
+103,141,"['Phillip', 'Watkins']",2015-02-11,23,B,B,San Jose,CA
+114,150,"['Lavall', 'Hall']",2015-02-15,25,B,B,Miami Gardens,FL
+123,163,"['Janisha', 'Fonville']",2015-02-18,20,B,B,Charlotte,NC
+125,166,"['Stanley', 'Lamar', 'Grant']",2015-02-20,38,B,B,Homewood,AL
+126,255,"['Douglas', 'Harris']",2015-02-20,77,B,B,Birmingham,AL
+134,176,"[""A'Donte"", 'Washington']",2015-02-23,16,B,B,Millbrook,AL
+138,178,"['Glenn', 'Lewis']",2015-02-25,27,B,B,Oklahoma City,OK
+147,188,"['Thomas', 'Allen']",2015-02-28,34,B,B,St Louis,MO
+149,190,"['Cornelius', 'J.', 'Parker']",2015-02-28,28,B,B,Columbia,MO
+150,191,"['Ian', 'Sherrod']",2015-02-28,40,B,B,Tarboro,NC
+155,194,"['Charly', 'Leundeu', 'Keunang']",2015-03-01,43,B,B,Los Angeles,CA
+156,196,"['Shaquille', 'Barrow']",2015-03-02,20,B,B,Joilet,IL
+157,197,"['Fednel', 'Rhinvil']",2015-03-03,25,B,B,Salisbury,MD
+161,200,"['Tyrone', 'Ryerson', 'Lawrence']",2015-03-05,45,B,B,Milwaukee,WI
+164,203,"['Tony', 'Robinson']",2015-03-06,19,B,B,Madison,WI
+165,269,"['Naeschylus', 'Vinzant']",2015-03-06,37,B,B,Aurora,CO
+166,270,"['Andrew', 'Anthony', 'Williams']",2015-03-06,48,B,B,Putnam Hall,FL
+168,204,"['Monique', 'Jenee', 'Deckard']",2015-03-08,43,B,B,Anaheim,CA
+171,205,"['Anthony', 'Hill']",2015-03-09,27,B,B,Atlanta,GA
+174,276,"['Cedrick', 'Lamont', 'Bishop']",2015-03-09,30,B,B,Cocoa,FL
+175,206,"['Theodore', 'Johnson']",2015-03-10,64,B,B,Cleveland,OH
+176,278,"['Jamie', 'Croom']",2015-03-10,31,B,B,Baton Rouge,LA
+179,248,"['Terry', 'Garnett', 'Jr.']",2015-03-11,37,B,B,Elkton,MD
+186,282,"['Bobby', 'Gross']",2015-03-12,35,B,B,Washington,DC
+206,229,"['Brandon', 'Jones']",2015-03-19,18,B,B,Cleveland,OH
+208,265,"['Kendre', 'Alston']",2015-03-19,16,B,B,Jacksonville,FL
+211,308,"['Richard', 'White']",2015-03-20,63,B,B,New Orleans,LA
+220,234,"['Denzel', 'Brown']",2015-03-22,21,B,B,Islip,NY
+221,237,"['Devin', 'Gates']",2015-03-23,24,B,B,Santa Clara,CA
+222,238,"['Walter', 'J.', 'Brown', 'III']",2015-03-24,29,B,B,Portsmouth,VA
+225,239,"['Nicholas', 'Thomas']",2015-03-25,23,B,B,Smyrna,GA
+226,240,"['Jeremy', 'Lorenza', 'Kelly']",2015-03-25,27,B,B,Johnsonville,SC
+231,245,"['Meagan', 'Hockaday']",2015-03-27,26,B,B,Oxnard,CA
+233,254,"['Angelo', 'West']",2015-03-27,41,B,B,Boston,MA
+235,257,"['Jamalis', 'Hall']",2015-03-27,39,B,B,Fort Pierce,FL
+238,252,"['Byron', 'Herbert']",2015-03-29,29,B,B,Elizabethtown,KY
+244,263,"['Mya', 'Hall']",2015-03-31,27,B,B,Fort Meade,MD
+245,267,"['Robert', 'Washington']",2015-04-01,37,B,B,Hawthorne,CA
+247,286,"['Darrin', 'Langford']",2015-04-02,32,B,B,Rock Island,IL
+248,291,"['Eric', 'Harris']",2015-04-02,44,B,B,Tulsa,OK
+252,296,"['Justus', 'Howell']",2015-04-04,17,B,B,Zion,IL
+253,300,"['Paul', 'Anderson']",2015-04-04,31,B,B,Orange,CA
+255,297,"['Walter', 'Scott']",2015-04-04,50,B,B,North Charleston,SC
+259,318,"['Desmond', 'Willis']",2015-04-06,25,B,B,Harvey,LA
+263,330,"['Dexter', 'Pernell', 'Bethea']",2015-04-08,42,B,B,Valdosta,GA
+267,333,"['Don', 'Smith']",2015-04-09,29,B,B,Monon,IN
+274,355,"['Mack', 'Long']",2015-04-12,36,B,B,Indianapolis,IN
+278,363,"['Colby', 'Robinson']",2015-04-14,26,B,B,DeSoto,TX
+280,365,"['Tevin', 'Barkley']",2015-04-15,22,B,B,Miami,FL
+281,366,"['Dante', 'Noble']",2015-04-15,41,B,B,Spartanburg,SC
+282,367,"['Frank', 'Shephard']",2015-04-15,41,B,B,Houston,TX
+287,380,"['Jeffrey', 'Kemp']",2015-04-17,18,B,B,Chicago,IL
+289,382,"['Thaddeus', 'McCarroll']",2015-04-17,23,B,B,Jennings,MO
+298,537,"['Daniel', 'Wolfe']",2015-04-21,35,B,B,Trenton,NJ
+299,391,"['William', 'Chapman']",2015-04-22,18,B,B,Portsmouth,VA
+302,396,"['Reginald', 'McGregor']",2015-04-22,31,B,B,Fort Worth,TX
+310,412,"['Todd', 'Jamal', 'Dye']",2015-04-24,20,B,B,Trinidad,CO
+312,411,"['David', 'Felix']",2015-04-25,24,B,B,New York,NY
+317,405,"['Terrance', 'Kellom']",2015-04-27,20,B,B,Detroit,MI
+319,417,"['Jared', 'Johnson']",2015-04-28,21,B,B,New Orleans,LA
+324,421,"['Alexia', 'Christian']",2015-04-29,25,B,B,Atlanta,GA
+325,422,"['Jeffrey', 'Adkins']",2015-04-29,53,B,B,Emporia,VA
+331,427,"['Elton', 'Simpson']",2015-05-03,30,B,B,Garland,TX
+336,429,"['Brendon', 'Glenn']",2015-05-05,29,B,B,Venice,CA
+342,436,"['Nephi', 'Arriguin']",2015-05-07,21,B,B,Cerritos,CA
+345,451,"['Dedrick', 'Marshall']",2015-05-08,48,B,B,Harvey,LA
+346,454,"['Sam', 'Holmes']",2015-05-08,31,B,B,Fridley,MN
+348,455,"['Lionel', 'Lorenzo', 'Young']",2015-05-10,34,B,B,Landover,MD
+349,437,"['Kelvin', 'Goldston']",2015-05-11,30,B,B,Fort Worth,TX
+351,441,"[""D'Angelo"", 'Stallworth']",2015-05-12,28,B,B,Jacksonville,FL
+358,463,"['Ronell', 'Wade']",2015-05-16,45,B,B,Harvey,IL
+365,466,"['Anthony', 'Gomez']",2015-05-20,29,B,B,Lancaster,PA
+366,468,"['Chrislon', 'Talbott']",2015-05-20,38,B,B,Owensboro,KY
+367,489,"['Marcus', 'Wheeler']",2015-05-20,26,B,B,Omaha,NE
+371,483,"['Javoris', 'Washington']",2015-05-21,29,B,B,Ft. Lauderdale,FL
+374,487,"['Jerome', 'Caldwell']",2015-05-21,32,B,B,Charleston,SC
+378,529,"['Caso', 'Jackson']",2015-05-23,25,B,B,Detroit,MI
+380,476,"['Anthony', 'Briggs']",2015-05-25,36,B,B,Huntsville,AL
+381,477,"['Dalton', 'Branch']",2015-05-26,51,B,B,Queens,NY
+390,490,"['James', 'Strong']",2015-05-28,32,B,B,Northglenn,CO
+391,493,"['Kenneth', 'Dothard']",2015-05-28,40,B,B,Carrollton,GA
+393,497,"['Kevin', 'Allen']",2015-05-29,36,B,B,Lyndhurst,NJ
+401,507,"['Usaamah', 'Rahim']",2015-06-02,26,B,B,Roslindale,MA
+414,515,"['Demouria', 'Hogg']",2015-06-06,30,B,B,Oakland,CA
+422,538,"['QuanDavier', 'Hicks']",2015-06-09,22,B,B,Cincinnati,OH
+424,540,"['Isiah', 'Hampton']",2015-06-10,19,B,B,Bronx,NY
+425,541,"['Charles', 'Ziegler']",2015-06-11,40,B,B,Pompano Beach,FL
+427,543,"['Fritz', 'Severe']",2015-06-11,46,B,B,Miami,FL
+432,548,"['Deng', 'Manyoun']",2015-06-13,35,B,B,Louisville,KY
+436,550,"['Kris', 'Jackson']",2015-06-15,22,B,B,South Lake Tahoe,CA
+443,560,"['Trepierre', 'Hummons']",2015-06-19,21,B,B,Cincinnati,OH
+445,582,"['Alfontish', 'Cockerham']",2015-06-20,23,B,B,Chicago,IL
+451,576,"['Tyrone', 'Harris']",2015-06-22,20,B,B,Pittsburgh,PA
+456,569,"['Damien', 'A.', 'Harrell']",2015-06-24,26,B,B,York County,VA
+457,567,"['Spencer', 'McCain']",2015-06-25,41,B,B,Owings Mills,MD
+465,587,"['Kevin', 'Lamont', 'Judson']",2015-07-01,24,B,B,McMinnville,OR
+469,603,"['Victor', 'Emanuel', 'Larosa']",2015-07-02,23,B,B,Jacksonville,FL
+475,591,"['Robert', 'Elando', 'Malone']",2015-07-04,42,B,B,Oklahoma City,OK
+477,596,"['Kawanza', 'Beaty']",2015-07-04,23,B,B,Newport News,VA
+485,619,"['Jason', 'Hendley']",2015-07-06,29,B,B,Los Angeles,CA
+488,608,"['Marcellus', 'Jamarcus', 'Burley']",2015-07-07,18,B,B,Houston,TX
+493,616,"['Tremaine', 'Dantzler']",2015-07-07,37,B,B,Atlantic City,NJ
+500,624,"['Martice', 'Milliner']",2015-07-09,27,B,B,Chicago,IL
+502,634,"['Javon', 'Hawkins']",2015-07-09,21,B,B,Kansas City,MO
+505,630,"['Freddie', 'Blue']",2015-07-10,20,B,B,Covington,GA
+506,1152,"['Eugene', 'McSwain']",2015-07-10,25,B,B,Chicago,IL
+512,631,"['Salvado', 'Ellswood']",2015-07-12,36,B,B,Plantation,FL
+513,629,"['Frederick', 'Farmer']",2015-07-13,20,B,B,Stone Mountain,GA
+517,639,"['Chacarion', 'Avant']",2015-07-14,20,B,B,Mascotte,FL
+521,647,"['Edward', 'Foster', 'III']",2015-07-16,35,B,B,Homestead,FL
+526,642,"['Anthonie', 'Smith']",2015-07-16,25,B,B,Moreno Valley,CA
+529,657,"['Darrius', 'Stewart']",2015-07-17,19,B,B,Memphis,TN
+531,651,"['Albert', 'Joseph', 'Davis']",2015-07-17,23,B,B,Orlando,FL
+535,653,"['Samuel', 'DuBose']",2015-07-19,43,B,B,Mt. Auburn,OH
+542,669,"['Devon', 'Guisherd']",2015-07-22,27,B,B,Philadelphia,PA
+543,667,"['Andre', 'Dontrell', 'Williams']",2015-07-22,26,B,B,Oklahoma City,OK
+544,668,"['Dontae', 'L.', 'Martin']",2015-07-23,34,B,B,Dayton,OH
+553,678,"['Bryan', 'Keith', 'Day']",2015-07-25,36,B,B,Las Vegas,NV
+554,685,"['Earl', 'Jackson']",2015-07-25,59,B,B,Micanopy,FL
+555,679,"['Khari', 'Westly']",2015-07-26,33,B,B,Shreveport,LA
+572,697,"['Antonio', 'Clements']",2015-08-03,49,B,B,Oakland,CA
+577,702,"['Darius', 'D.', 'Graves']",2015-08-04,31,B,B,Rantoul,IL
+580,705,"['Raymond', 'Hodge']",2015-08-05,39,B,B,Maui,HI
+581,706,"['Keshawn', 'Dominique', 'Hargrove']",2015-08-05,20,B,B,Richmond,VA
+585,737,"['Charles', 'Bertram']",2015-08-06,22,B,B,El Paso,TX
+586,711,"['Christian', 'Taylor']",2015-08-07,19,B,B,Arlington,TX
+590,720,"['Tsombe', 'Clark']",2015-08-07,25,B,B,Greenville,NC
+591,721,"['Derrick', 'Lee', 'Hunt']",2015-08-07,28,B,B,Long Beach,CA
+592,716,"['Roderick', 'Burr']",2015-08-08,33,B,B,Brookshire,TX
+593,719,"['Shamir', 'Terrel', 'Palmer']",2015-08-08,24,B,B,Summerville,SC
+596,715,"['Andre', 'Green']",2015-08-09,15,B,B,Indianapolis,IN
+604,731,"['Nathaniel', 'Wilks']",2015-08-12,27,B,B,Oakland,CA
+606,735,"['Reginald', 'Marshall']",2015-08-12,27,B,B,Toledo,OH
+608,732,"['Redel', 'Jones']",2015-08-12,30,B,B,Los Angeles,CA
+609,738,"['Garland', 'Tyree']",2015-08-14,38,B,B,Staten Island,NY
+611,740,"['Asshams', 'Pharoah', 'Manley']",2015-08-14,30,B,B,District Heights,MD
+613,742,"['Allen', 'Matthew', 'Baker']",2015-08-15,23,B,B,Sunnyvale,CA
+614,743,"['Benjamin', 'Peter', 'Ashley']",2015-08-15,34,B,B,Inyokern,CA
+619,748,"['Frederick', 'Roy']",2015-08-17,35,B,B,Houston,TX
+621,751,"['Mansur', 'Ball-Bey']",2015-08-19,18,B,B,St. Louis,MO
+622,752,"['Deviere', 'Ernel', 'Ransom']",2015-08-19,24,B,B,Bloomfield Township,MI
+635,763,"['Thaddeus', 'Faison']",2015-08-22,39,B,B,Troy,NY
+640,772,"['Bobby', 'Troledge', 'Norris']",2015-08-23,53,B,B,Archdale,NC
+642,773,"['Curtis', 'Smith']",2015-08-25,34,B,B,West Chester,PA
+649,782,"['Yonas', 'Alehegne']",2015-08-27,30,B,B,Oakland,CA
+652,781,"['Bertrand', 'Davis']",2015-08-27,42,B,B,Dallas,TX
+655,788,"['Felix', 'Kumi']",2015-08-28,61,B,B,Mount Vernon,NY
+657,787,"['James', 'Marcus', 'Brown']",2015-08-29,25,B,B,North Las Vegas,NV
+663,794,"['Cedric', 'Maurice', 'Williams']",2015-09-01,33,B,B,Bluefield,WV
+673,805,"[""La'vante"", 'Trevon', 'Biggs']",2015-09-05,21,B,B,Durham,NC
+675,807,"['Angelo', 'Delano', 'Perry']",2015-09-05,35,B,B,Virginia Beach,VA
+676,808,"['India', 'Kager']",2015-09-05,27,B,B,Virginia Beach,VA
+678,810,"['Mohamed', 'Ibrahim']",2015-09-06,28,B,B,Shreveport,LA
+683,815,"['Tyrone', 'Holman']",2015-09-09,37,B,B,Kansas City,MO
+688,819,"['Brandon', 'Foy']",2015-09-10,29,B,B,Indianapolis,IN
+696,825,"['Clifford', 'Butler']",2015-09-13,67,B,B,McAlester,OK
+698,828,"['Joseph', 'Thompson', 'Johnson-Shanks']",2015-09-14,25,B,B,Princeton,KY
+700,830,"['Tyrone', 'Bass']",2015-09-15,21,B,B,Chalmette,LA
+704,837,"['Bobby', 'R.', 'Anderson']",2015-09-15,27,B,B,Alexandria,LA
+720,853,"['Dante', 'Osborne']",2015-09-22,32,B,B,Oakland,CA
+726,859,"['Keith', 'Harrison', 'McLeod']",2015-09-23,19,B,B,Reisterstown,MD
+728,862,"['Jeremy', 'McDole']",2015-09-23,28,B,B,Wilmington,DE
+734,867,"['James', 'Anderson']",2015-09-25,33,B,B,Chicago,IL
+735,869,"['Anthony', 'McKinney']",2015-09-26,46,B,B,Baton Rouge,LA
+741,872,"['Junior', 'Prosper']",2015-09-28,31,B,B,Miami,FL
+744,876,"['Brandon', 'Lamar', 'Johnson']",2015-09-30,28,B,B,Beckley,WV
+751,891,"['Jeffery', 'McCallum']",2015-10-04,31,B,B,Chicago,IL
+755,957,"['Charles', 'A.', 'Pettit']",2015-10-05,18,B,B,Midwest City,OK
+758,898,"['Gary', 'Carmona', 'Boitano']",2015-10-09,19,B,B,Columbia,MD
+767,901,"['Bernard', 'Brandon', 'Powers']",2015-10-11,23,B,B,Taylors,SC
+775,918,"['Leslie', 'Portis']",2015-10-14,57,B,B,Monroeville,AL
+777,917,"['Kaleb', 'Alexander']",2015-10-15,25,B,B,Columbus,OH
+782,923,"['Martin', 'Ryans', 'Jr.']",2015-10-15,20,B,B,Houston,TX
+785,927,"['Ricky', 'Javenta', 'Ball']",2015-10-16,33,B,B,Columbus,MS
+788,930,"['Dequan', 'Williams']",2015-10-17,28,B,B,York,PA
+789,931,"['Corey', 'Jones']",2015-10-18,31,B,B,Palm Beach Gardens,FL
+791,934,"['Dion', 'Lamont', 'Ramirez']",2015-10-19,53,B,B,Los Angeles,CA
+793,936,"['Lamontez', 'Jones']",2015-10-20,39,B,B,San Diego,CA
+800,943,"['Lawrence', 'Green']",2015-10-22,38,B,B,Shreveport,LA
+801,945,"['Adriene', 'Jamarr', 'Ludd']",2015-10-22,36,B,B,Carmichael,CA
+804,948,"['Rolly', 'Thomas']",2015-10-24,34,B,B,Cape Coral,FL
+805,950,"['Dominic', 'Hutchinson']",2015-10-24,30,B,B,Cathedral City,CA
+811,954,"['Kevin', 'Brunson']",2015-10-26,45,B,B,Frederick,MD
+812,955,"['Marquesha', 'McMillan']",2015-10-26,21,B,B,Washington,DC
+814,960,"['Tyrie', 'Cuyler']",2015-10-27,25,B,B,Savannah,GA
+815,958,"['Anthony', 'Ashford']",2015-10-28,29,B,B,Point Loma,CA
+817,961,"['Jerry', 'Michael', 'Graham', 'Jr.']",2015-10-28,34,B,B,Jacksonville,FL
+823,968,"['Tony', 'Berry']",2015-10-30,25,B,B,Houston,TX
+825,2867,"['Brian', 'Crawford']",2015-10-30,24,B,B,Houston,TX
+828,970,"['Bennie', 'Lee', 'Tignor']",2015-10-31,56,B,B,Opelika,AL
+832,975,"['James', 'Covington']",2015-11-02,62,B,B,Washington,DC
+835,978,"['John', 'Allen']",2015-11-04,57,B,B,Houston,TX
+845,989,"['Delvin', 'Simmons']",2015-11-09,20,B,B,Spartanburg,SC
+857,1000,"['Ryan', 'Quinn', 'Martin']",2015-11-11,32,B,B,Baltimore,MD
+858,1002,"['Moises', 'Nero']",2015-11-12,42,B,B,Sunnyvale,CA
+863,1003,"['Richard', 'Perkins']",2015-11-15,39,B,B,Oakland,CA
+864,1009,"['Shane', 'Whitehead']",2015-11-15,16,B,B,Germantown,PA
+865,1012,"['Jamar', 'Clark']",2015-11-15,24,B,B,Minneapolis,MN
+869,1010,"['Yohans', 'Leon']",2015-11-17,28,B,B,Miami,FL
+870,1011,"['Demetrius', 'Bryant']",2015-11-17,21,B,B,Cayce,SC
+871,1015,"['Jeray', 'Chatham']",2015-11-17,30,B,B,Weatherford,TX
+875,1017,"['Cornelius', 'Brown']",2015-11-18,25,B,B,Opa-Locka,FL
+876,1019,"['Marcus', 'Meridy']",2015-11-18,44,B,B,Benton Township,MI
+877,1020,"['Randy', 'Allen', 'Smith']",2015-11-19,34,B,B,Manatee,FL
+878,1021,"['Steve', 'Dormil']",2015-11-19,27,B,B,Fort Pierce,FL
+879,1022,"['Darick', 'Napper']",2015-11-19,34,B,B,Washington,DC
+880,1023,"['Nathaniel', 'Harris', 'Pickett']",2015-11-20,29,B,B,Barstow,CA
+904,1044,"['Darius', 'Smith']",2015-11-30,18,B,B,Atlanta,GA
+911,1052,"['Mario', 'Woods']",2015-12-02,26,B,B,San Francisco,CA
+915,1057,"['Raymone', 'M.', 'Davis']",2015-12-04,21,B,B,Mount Washington,PA
+923,1064,"['Carlumandarlo', 'Zaramo']",2015-12-06,46,B,B,Richmond Heights,OH
+925,1067,"['Miguel', 'Espinal']",2015-12-08,36,B,B,Yonkers,NY
+926,1068,"['Derek', 'Stokes']",2015-12-08,33,B,B,Cleveland,OH
+930,1072,"['Charles', 'Edward', 'Rosemond']",2015-12-10,55,B,B,Taylors,SC
+934,1076,"['Christopher', 'Goodlow']",2015-12-12,25,B,B,Indianapolis,IN
+935,1078,"['Javario', 'Shante', 'Eagle']",2015-12-12,24,B,B,Chattanooga,TN
+936,1079,"['Nicholas', 'Robertson']",2015-12-12,28,B,B,Lynwood,CA
+945,1085,"['Calvin', 'McKinnis']",2015-12-14,33,B,B,New Orleans,LA
+953,1096,"['Ronnie', 'Dubose', 'Carter']",2015-12-15,51,B,B,Dallas,NC
+961,1106,"['Leroy', 'Browning']",2015-12-20,30,B,B,Palmdale,CA
+964,1109,"['Bobby', 'Daniels']",2015-12-21,48,B,B,Douglasville,GA
+968,1113,"['Chan', 'Leith']",2015-12-21,25,B,B,Aurora,CO
+974,1118,"['Kevin', 'Matthews']",2015-12-23,35,B,B,Dearborn,MI
+977,1126,"['Terrozza', 'Tyree', 'Griffin']",2015-12-24,24,B,B,Lansing,MI
+979,2158,"['Daquan', 'Antonio', 'Westbrook']",2015-12-24,18,B,B,Charlotte,NC
+982,1123,"['Bettie', 'Jones']",2015-12-26,55,B,B,Chicago,IL
+983,1124,"['Quintonio', 'LeGrier']",2015-12-26,19,B,B,Chicago,IL
+993,1137,"['Keith', 'Childress']",2015-12-31,23,B,B,Las Vegas,NV
+998,1140,"['Germonta', 'Wallace']",2016-01-03,30,B,B,Charlotte,NC
+999,1142,"['Eric', 'John', 'Senegal']",2016-01-04,27,B,B,Ragley,LA
+1000,1144,"['Rodney', 'Turner']",2016-01-04,22,B,B,Oklahoma City,OK
+1003,1147,"['Carlton', 'Antonio', 'Murphy']",2016-01-05,33,B,B,Charlotte,NC
+1025,1196,"['Rakeem', 'Bentley']",2016-01-15,24,B,B,Southfield,MI
+1031,1181,"['Henry', 'Bennett']",2016-01-16,19,B,B,Belle Glade,FL
+1032,1170,"['Crayton', 'West']",2016-01-17,52,B,B,St. Louis,MO
+1045,1191,"['Timothy', 'Albert']",2016-01-20,40,B,B,Port Barre,LA
+1048,1201,"['Cedric', 'Norris']",2016-01-21,39,B,B,Eufaula,OK
+1053,1205,"['Johnathan', 'Bratcher']",2016-01-27,32,B,B,Memphis,TN
+1057,1209,"['Janet', 'Wilson']",2016-01-27,31,B,B,Dearborn,MI
+1062,1215,"['Christopher', 'Kalonji']",2016-01-28,19,B,B,Clackamas County,OR
+1063,1216,"['Randolph', 'McClain']",2016-01-29,33,B,B,Lynn,MA
+1064,1218,"['Christopher', 'Michael', 'Dew']",2016-01-29,29,B,B,Irving,TX
+1066,1221,"['Charles', 'M.', 'Smith']",2016-01-30,29,B,B,Chicago,IL
+1073,1220,"['Bruce', 'Kelley']",2016-01-31,37,B,B,Wilkinsburg,PA
+1075,1219,"['Peter', 'John']",2016-02-01,36,B,B,Washington,DC
+1082,1237,"['Antronie', 'Scott']",2016-02-04,36,B,B,San Antonio,TX
+1091,1239,"['Marese', 'V.', 'Collins']",2016-02-07,23,B,B,Columbus,OH
+1094,1245,"['Shalamar', 'Longer']",2016-02-08,33,B,B,Chester,PA
+1095,1247,"['David', 'Joseph']",2016-02-08,17,B,B,Austin,TX
+1096,1252,"['Eric', 'Harris']",2016-02-08,22,B,B,New Orleans,LA
+1106,1263,"['Mohamed', 'Barry']",2016-02-11,30,B,B,Columbus,OH
+1107,6588,"['Jerand', 'Ross']",2016-02-11,24,B,B,Riverdale,GA
+1108,1262,"['Peter', 'Fanfan']",2016-02-12,29,B,B,Boston,MA
+1110,1276,"['Sahlah', 'Ridgeway']",2016-02-12,32,B,B,Syracuse,NY
+1111,1266,"['Calvin', 'Smith']",2016-02-13,22,B,B,Baton Rouge,LA
+1112,1270,"['Calin', 'Roquemore']",2016-02-13,24,B,B,Beckville,TX
+1113,1272,"['Dyzhawn', 'L.', 'Perkins']",2016-02-13,19,B,B,Arvonia,VA
+1114,1268,"['Ali', 'Eisa', 'Abdalla', 'Yahia']",2016-02-13,29,B,B,Urbandale,IA
+1123,1281,"['Paul', 'Gaston']",2016-02-17,37,B,B,Cincinnati,OH
+1132,1296,"['Marcos', 'Perea']",2016-02-20,41,B,B,Lakewood,WA
+1134,1289,"['Che', 'Taylor']",2016-02-21,46,B,B,Seattle,WA
+1136,1292,"['Kisha', 'Michael']",2016-02-21,31,B,B,Inglewood,CA
+1137,1293,"['Marquintan', 'Sandlin']",2016-02-21,32,B,B,Inglewood,CA
+1143,1306,"['Travis', 'Stevenson']",2016-02-23,48,B,B,Baton Rouge,LA
+1151,1318,"['Christopher', 'J.', 'Davis']",2016-02-24,21,B,B,East Troy,WI
+1153,1315,"['Greg', 'Gunn']",2016-02-25,56,B,B,Montgomery,AL
+1154,1320,"['Cedric', 'Ford']",2016-02-25,38,B,B,Hesston,KS
+1155,1322,"['Kionte', 'Desean', 'Spencer']",2016-02-26,18,B,B,Roanoke,VA
+1160,1327,"['Akiel', 'Denkins']",2016-02-29,24,B,B,Raleigh,NC
+1181,1351,"['Arteair', 'Porter', 'Jr.']",2016-03-10,22,B,B,Reno,NV
+1185,1350,"['Tyre', 'Privott']",2016-03-11,25,B,B,Norfolk,VA
+1190,1357,"['Peter', 'Gaines']",2016-03-12,37,B,B,Houston,TX
+1191,1365,"['Marco', 'Loud']",2016-03-12,20,B,B,Houston,TX
+1196,1361,"['Keith', 'Montgomery', 'Jr.']",2016-03-13,24,B,B,Chester,PA
+1198,1379,"['Jacai', 'Colson']",2016-03-13,28,B,B,Landover,MD
+1199,1364,"['Lamar', 'Harris']",2016-03-14,29,B,B,Chicago,IL
+1208,1376,"['Scott', 'Bennett']",2016-03-17,29,B,B,Houston,TX
+1209,1377,"['Christopher', 'Nelms']",2016-03-17,30,B,B,Houston,TX
+1212,1382,"['India', 'Beaty']",2016-03-19,25,B,B,Norfolk,VA
+1214,1388,"['Thurman', 'Reynolds']",2016-03-19,21,B,B,Chicago,IL
+1219,1394,"['Robert', 'Dentmond']",2016-03-20,16,B,B,Gainesville,FL
+1227,1403,"['Alexio', 'Allen']",2016-03-23,30,B,B,Raleigh,TN
+1229,1405,"['Dominique', 'Silva']",2016-03-24,24,B,B,Pawtucket,RI
+1233,1415,"['Jermon', 'Seals']",2016-03-24,22,B,B,Blue Springs,MO
+1241,1418,"['Deriante', 'Deon', 'Miller']",2016-03-27,18,B,B,Kinston,NC
+1249,1424,"['Kimani', 'Johnson']",2016-03-31,18,B,B,Baltimore,MD
+1250,1425,"['Matthew', 'Vincent', 'Wood']",2016-03-31,43,B,B,Baltimore,MD
+1251,1426,"['James', 'Brown', 'III']",2016-03-31,34,B,B,Richmond,VA
+1252,1846,"['James', 'Craig', 'Simpson']",2016-03-31,31,B,B,Las Vegas,NV
+1255,1432,"['Cameron', 'Gover']",2016-04-02,30,B,B,Indianapolis,IN
+1262,1438,"['Kevin', 'Hicks']",2016-04-05,44,B,B,Indianapolis,IN
+1264,1441,"['Laronda', 'Sweatt']",2016-04-06,40,B,B,Gallatin,TN
+1268,1444,"['Dazion', 'Flenaugh']",2016-04-08,40,B,B,Sacramento,CA
+1270,1448,"['Lamont', 'Gulley']",2016-04-08,43,B,B,Kentwood,MI
+1271,1447,"['Diahlo', 'Grant']",2016-04-09,27,B,B,New Brunswick,NJ
+1272,1453,"['Quron', 'Williams']",2016-04-09,19,B,B,Philadelphia,PA
+1277,1455,"['Pierre', 'Loury']",2016-04-11,16,B,B,Chicago,IL
+1281,1459,"['Rodney', 'Watts']",2016-04-13,35,B,B,Stockton,CA
+1289,1464,"['Kisha', 'Arrone']",2016-04-17,35,B,B,Dayton,OH
+1291,1467,"['Richard', 'Bard', 'Jr.']",2016-04-17,31,B,B,Vineland,NJ
+1292,1470,"['George', 'Tillman']",2016-04-17,32,B,B,New York,NY
+1293,1472,"['Edson', 'Thevenin']",2016-04-17,37,B,B,Troy,NY
+1294,1475,"['Rico', 'Don', 'Rae', 'Johnson']",2016-04-18,28,B,B,Greenbelt,MD
+1295,1479,"['Demetrius', 'Dorsey']",2016-04-18,18,B,B,Mableton,GA
+1297,1477,"['Jorevis', 'Scruggs']",2016-04-19,15,B,B,St. Louis,MO
+1304,1483,"['Demarcus', 'Semer']",2016-04-23,21,B,B,Fort Pierce,FL
+1308,1527,"['Willie', 'Tillman']",2016-04-23,33,B,B,Fayetteville,AR
+1311,1491,"['Joshua', 'Brooks']",2016-04-26,26,B,B,Chesapeake,VA
+1317,1498,"['Kendar', 'del', 'Rosario']",2016-04-28,37,B,B,Miami,FL
+1319,1501,"['Ashtian', 'Barnes']",2016-04-28,24,B,B,Houston,TX
+1326,1502,"['Charlin', 'Charles']",2016-05-01,25,B,B,Orlando,FL
+1328,1842,"['Reginald', 'Darnell', 'Dogan']",2016-05-02,52,B,B,Greenville,SC
+1332,1512,"['Matthew', 'Tucker']",2016-05-04,18,B,B,Temecula,CA
+1335,1517,"['Burt', 'Johnson']",2016-05-05,38,B,B,Milwaukee,WI
+1336,1518,"['Deresha', 'Armstrong']",2016-05-05,26,B,B,Orlando,FL
+1339,1525,"['Alton', 'Fitzgerald', 'Witchard']",2016-05-07,37,B,B,St. Petersburg,FL
+1341,1522,"['Lionel', 'Gibson']",2016-05-08,21,B,B,Long Beach,CA
+1342,1520,"['Jaffort', 'Smith']",2016-05-09,33,B,B,St. Paul,MN
+1347,1844,"['Arthur', 'R.', 'Williams']",2016-05-09,33,B,B,El Paso,TX
+1348,1532,"['Arthur', 'DaRosa']",2016-05-10,28,B,B,Taunton,MA
+1351,1534,"['Sean', 'Ryan', 'Mondragon']",2016-05-11,24,B,B,Greeley,CO
+1359,1542,"['Jabril', 'Robinson']",2016-05-16,23,B,B,Riverdale,GA
+1365,1548,"['Jessica', 'Nelson-Williams']",2016-05-19,29,B,B,San Francisco,CA
+1368,1551,"['Kentrill', 'William', 'Carraway']",2016-05-19,22,B,B,Miami,FL
+1369,1559,"['Joshua', 'Beebee']",2016-05-20,31,B,B,Omaha,NE
+1373,1554,"['Michael', 'Eugene', 'Wilson', 'Jr.']",2016-05-22,27,B,B,Hallandale Beach,FL
+1375,1562,"['Vernell', 'Bing']",2016-05-22,22,B,B,Jacksonville,FL
+1382,1566,"['Doll', 'Pierre-Louis']",2016-05-25,24,B,B,Miami Gardens,FL
+1386,1571,"['Devonte', 'Gates']",2016-05-26,21,B,B,Washington Park,IL
+1391,1576,"['Dennis', 'Hudson']",2016-05-28,50,B,B,Eastaboga,AL
+1398,1575,"['Osee', 'Calix']",2016-05-30,33,B,B,Tucson,AZ
+1401,1586,"['Michael', 'Johnson']",2016-06-01,21,B,B,Newnan,GA
+1403,1588,"['Willie', 'Demetrius', 'James']",2016-06-02,43,B,B,Norfolk,VA
+1404,1589,"['Rodney', 'Rodriguez', 'Smith']",2016-06-02,18,B,B,Charlotte,NC
+1408,1594,"['Demarco', 'Rhymes']",2016-06-04,35,B,B,Eufaula,AL
+1411,1595,"['Henry', 'Green']",2016-06-06,23,B,B,Columbus,OH
+1415,1601,"['Willis', 'N.', 'Walker']",2016-06-07,49,B,B,Norman,VA
+1420,1606,"['John', 'Michael', 'Brisco']",2016-06-09,52,B,B,Port Arthur,TX
+1426,1838,"['Keith', 'Bursey']",2016-06-10,31,B,B,Los Angeles,CA
+1427,1612,"['Lyndarius', 'Cortez', 'Witherspoon']",2016-06-11,27,B,B,Tupelo,MS
+1431,1617,"['John', 'Williams']",2016-06-12,61,B,B,Hiseville,KY
+1433,1620,"['Michael', 'Moore']",2016-06-13,18,B,B,Mobile,AL
+1448,1637,"['Antwun', 'Shumpert']",2016-06-18,37,B,B,Tupelo,MS
+1449,1631,"['Rashaun', 'Lloyd']",2016-06-19,25,B,B,New York,NY
+1451,1632,"['Raufeal', 'M.', 'Bostick']",2016-06-20,23,B,B,Hardeeville,SC
+1457,1644,"['Isaiah', 'Core']",2016-06-22,20,B,B,Birmingham,AL
+1459,1646,"['Quencezola', 'Maurice', 'Splunge']",2016-06-22,44,B,B,Walls,MS
+1460,1647,"['Deravis', 'Caine', 'Rogers']",2016-06-22,22,B,B,Atlanta,GA
+1462,1648,"['Jay', 'Anderson']",2016-06-23,25,B,B,Wauwatosa,WI
+1465,1650,"['Ismael', 'Miranda']",2016-06-24,36,B,B,Paterson,NJ
+1475,1659,"['Germichael', 'Kennedy']",2016-06-26,22,B,B,Lincoln,NE
+1476,1663,"['Donte', 'L.', 'Johnson']",2016-06-26,30,B,B,Dolton,IL
+1478,1666,"['Sherman', 'Evans']",2016-06-27,63,B,B,Washington,DC
+1486,1674,"['Lafayette', 'Evans']",2016-06-29,37,B,B,Fort Madison,IA
+1488,1676,"['Kawme', 'Dejuan', 'Patrick']",2016-06-30,25,B,B,Columbus,OH
+1494,1682,"['Jai', 'Lateef', 'Solveig', 'Williams']",2016-07-02,35,B,B,Asheville,NC
+1501,1683,"['Sidney', 'Washington']",2016-07-04,21,B,B,Washington,DC
+1506,1680,"['Alton', 'Sterling']",2016-07-05,37,B,B,Baton Rouge,LA
+1507,1694,"['Philando', 'Castile']",2016-07-06,32,B,B,Falcon Heights,MN
+1511,1699,"['Earnest', 'Fells']",2016-07-07,63,B,B,Selma,AL
+1513,1701,"['Andre', 'Johnson']",2016-07-09,40,B,B,Broken Bow,OK
+1514,1702,"['Alva', 'Burnett', 'Braziel']",2016-07-10,38,B,B,Houston,TX
+1515,1703,"['Joseph', 'Mann']",2016-07-11,50,B,B,Sacramento,CA
+1516,1704,"['Jason', 'Brooks']",2016-07-11,41,B,B,East St. Louis,IL
+1518,1706,"['Orville', 'Edwards']",2016-07-11,39,B,B,New York,NY
+1523,1710,"['Dayten', 'Ernest', 'Harper']",2016-07-14,33,B,B,Baltimore,MD
+1529,1717,"['Jermaine', 'Johnson']",2016-07-17,42,B,B,New York,NY
+1530,1718,"['Gavin', 'Eugene', 'Long']",2016-07-17,29,B,B,Baton Rouge,LA
+1534,1723,"['Derek', 'Love']",2016-07-21,50,B,B,Chicago,IL
+1537,1726,"['Austin', 'Jerry', 'Lee', 'Howard']",2016-07-23,49,B,B,Milwaukee,WI
+1538,1727,"['Bernard', 'Wells']",2016-07-23,31,B,B,Chino,CA
+1542,1731,"['Jeff', 'Cornell', 'Tyson']",2016-07-25,32,B,B,Indianapolis,IN
+1543,1732,"['Richard', 'Risher']",2016-07-25,18,B,B,Los Angeles,CA
+1546,1735,"['Devon', 'Martes']",2016-07-27,17,B,B,Metairie,LA
+1547,1736,"['Dalvin', 'Hollins']",2016-07-27,19,B,B,Tempe,AZ
+1553,1741,"['Jeffrey', 'Smith']",2016-07-28,47,B,B,La Quinta,CA
+1554,1742,"['Paul', ""O'Neal""]",2016-07-28,18,B,B,Chicago,IL
+1556,1744,"['Donnell', 'Thompson']",2016-07-28,27,B,B,Compton,CA
+1563,1750,"['Korryn', 'Gaines']",2016-08-01,23,B,B,Randallstown,MD
+1569,1758,"['DeMarco', 'Newman']",2016-08-02,43,B,B,Palm Bay,FL
+1576,1767,"['Jamarion', 'Rashad', 'Robinson']",2016-08-05,26,B,B,East Point,GA
+1579,1763,"['Jawari', 'Porter']",2016-08-07,25,B,B,Cincinnati,OH
+1580,1764,"['Earl', 'Pinckney']",2016-08-07,20,B,B,Harrisburg,PA
+1581,1766,"['Darnell', 'Wicker']",2016-08-08,57,B,B,Louisville,KY
+1594,1780,"['Sylville', 'Smith']",2016-08-13,23,B,B,Milwaukee,WI
+1603,1791,"['Colby', 'Friday']",2016-08-16,30,B,B,Stockton,CA
+1605,1795,"['Kenney', 'Watkins']",2016-08-16,18,B,B,Los Angeles,CA
+1607,1793,"['Omer', 'Ismail', 'Ali']",2016-08-17,27,B,B,Kelso,WA
+1622,1802,"['Kelley', 'Brandon', 'Forte']",2016-08-22,34,B,B,Hamilton,OH
+1627,1816,"['Donta', 'Taylor']",2016-08-25,31,B,B,Compton,CA
+1635,1823,"['Jaqwan', 'Julius', 'Terry']",2016-08-29,24,B,B,Raleigh,NC
+1639,1827,"['Levonia', 'Riggins']",2016-08-30,22,B,B,Tampa,FL
+1652,1856,"['Michael', 'Thompson']",2016-09-02,38,B,B,St. Louis,MO
+1653,1854,"['Jerome', 'Damon']",2016-09-03,25,B,B,Atlantic City,NJ
+1659,1851,"['Moses', 'Ruben']",2016-09-05,36,B,B,Ellis County,TX
+1666,1867,"['Robert', 'Lee', 'Brown']",2016-09-07,55,B,B,Albany,GA
+1668,1871,"['Sadiq', 'Bishara-Abaker', 'Idris']",2016-09-07,25,B,B,Wyoming,MI
+1673,1879,"['Gregory', 'Frazier']",2016-09-09,55,B,B,Pompano Beach,FL
+1676,1875,"['Terrence', 'Sterling']",2016-09-11,31,B,B,Washington,DC
+1678,1881,"['Markell', 'Bivins']",2016-09-12,25,B,B,Cedar Rapids,IA
+1680,1883,"['Tyre', 'King']",2016-09-14,13,B,B,Columbus,OH
+1687,1888,"['Terence', 'Crutcher']",2016-09-16,40,B,B,Tulsa,OK
+1689,1894,"['Nicholas', 'Glenn']",2016-09-17,25,B,B,Philadelphia,PA
+1693,1891,"['Philip', 'Hasan']",2016-09-18,61,B,B,Akron,OH
+1699,1904,"['Keith', 'Lamont', 'Scott']",2016-09-20,43,B,B,Charlotte,NC
+1704,1914,"['Oddis', 'Bernard', 'Colvin']",2016-09-23,33,B,B,Pikesville,MD
+1711,1918,"['Alfred', 'Olango']",2016-09-27,38,B,B,El Cajon,CA
+1713,1919,"['Christopher', 'Sowell']",2016-09-28,32,B,B,Philadelphia,PA
+1717,1927,"['George', 'Richards-Meyers']",2016-09-30,18,B,B,Newark,NJ
+1718,1928,"['Douglas', 'Marrickus', 'Rainey']",2016-09-30,32,B,B,Campobello,SC
+1720,1930,"['Najier', 'Salaam']",2016-09-30,18,B,B,Newark,NJ
+1721,1931,"['Jacquarius', 'M.', 'Robinson']",2016-09-30,20,B,B,Columbus,OH
+1723,1925,"['Carnell', 'Snell']",2016-10-01,18,B,B,Los Angeles,CA
+1725,1924,"['Donte', 'T.', 'Jones']",2016-10-02,36,B,B,Markham,IL
+1733,1944,"['Larry', 'Daniel', 'Matthews']",2016-10-07,57,B,B,Macon,GA
+1742,1943,"['Deric', 'J.', 'Brown']",2016-10-09,41,B,B,Syracuse,NY
+1751,1960,"['Kirk', 'Figueroa']",2016-10-12,33,B,B,Boston,MA
+1765,1972,"['Darius', 'Wimberly']",2016-10-18,28,B,B,Benton Harbor,MI
+1766,1975,"['Deborah', 'Danner']",2016-10-18,66,B,B,Bronx,NY
+1779,1987,"['Demetrius', 'Mac', 'Moore']",2016-10-23,40,B,B,Colorado Springs,CO
+1780,1989,"['Aaron', 'Marquis', 'Ballard']",2016-10-24,19,B,B,North St. Louis,MO
+1781,1990,"['Roy', 'Lee', 'Richards']",2016-10-25,46,B,B,Little Rock,AR
+1785,1994,"['Malcolm', 'Loren', 'Hickson']",2016-10-26,25,B,B,Carrollton,TX
+1788,1997,"['Thad', 'Demarco', 'Hale']",2016-10-27,33,B,B,San Antonio,TX
+1791,2001,"['Jason', 'King']",2016-10-28,38,B,B,Sacramento,CA
+1793,1999,"['Terrence', 'Coleman']",2016-10-30,31,B,B,Boston,MA
+1797,2006,"['Michelle', 'Lee', 'Shirley']",2016-10-31,39,B,B,Torrance,CA
+1803,2011,"['Ferguson', 'Laurent']",2016-11-03,23,B,B,Salisbury,NC
+1819,2026,"['Darryl', 'Chisholm']",2016-11-07,31,B,B,Philadelphia,PA
+1837,2048,"['Rasheem', 'Singletary']",2016-11-15,25,B,B,York County,PA
+1841,2057,"['Dontrell', 'Montrese', 'Carter']",2016-11-18,25,B,B,Ludowici,GA
+1842,2059,"['Darius', 'Jones']",2016-11-18,26,B,B,Chicago,IL
+1844,2056,"['Samson', 'Fleurant']",2016-11-18,25,B,B,Port St. Lucie,FL
+1848,2062,"['Erickson', 'Brito']",2016-11-19,21,B,B,Brooklyn,NY
+1852,2060,"['George', 'Bush', 'III']",2016-11-21,19,B,B,St. Louis,MO
+1855,2066,"['Ivory', 'C.', 'Pantallion']",2016-11-22,36,B,B,Baytown,TX
+1856,2067,"['Frank', 'Nathaniel', 'Clark']",2016-11-22,34,B,B,Durham,NC
+1857,2068,"['Talif', 'Scudder']",2016-11-22,23,B,B,Newark,NJ
+1859,2073,"['Kajuan', 'Raye']",2016-11-23,19,B,B,Chicago,IL
+1861,2071,"['Cleotha', 'Mitchell']",2016-11-25,37,B,B,Chicago,IL
+1862,2078,"['Jerome', 'Chris', 'Harmon']",2016-11-25,23,B,B,Hattiesburg,MS
+1866,2081,"['Richard', 'Grimes']",2016-11-27,33,B,B,Chicago,IL
+1867,2082,"['Terrell', 'Walker']",2016-11-27,48,B,B,Baton Rouge,LA
+1871,2086,"['Irecas', 'Valentine']",2016-11-28,41,B,B,Hickory,NC
+1876,2092,"['David', 'K.', 'Crosby-Dowdy']",2016-11-30,25,B,B,Kansas City,MO
+1877,2091,"['Bruce', 'Randall', '""Zeus""', 'Johnson']",2016-12-01,38,B,B,Tacoma,WA
+1885,2101,"['Norman', 'Gary']",2016-12-04,29,B,B,Elkhart,IN
+1890,2109,"['Redrick', 'Jevon', 'Batiste']",2016-12-07,37,B,B,Houston,TX
+1893,2107,"['Mark', 'Anthony', 'Hicks']",2016-12-07,31,B,B,Fayetteville,NC
+1898,2113,"['Waltki', 'Williams']",2016-12-10,35,B,B,Sumter,SC
+1907,2125,"['Kenneth', 'Robledo']",2016-12-12,28,B,B,Philadelphia,PA
+1908,2126,"['Lavar', 'Montray', 'Douglas']",2016-12-13,18,B,B,Baltimore,MD
+1909,2128,"['Earl', 'Labon', 'Eubanks']",2016-12-13,32,B,B,Hampton,GA
+1915,2133,"['Ryan', 'Joseph']",2016-12-18,20,B,B,Los Angeles,CA
+1928,2157,"['Anthony', 'Lovell', 'Eddington']",2016-12-21,24,B,B,Coalinga,CA
+1929,2150,"['Terrence', 'Thomas']",2016-12-22,19,B,B,Capitol Heights,MD
+1936,2159,"['Gerald', 'Hall']",2016-12-25,29,B,B,Washington,DC
+1945,2173,"['James', 'L.', 'Rich']",2016-12-29,52,B,B,Chestertown,MD
+1946,2176,"['Jamal', 'Rollins']",2016-12-30,21,B,B,Miami,FL
+1953,2178,"['Trevon', 'Johnson']",2017-01-01,17,B,B,Villa Park,IL
+1956,2187,"['Mark', 'Guirguis']",2017-01-01,21,B,B,Allen,TX
+1957,2180,"['James', 'E.', 'Lewis']",2017-01-01,44,B,B,Springfield,MO
+1959,2189,"['James', 'Owens']",2017-01-03,63,B,B,Brooklyn,NY
+1961,2191,"['Ruben', 'Randolph']",2017-01-04,51,B,B,Pomona,CA
+1974,2205,"['JR', 'Williams']",2017-01-09,38,B,B,Phoenix,AZ
+1975,2206,"['Davion', 'Henderson']",2017-01-09,21,B,B,St. Louis,MO
+1977,2223,"['Darrion', 'Barnhill']",2017-01-10,23,B,B,Reagan,TN
+1986,2222,"['Jahlire', 'Nicholson']",2017-01-14,28,B,B,New York,NY
+1988,2219,"['Herbert', 'Johnson']",2017-01-15,34,B,B,Chicago,IL
+1999,2243,"['Marquis', 'Thomas']",2017-01-18,19,B,B,Gary,IN
+2006,2237,"['Ronnie', 'Lee', 'Shorter']",2017-01-21,44,B,B,Greenville,MS
+2009,2234,"['Christopher', 'Thompkins']",2017-01-22,57,B,B,Pittsburgh,PA
+2015,2253,"['Armond', 'Brown']",2017-01-23,25,B,B,Kenner,LA
+2018,2254,"['Arties', 'Manning']",2017-01-24,26,B,B,New Orleans,LA
+2025,2261,"['Kevin', 'Darnell', 'Washington']",2017-01-25,54,B,B,Southaven,MS
+2029,2267,"['Deaundre', 'Phillips']",2017-01-26,24,B,B,Atlanta,GA
+2033,2274,"[""Mi'Chance"", 'Dunlap-Gittens']",2017-01-28,17,B,B,Des Moines,WA
+2038,2269,"['Marvin', 'Washington']",2017-01-30,50,B,B,Kiowa,OK
+2043,2280,"['Tavis', 'Crane']",2017-02-01,23,B,B,Arlington,TX
+2044,2301,"['Michael', 'Russo']",2017-02-01,31,B,B,Highland,CA
+2051,2294,"['Jamake', 'Cason', 'Thomas']",2017-02-03,22,B,B,Rowland,NC
+2055,2288,"['Johnnie', 'J.', 'Harris']",2017-02-04,68,B,B,Kansas City,MO
+2058,2283,"['Nana', 'Adomako']",2017-02-05,45,B,B,Fremont,CA
+2059,2286,"['Shelly', 'Porter']",2017-02-05,41,B,B,Englewood,OH
+2061,2305,"['Jerome', 'Allen']",2017-02-06,22,B,B,Jacksonville,FL
+2062,2306,"['Cole', 'Wooley']",2017-02-06,50,B,B,Commerce City,CO
+2065,2310,"['Curtis', 'Jamal', 'Deal']",2017-02-07,18,B,B,Baltimore,MD
+2071,2343,"['Chad', 'Robertson']",2017-02-08,25,B,B,Chicago,IL
+2072,2316,"['Quanice', 'Derrick', 'Hayes']",2017-02-09,17,B,B,Portland,OR
+2077,2322,"['Jocques', 'Scott', 'Clemmons']",2017-02-10,31,B,B,Nashville,TN
+2081,2331,"['Carlos', 'Keith', 'Blackman']",2017-02-10,25,B,B,Greensboro,NC
+2082,2332,"['Darryl', 'L.', 'Fuqua']",2017-02-10,23,B,B,Bridgeton,NJ
+2086,2321,"['Alonzo', 'E.', 'Ashley']",2017-02-11,27,B,B,Kansas City,MO
+2089,2329,"['Willard', 'Eugene', 'Scott']",2017-02-12,31,B,B,Durham,NC
+2093,2337,"['Raynard', 'Burton']",2017-02-13,19,B,B,Detroit,MI
+2097,2342,"['Kenneth', 'Lee', 'Bailey']",2017-02-15,24,B,B,Durham,NC
+2100,2346,"['Kadeem', 'Torres']",2017-02-16,17,B,B,Brooklyn,NY
+2102,2350,"['Jimmy', 'Briggs']",2017-02-16,21,B,B,Gardena,CA
+2106,2363,"['Jean', 'R.', 'Valescot']",2017-02-17,35,B,B,Big Lake,AK
+2108,2351,"['Chance', 'David', 'Baker']",2017-02-18,22,B,B,Portland,ME
+2109,2352,"['Keo', 'Crockett']",2017-02-18,46,B,B,Efland,NC
+2110,2356,"['Christopher', 'Carter']",2017-02-19,27,B,B,Kent,OH
+2117,2365,"['Don', 'Clark']",2017-02-21,63,B,B,St. Louis,MO
+2121,2369,"['Medger', 'Blake']",2017-02-22,41,B,B,Conroe,TX
+2123,2372,"['Morgan', 'London', 'Rankins']",2017-02-22,30,B,B,Austin,TX
+2128,2377,"['Timothy', 'Lionel', 'Williams']",2017-02-23,47,B,B,Washington,DC
+2132,2383,"['Lorenzo', 'Antoine', 'Cruz']",2017-02-25,23,B,B,Rocklin,CA
+2140,2393,"['Earl', 'Riley']",2017-02-28,25,B,B,Houston,TX
+2141,2394,"['Christopher', 'Redding']",2017-02-28,20,B,B,Orlando,FL
+2143,2392,"['Epthen', 'Lamont', 'Johnson']",2017-03-01,40,B,B,Lufkin,TX
+2156,2406,"['Dennis', 'Todd', 'Rogers']",2017-03-07,41,B,B,Ladera Heights,CA
+2164,2447,"['Brandon', 'Wiley']",2017-03-11,30,B,B,East Baton Rouge,LA
+2167,2416,"['Luke', 'O.', 'Stewart']",2017-03-13,23,B,B,Euclid,OH
+2169,2421,"['Rashad', 'Daquan', 'Opher']",2017-03-13,20,B,B,Woodlawn,MD
+2175,2418,"['Cordale', 'Quinn', 'Handy']",2017-03-15,29,B,B,St. Paul,MN
+2177,2429,"['Frederick', 'Ricardo', 'Brown']",2017-03-16,34,B,B,Warren,MI
+2178,2431,"['Jermaine', 'Claybrooks']",2017-03-16,32,B,B,Milwaukee,WI
+2180,2434,"['Rodney', 'James', 'Hess']",2017-03-16,36,B,B,Alamo,TN
+2181,2432,"['Patrick', 'Earl', 'Gatson']",2017-03-16,32,B,B,Fayetteville,NC
+2184,2440,"['Desmond', 'Phillips']",2017-03-17,25,B,B,Chico,CA
+2189,2442,"['Alteria', 'Woods']",2017-03-19,21,B,B,Gifford,FL
+2194,2450,"['Don', 'Johnson']",2017-03-22,27,B,B,Crowley,LA
+2196,2449,"['William', 'Stokes']",2017-03-23,51,B,B,Des Moines,WA
+2197,2451,"['Eddie', 'Davis']",2017-03-23,42,B,B,Sheridan,AR
+2199,2452,"['Reno', 'Joseph', 'Owens']",2017-03-24,39,B,B,Baltimore,MD
+2215,2470,"['Leroy', 'Brown']",2017-03-29,28,B,B,New Castle,DE
+2219,2475,"['Marcus', 'Williams']",2017-04-01,34,B,B,Cantonment,FL
+2227,2484,"['Christopher', 'Wade']",2017-04-06,39,B,B,Westerville,OH
+2230,2487,"['Richard', 'Xavier', 'Summers']",2017-04-06,49,B,B,Largo,FL
+2231,2488,"['Kenneth', 'Francis']",2017-04-06,37,B,B,Newark,NJ
+2238,2496,"['Zelalem', 'Eshetu', 'Ewnetu']",2017-04-12,28,B,B,Los Angeles,CA
+2245,2506,"['Olugbalah', 'Ridley']",2017-04-15,33,B,B,West Memphis,AR
+2252,2514,"['Keith', 'Price']",2017-04-19,21,B,B,Wilmington,DE
+2254,2515,"['Damarius', 'Butts']",2017-04-20,19,B,B,Seattle,WA
+2261,2522,"['William', 'D.', 'Spates']",2017-04-22,39,B,B,Portage,IN
+2265,2527,"['Kendell', 'Wilson']",2017-04-24,16,B,B,Houston,TX
+2267,2714,"['Daezion', 'Turner']",2017-04-24,15,B,B,Killeen,TX
+2268,2528,"['Hakim', 'McNair']",2017-04-25,23,B,B,Newark,NJ
+2271,2533,"['Gavin', 'Williams']",2017-04-25,27,B,B,Lizella,GA
+2274,2530,"['Selwyn', 'Aubrey', 'Hall']",2017-04-26,57,B,B,Jacksonville,FL
+2275,2535,"['Burgon', 'Sealy']",2017-04-27,26,B,B,Middletown,DE
+2277,2542,"['Avery', 'Richard']",2017-04-28,32,B,B,Atlanta,GA
+2279,2538,"['Jordan', 'Edwards']",2017-04-29,15,B,B,Balch Springs,TX
+2281,2543,"['Caleb', 'Jackson']",2017-04-29,35,B,B,Newport News,VA
+2285,2545,"['James', 'Edward', 'Ray']",2017-04-30,46,B,B,Detroit,MI
+2288,2549,"['Rodney', 'Henderson']",2017-05-02,48,B,B,Irving,TX
+2291,2554,"['Malik', 'Carey']",2017-05-03,18,B,B,Grand Rapids,MI
+2296,2558,"['Cedric', 'Jamal', 'Mifflin']",2017-05-07,27,B,B,Phenix City,AL
+2299,2562,"['Landon', 'Nobles']",2017-05-07,24,B,B,Austin,TX
+2300,2567,"['Mikel', 'Laney', 'McIntyre']",2017-05-08,32,B,B,Rancho Cordova,CA
+2303,2564,"['Terry', 'Percy', 'Campbell']",2017-05-09,25,B,B,Jacksonville,FL
+2308,2570,"['Terrell', 'Kyreem', 'Johnson']",2017-05-10,24,B,B,Portland,OR
+2309,2571,"['Robin', 'White']",2017-05-10,50,B,B,St. Louis,MO
+2315,2574,"['Ronald', 'Singletary']",2017-05-12,51,B,B,Philadelphia,PA
+2317,2580,"['Clarence', 'E.', 'Coats']",2017-05-13,41,B,B,Columbia,MO
+2320,2581,"['Jonie', 'Block']",2017-05-15,27,B,B,Phoenix,AZ
+2321,2582,"['Jaison', 'Fitzgerald']",2017-05-15,29,B,B,Richmond,VA
+2327,2587,"['Tristan', 'Long']",2017-05-16,25,B,B,Tempe,AZ
+2334,2594,"['Jimmie', 'Montel', 'Sanders']",2017-05-21,33,B,B,Appleton,WI
+2336,2596,"['Ricco', 'Devante', 'Holden']",2017-05-21,24,B,B,Converse,LA
+2352,2610,"['Shaquian', 'Tyrone', 'Johnson']",2017-05-28,22,B,B,Cary,NC
+2361,2624,"['Charles', 'Darnell', 'Baker']",2017-06-02,29,B,B,Abbeville,AL
+2362,2626,"['Marc', 'Brandon', 'Davis']",2017-06-02,34,B,B,Petal,MS
+2364,2628,"['Corsean', 'Lewis']",2017-06-02,17,B,B,Chicago,IL
+2370,2635,"['John', 'Spaulding']",2017-06-05,47,B,B,Miami,FL
+2372,2638,"['Adrian', 'Maurice', 'Hardeman']",2017-06-05,37,B,B,Gonzales County,TX
+2383,2648,"['David', 'Jones']",2017-06-08,30,B,B,Philadelphia,PA
+2386,2651,"['Joshua', 'Barre']",2017-06-09,29,B,B,Tulsa,OK
+2390,2661,"['Terry', 'Williams']",2017-06-11,19,B,B,Milwaukee,WI
+2397,2664,"['Jordan', 'Frazier']",2017-06-13,35,B,B,Baton Rouge,LA
+2398,2665,"['Chazz', 'Brown']",2017-06-13,33,B,B,St Louis,MO
+2410,2672,"['Charleena', 'Lyles']",2017-06-18,30,B,B,Seattle,WA
+2427,2703,"['Giovonn', 'Joseph-McDade']",2017-06-24,20,B,B,Kent,WA
+2428,2692,"['Lawrence', 'Heyward', 'Jr.']",2017-06-25,56,B,B,North Charleston,SC
+2429,2695,"['Deveonte', 'Johnson']",2017-06-25,24,B,B,Oklahoma City,OK
+2435,2718,"['Rodney', 'L.', 'Cole']",2017-06-28,37,B,B,Nashville,TN
+2436,2717,"['Aaron', 'Bailey']",2017-06-29,45,B,B,Indianapolis,IN
+2438,2723,"['Joel', 'Gatu', 'Muturi']",2017-06-29,23,B,B,Marietta,GA
+2444,2730,"['Quintec', 'Locke']",2017-07-01,37,B,B,Lawndale,IL
+2453,2739,"['Dana', 'Dubose']",2017-07-04,36,B,B,Vandalia,OH
+2458,2927,"['Zepp', 'Crouchet']",2017-07-04,42,B,B,Antioch,CA
+2459,2742,"['Alexander', 'Bonds']",2017-07-05,34,B,B,New York,NY
+2466,2745,"['Dejuan', 'Guillory']",2017-07-06,27,B,B,Mamou,LA
+2467,2751,"['Brian', 'Easley']",2017-07-07,33,B,B,Marietta,GA
+2469,2765,"['Kareem', 'Ali', 'Nadir', 'Jones']",2017-07-07,30,B,B,Columbus,OH
+2471,2758,"['Cardell', 'Vance', 'III']",2017-07-08,23,B,B,Crescent City,FL
+2476,2761,"['Edward', 'Taylor']",2017-07-09,54,B,B,Akron,OH
+2482,2769,"['Antonio', 'Garcia', 'Jr.']",2017-07-11,47,B,B,Leavenworth,KS
+2492,2780,"['Vaughn', 'Shaw']",2017-07-15,23,B,B,Moreno Valley,CA
+2494,2782,"['India', 'N.', 'Nelson']",2017-07-17,25,B,B,Norfolk,VA
+2505,2793,"['Isaiah', 'Perkins']",2017-07-20,27,B,B,St. Louis,MO
+2517,2805,"['Aries', 'Clark']",2017-07-25,16,B,B,Marion,AR
+2521,2808,"['Kesharn', 'K.', 'Burney']",2017-07-26,25,B,B,Dayton,OH
+2526,2820,"['Deltra', 'Henderson']",2017-07-27,39,B,B,Homer,LA
+2530,2822,"['Rodney', 'E.', 'Jacobs']",2017-07-28,31,B,B,Kansas City,MO
+2532,2930,"['Jashod', 'Arthur', 'Carter']",2017-07-29,29,B,B,Norco,CA
+2533,2815,"['Dwayne', 'Jeune']",2017-07-31,32,B,B,Brooklyn,NY
+2534,2817,"['Isaiah', 'Tucker']",2017-07-31,28,B,B,Oshkosh,WI
+2537,2825,"['Kerry', 'Bradley']",2017-08-01,37,B,B,Waco,TX
+2542,2829,"['Preston', 'Thornton']",2017-08-02,29,B,B,Coushatta,LA
+2544,2834,"['Quintas', 'Harris']",2017-08-02,27,B,B,Atlanta,GA
+2547,3060,"['Kemonte', 'Cobbs']",2017-08-03,15,B,B,Gary,IN
+2557,2842,"['Danatae', 'Franklin']",2017-08-06,28,B,B,Kansas City,MO
+2562,2852,"['Darreon', 'Neal']",2017-08-08,17,B,B,Dalton,IL
+2563,2851,"['Eugene', 'Nelson']",2017-08-09,20,B,B,Kent,WA
+2567,2857,"['Tyrease', 'Carlyle']",2017-08-11,31,B,B,Philadelphia,PA
+2572,2862,"['Patrick', 'Harmon']",2017-08-13,50,B,B,Salt Lake City,UT
+2573,2863,"['Hussein', 'Hassan']",2017-08-13,46,B,B,Kennewick,WA
+2576,2866,"['Herbert', 'Gilbert']",2017-08-15,37,B,B,Thomasville,GA
+2577,2872,"['Kenneth', 'Lewis']",2017-08-16,34,B,B,Los Angeles,CA
+2583,2881,"['Derrick', 'Rashard', 'Brabham']",2017-08-18,25,B,B,Jacksonville,FL
+2586,2877,"['Keshawn', 'Wilson']",2017-08-20,32,B,B,Brick,NJ
+2591,2888,"['Nathaniel', 'Richmond']",2017-08-21,51,B,B,Steubenville,OH
+2593,2887,"['Kiwi', 'Herring']",2017-08-22,30,B,B,St. Louis,MO
+2601,2898,"['Scott', 'Mayfield']",2017-08-24,24,B,B,Orange,NJ
+2604,2900,"['Charles', 'David', 'Robinson']",2017-08-25,47,B,B,Woodville,GA
+2605,2901,"['Michael', 'Malik', 'Kawon', 'Lee']",2017-08-26,18,B,B,Pine Bluff,AR
+2610,2906,"['William', 'Matthew', 'Holmes']",2017-08-28,24,B,B,Newton,KS
+2611,2907,"['Ricky', 'Ard']",2017-08-29,55,B,B,Evansville,IN
+2615,2911,"['Anthony', 'Antonio', 'Ford']",2017-08-30,27,B,B,Miami,FL
+2623,2919,"['Antwon', 'Springer']",2017-09-03,37,B,B,Milwaukee,WI
+2626,2941,"['Jarvis', 'Hayes']",2017-09-03,31,B,B,Myrtle Beach,SC
+2634,2933,"['Miguel', 'Richards']",2017-09-06,31,B,B,New York,NY
+2635,2944,"['Eric', 'Dwan', 'Arnold']",2017-09-07,41,B,B,Sacramento,CA
+2638,2940,"['Ervin', 'Eugene', 'Sweat', 'Jr.']",2017-09-09,26,B,B,Arcata,CA
+2654,2961,"['Brian', 'Ziro']",2017-09-17,21,B,B,West Milford,WV
+2663,2968,"['Eddie', 'Russell', 'Jr.']",2017-09-20,25,B,B,Peoria,IL
+2664,2969,"['Haraesheo', 'Rice']",2017-09-20,31,B,B,Huntsville,AL
+2675,2975,"['Damien', 'Murray']",2017-09-24,39,B,B,San Francisco,CA
+2677,2976,"['Anthony', 'Robinson']",2017-09-25,32,B,B,Palmetto,FL
+2682,2987,"['Demilo', 'Trayuon', 'Hodge']",2017-09-27,45,B,B,Emeryville,CA
+2688,2993,"['Tyrell', 'Dewayne', 'Pinkston']",2017-09-30,28,B,B,Palatka,FL
+2690,2995,"['Marquis', '""Bubba""', 'Jones']",2017-10-01,27,B,B,West Burlington,IA
+2699,3012,"['Sandy', 'Guardiola']",2017-10-04,48,B,B,Canandaigua,NY
+2700,3013,"['Jomekia', 'Minter']",2017-10-04,37,B,B,Thomas County,GA
+2716,3007,"['Corey', 'Boykin']",2017-10-08,24,B,B,Louisville,KY
+2717,3008,"['Cariann', 'Hithon']",2017-10-08,22,B,B,Miami,FL
+2723,3029,"['John', 'Robert', 'Payne']",2017-10-12,35,B,B,Homewood,AL
+2726,3037,"['J.C.', 'Hawkins']",2017-10-13,42,B,B,Charlottesville,VA
+2729,3034,"['Eric', 'Garrison']",2017-10-16,20,B,B,Baltimore,MD
+2734,3043,"['DeAndre', 'Bethea']",2017-10-17,24,B,B,Hampton,VA
+2738,3050,"['Dewboy', 'Lister']",2017-10-19,55,B,B,Corpus Christi,TX
+2740,3048,"['Jamarco', 'McShann']",2017-10-20,23,B,B,Moraine,OH
+2754,3068,"['Timothy', 'Earl', 'Jackson']",2017-10-25,33,B,B,St. Petersburg,FL
+2755,3070,"['Antonio', 'Levison']",2017-10-25,33,B,B,Cleveland,OH
+2759,3074,"['Jerry', 'Richardson']",2017-10-27,46,B,B,Indiantown,FL
+2763,3078,"['Eric', 'Higgs']",2017-10-29,46,B,B,Tate County,MS
+2766,3205,"['Kalin', 'Jackson']",2017-10-29,23,B,B,King of Prussia,PA
+2769,3082,"['Luvelle', 'Kennon']",2017-10-31,27,B,B,Riverside,CA
+2771,3086,"['Vincent', 'Hall']",2017-10-31,22,B,B,Arlington,TX
+2783,3096,"['Raymond', 'Davis']",2017-11-04,24,B,B,Columbus,MS
+2787,3103,"['Augustus', 'Joshua', 'Crawford']",2017-11-04,20,B,B,Bakersfield,CA
+2790,3111,"['Eddie', 'Lee', 'Patterson']",2017-11-05,49,B,B,Rockford,IL
+2794,3110,"['Jarrett', 'Varnado']",2017-11-07,35,B,B,Las Vegas,NV
+2799,3118,"['Paul', 'Jones']",2017-11-09,25,B,B,Salisbury,NC
+2805,3126,"['Thomas', 'Aikens']",2017-11-10,43,B,B,Phoenix,AZ
+2807,3130,"['John', 'Bazemore', 'III']",2017-11-10,25,B,B,Denver,CO
+2811,3123,"['Phillip', 'Pitts']",2017-11-11,41,B,B,Las Vegas,NV
+2814,3134,"['Cornell', 'Lockhart']",2017-11-13,67,B,B,Tremont,NY
+2815,3135,"['Calvin', 'Toney']",2017-11-13,24,B,B,Baton Rouge,LA
+2823,3207,"['Chester', 'Randolph', 'Ward']",2017-11-16,68,B,B,Cedar Lake,TX
+2826,3152,"['Shady', 'Bell']",2017-11-17,46,B,B,West Monroe,LA
+2829,3149,"['Lawrence', 'Hawkins']",2017-11-18,56,B,B,Prichard,AL
+2838,3162,"['Rehyen', 'Bost-McMurray']",2017-11-23,17,B,B,St. Louis,MO
+2839,3163,"['Jackie', 'Germaine', 'Ragland']",2017-11-23,32,B,B,Pell City,AL
+2853,3174,"['Aquoness', 'Cathery']",2017-11-29,24,B,B,Chicago,IL
+2854,3172,"['Rufus', 'Cedric', 'Baker']",2017-11-30,32,B,B,Hendersonville,NC
+2857,3176,"['Keita', ""O'Neil""]",2017-12-01,42,B,B,San Francisco,CA
+2863,3183,"['Johnnie', 'D.', 'Carter']",2017-12-05,24,B,B,Bassett,VA
+2864,3184,"['Jean', 'Pedro', 'Pierre']",2017-12-06,42,B,B,Lauderdale Lakes,FL
+2870,3190,"['Frederick', 'Douglas', 'Wilburn']",2017-12-07,34,B,B,Tucson,AZ
+2883,3213,"['Zoe', 'Dowdell']",2017-12-14,20,B,B,New Britain,CT
+2891,3221,"['Todd', 'A.', 'Stone']",2017-12-18,48,B,B,Oak Park,MI
+2916,3244,"['Jesse', 'Scarsbrook']",2017-12-26,28,B,B,Lawrence,IN
+2921,3249,"['Dennis', 'Plowden']",2017-12-27,25,B,B,Philadelphia,PA
+2926,3256,"['Corey', 'Bailey']",2017-12-28,30,B,B,Elkhart,IN
+2939,3286,"['Shaleem', 'Tindle']",2018-01-03,28,B,B,Oakland,CA
+2943,3283,"['Ledarren', 'D.', 'Mixon']",2018-01-05,28,B,B,Whitehall,OH
+2946,3271,"['Charles', 'Smith', 'Jr.']",2018-01-06,17,B,B,Little Rock,AR
+2953,3282,"['John', 'Bailon']",2018-01-06,40,B,B,Los Lunas,NM
+2954,3269,"['Trayvon', 'Mitchell']",2018-01-07,38,B,B,Lauderhill,FL
+2956,3276,"['Richard', 'R.', 'Towler']",2018-01-07,54,B,B,Danville,VA
+2962,4208,"['Travis', 'Griffin']",2018-01-08,20,B,B,Kansas City,MO
+2965,3301,"['Shalun', 'Dique', 'Smith']",2018-01-10,21,B,B,Palmdale,CA
+2968,4242,"['Jonathan', 'Bennett']",2018-01-11,23,B,B,Charlotte,NC
+2970,3313,"['Terry', 'Amons']",2018-01-12,43,B,B,Pittsburg,CA
+2973,3316,"['Amanuel', 'Dagebo']",2018-01-12,22,B,B,Columbus,OH
+2983,3319,"['Geraldine', 'Townsend']",2018-01-17,72,B,B,Tulsa,OK
+2984,3320,"['Jihad', 'Merrick']",2018-01-17,29,B,B,Nashua,IA
+2985,3321,"['Brian', 'Gregory']",2018-01-17,34,B,B,Memphis,TN
+2986,3322,"['Donte', 'D.', 'Shannon']",2018-01-17,26,B,B,Racine,WI
+2989,3324,"['Kevin', 'Sturgis']",2018-01-18,31,B,B,Harrisburg,PA
+2994,3329,"['Arther', 'McAfee', 'Jr.']",2018-01-20,61,B,B,Longview,TX
+3005,3342,"['Ricky', 'Jerome', 'Boyd']",2018-01-23,24,B,B,Chatham County,GA
+3007,3344,"['Corey', 'Mobley']",2018-01-23,38,B,B,Bradenton,FL
+3016,3358,"['Nathaniel', 'T.', 'Edwards']",2018-01-26,43,B,B,Rock Falls,IL
+3018,3357,"['William', 'Pollard']",2018-01-27,45,B,B,Walton,IN
+3019,3359,"['Crystalline', 'Barnes']",2018-01-27,21,B,B,Jackson,MS
+3022,3355,"['Billy', 'Lewis', 'Rucker']",2018-01-28,33,B,B,Baltimore,MD
+3025,3365,"['Michael', 'Hansford']",2018-01-29,52,B,B,Bronx,NY
+3031,3370,"['Albert', 'E.', 'Morton']",2018-02-01,31,B,B,Harrisburg,PA
+3032,3371,"['Daniel', 'O.', 'El']",2018-02-01,32,B,B,Peoria,IL
+3034,3373,"['Anthony', 'Joe', 'Williams']",2018-02-01,37,B,B,Houston,TX
+3036,3375,"['Brett', 'Dontae', 'Bush']",2018-02-01,28,B,B,Clayton,GA
+3044,3382,"['Anthony', 'Jacob', 'Weber']",2018-02-04,16,B,B,Los Angeles,CA
+3054,3394,"['Tierre', 'Guthrie']",2018-02-09,39,B,B,Locust Grove,GA
+3055,3395,"['David', 'Darden']",2018-02-09,36,B,B,Atlanta,GA
+3060,3399,"['Sidney', 'T.', 'Richardson']",2018-02-10,48,B,B,Tampa,FL
+3062,3400,"['Mark', 'Daniels']",2018-02-11,39,B,B,Pittsburgh,PA
+3065,3405,"['Ronnell', 'Foster']",2018-02-13,33,B,B,Vallejo,CA
+3069,3413,"['Jimmy', 'Terry']",2018-02-14,30,B,B,Merrillville,IN
+3078,3422,"['Lamar', 'Green']",2018-02-17,28,B,B,Inwood,WV
+3085,3412,"['Lawrence', 'Shaw']",2018-02-19,45,B,B,Denton,TX
+3086,3427,"['Glenn', 'Tyndell']",2018-02-21,37,B,B,Fort Washington,MD
+3087,3428,"['Lonnie', 'Smith']",2018-02-21,21,B,B,Montgomery,AL
+3089,3440,"['Lee', 'Edward', 'Bonner']",2018-02-21,37,B,B,Jackson,MS
+3090,3441,"['Darion', 'Baker']",2018-02-21,22,B,B,Stratford,TX
+3091,3431,"['Joshua', 'D.', 'Babb']",2018-02-22,26,B,B,Church Hill,TN
+3093,3434,"['Mario', 'Dantoni', 'Bass']",2018-02-23,37,B,B,Woodbridge,VA
+3096,3442,"['Haydon', 'Taylor']",2018-02-25,25,B,B,Oklahoma City,OK
+3102,3446,"['William', 'Watson']",2018-02-26,40,B,B,St. Louis,MO
+3104,3447,"['Marlon', 'Smith']",2018-02-27,29,B,B,Dallas,TX
+3107,3450,"['Qawi', 'A.', 'Muhammad']",2018-02-28,48,B,B,Orlando,FL
+3109,3451,"['Timothy', 'M.', 'Gray']",2018-03-01,40,B,B,Henrico,VA
+3119,3467,"['Marvin', 'McMillian']",2018-03-03,41,B,B,Gulfport,MS
+3133,3481,"['James', 'E.', 'Waters']",2018-03-06,37,B,B,Clinton,MO
+3137,3483,"['Jamil', 'Harvey']",2018-03-08,29,B,B,Spotsylvania,VA
+3144,3488,"['Daniel', 'Stacey', 'Reynolds']",2018-03-10,20,B,B,Hillsboro,OR
+3149,3487,"['Decynthia', 'Clements']",2018-03-12,34,B,B,Elgin,IL
+3154,3497,"['Michael', 'Ward']",2018-03-12,46,B,B,Manhasset,NY
+3155,3503,"['Jontell', 'Reedom']",2018-03-12,27,B,B,Tulare,CA
+3158,3511,"['Shermichael', 'Ezeff']",2018-03-14,31,B,B,East Baton Rouge,LA
+3160,3514,"['Cameron', 'Hall']",2018-03-15,27,B,B,Casa Grande,AZ
+3161,3507,"['James', 'Alfonso', 'Vaughn']",2018-03-16,49,B,B,Clarksville,TN
+3168,3506,"['Stephon', 'Clark']",2018-03-18,23,B,B,Sacramento,CA
+3173,3515,"['Jermaine', 'Massey']",2018-03-19,35,B,B,Greenville,SC
+3184,3529,"['Danny', 'Thomas']",2018-03-22,35,B,B,Greenspoint,TX
+3188,3536,"['Linus', 'F.', 'Phillip']",2018-03-23,30,B,B,Largo,FL
+3210,3556,"['Rodney', 'Toler']",2018-03-29,39,B,B,Charleston,WV
+3213,3560,"['Edward', 'Van', 'McCrae']",2018-03-30,60,B,B,Winston-Salem,NC
+3218,3562,"['Bobby', 'Hinton']",2018-04-01,60,B,B,New Llano,LA
+3220,3564,"['Timothy', 'Wyatt']",2018-04-01,41,B,B,Tampa,FL
+3221,3565,"['Brian', 'Bellamy']",2018-04-01,41,B,B,Greenville,NC
+3222,3566,"['Christopher', 'Hall']",2018-04-01,34,B,B,Jackson,MI
+3227,3574,"['Deshawn', 'Antonio', 'Carswell']",2018-04-04,27,B,B,Okmulgee,OK
+3229,3577,"['Saheed', 'Vassell']",2018-04-04,34,B,B,New York,NY
+3235,3583,"['Terrance', 'Eppenger']",2018-04-05,27,B,B,South Bend,IN
+3236,3586,"['Diante', 'Yarber']",2018-04-05,26,B,B,Barstow,CA
+3240,3588,"['Jonathan', 'Erick', 'Alexander']",2018-04-06,26,B,B,Marysville,CA
+3247,3594,"['Juan', 'Markee', 'Jones']",2018-04-08,25,B,B,Danville,VA
+3248,3595,"['Elijah', 'James', 'Smith']",2018-04-08,20,B,B,West Valley City,UT
+3256,3602,"['Grechario', 'Mack']",2018-04-10,30,B,B,Baldwin Hills,CA
+3259,3606,"['Kenneth', 'Ross']",2018-04-11,25,B,B,Gardena,CA
+3265,3610,"['Rumondale', 'Jones']",2018-04-12,39,B,B,Helena-West Helena,AR
+3266,3611,"['Steven', 'Brooks']",2018-04-12,45,B,B,Washington,PA
+3271,3618,"['Andre', 'Lavance', 'Rippy']",2018-04-14,39,B,B,Phoenix,AZ
+3276,3622,"['Lonnie', 'Marcel', 'Bowen']",2018-04-17,41,B,B,Magna,UT
+3277,3624,"['Sanchez', 'Lowe']",2018-04-17,25,B,B,Austell,GA
+3282,3628,"['Dytadious', 'Mobley']",2018-04-18,31,B,B,Fort Lauderdale,FL
+3284,3630,"['David', 'Teneyuque']",2018-04-18,48,B,B,Pavilion Township,MI
+3286,3636,"['James', 'Bauduy']",2018-04-20,48,B,B,Orlando,FL
+3289,3633,"['Terrence', 'Carlton']",2018-04-21,25,B,B,Memphis,TN
+3293,3642,"['Demonjhea', 'Jordan']",2018-04-24,27,B,B,Louisville,KY
+3297,3643,"['Isaac', 'Jackson']",2018-04-25,42,B,B,Louisville,KY
+3300,4265,"['Carlos', 'Deone', 'High']",2018-04-25,37,B,B,Grand Prairie,TX
+3304,3649,"['Shukri', 'Ali', 'Said']",2018-04-28,36,B,B,Johns Creek,GA
+3312,4268,"['Abadi', 'Gebregziber']",2018-04-30,64,B,B,Columbus,OH
+3320,3662,"['Timothy', 'Raye', 'Mayfield']",2018-05-02,67,B,B,Dallas,TX
+3321,3663,"['Damion', 'Collier']",2018-05-02,24,B,B,Columbus,GA
+3332,3669,"['Terence', 'Leslie']",2018-05-06,32,B,B,East Point,GA
+3344,3682,"['Elliott', 'Reed']",2018-05-09,33,B,B,Jackson,MS
+3354,3686,"['Willie', 'Rogers', 'Marable']",2018-05-13,28,B,B,Portsmouth,VA
+3358,3685,"['Anthony', 'Trice']",2018-05-14,24,B,B,Clinton,MD
+3363,3696,"['Marcus-David', 'L.', 'Peters']",2018-05-14,24,B,B,Richmond,VA
+3375,3719,"['Ronald', 'Clinton']",2018-05-21,47,B,B,West Memphis,AR
+3394,3734,"['Juvan', 'Simon']",2018-05-30,23,B,B,Florida City,FL
+3396,3726,"['Jerick', 'Rasheem', 'Gray']",2018-05-31,42,B,B,Thomasville,NC
+3400,3730,"['Gus', 'Tousis']",2018-06-02,43,B,B,Chicago,IL
+3407,3755,"['Maurice', 'Granton']",2018-06-06,24,B,B,Chicago,IL
+3413,3850,"['Raymon', 'Truitt']",2018-06-07,28,B,B,Gary,IN
+3417,3760,"['LaShanda', 'Anderson']",2018-06-09,36,B,B,Deptford,NJ
+3420,3763,"['Robert', 'Lawrence', 'White']",2018-06-11,41,B,B,Silver Spring,MD
+3422,3764,"['DeNathe', 'M.', 'Guilliford']",2018-06-12,34,B,B,Danville,IL
+3424,3767,"['Marqueese', 'Alston']",2018-06-12,22,B,B,Washington,DC
+3425,3768,"['Chavius', 'Hollis']",2018-06-12,26,B,B,Monroe,GA
+3432,3773,"['Terrence', 'White']",2018-06-14,18,B,B,Las Vegas,NV
+3433,3776,"['Timothy', 'Mosley']",2018-06-14,33,B,B,Kansas City,MO
+3439,3782,"['Dwayne', 'Clyburn']",2018-06-16,37,B,B,Warwick,NY
+3443,3785,"['Tahaji', 'Wells']",2018-06-17,33,B,B,Trenton,NJ
+3446,3788,"['Jonathan', 'Buckley']",2018-06-19,20,B,B,Stone Mountain,GA
+3447,3789,"['Antwon', 'Rose']",2018-06-19,17,B,B,Pittsburgh,PA
+3449,3792,"['Anthony', 'Marcell', 'Green']",2018-06-20,33,B,B,Kingsland,GA
+3453,3842,"['Timothy', 'Deal']",2018-06-22,32,B,B,Atlantic City,NJ
+3457,3796,"['Thurman', 'Blevins']",2018-06-23,30,B,B,Minneapolis,MN
+3458,3797,"['Detandel', 'Pickens', 'Devon']",2018-06-23,25,B,B,Monroe,LA
+3472,3813,"['Rodney', 'Lee', 'Hunter']",2018-06-29,27,B,B,Pomona,CA
+3474,3818,"['Chukwumankpam', 'Mbegbu']",2018-06-29,19,B,B,Phoenix,AZ
+3483,3930,"['Lemuel', 'Bunn']",2018-07-03,40,B,B,Fayetteville,NC
+3484,3970,"['Terrell', 'Eason']",2018-07-03,33,B,B,Chicago,IL
+3494,3828,"['Charles', 'Webb']",2018-07-06,43,B,B,Overland Park,KS
+3499,3865,"['Rashaun', 'Washington']",2018-07-07,37,B,B,Vineland,NJ
+3511,3857,"['Harith', 'Augustus']",2018-07-14,37,B,B,Chicago,IL
+3512,3858,"['Jethro', 'Benjamin']",2018-07-14,68,B,B,Florence,SC
+3513,3859,"['Marlin', 'Mack']",2018-07-15,25,B,B,Kansas City,MO
+3543,3886,"['Devaughdre', 'Delsha', 'Rogers']",2018-07-24,19,B,B,Starke,FL
+3549,3888,"['Daniel', 'Hambrick']",2018-07-26,25,B,B,Nashville,TN
+3556,3898,"['Cynthia', 'Fields']",2018-07-27,60,B,B,Savannah,GA
+3558,3896,"['Lamar', 'C.', 'Richardson']",2018-07-28,25,B,B,Toledo,OH
+3564,3908,"['James', 'Edward', 'Blackmon']",2018-07-31,35,B,B,Mississippi County,AR
+3566,3907,"['David', 'Edward', 'Hall']",2018-08-01,27,B,B,Oxon Hill,MD
+3569,3911,"['Tramaine', 'Marquese', 'Poole']",2018-08-01,41,B,B,Sussex County,VA
+3572,3919,"['Danny', 'Lee']",2018-08-03,34,B,B,Pine Bluff,AR
+3582,3912,"['Spurgeon', 'Daniels']",2018-08-06,62,B,B,Las Vegas,NV
+3583,3927,"['Levester', 'Taylor']",2018-08-06,39,B,B,Atlanta,GA
+3584,3928,"['Ricardo', 'Giddings']",2018-08-06,59,B,B,Philadelphia,PA
+3590,3936,"['Vaughn', 'Denham']",2018-08-08,48,B,B,San Diego,CA
+3592,3940,"['Stephen', 'L.', 'Caldwell']",2018-08-08,54,B,B,Omaha,NE
+3593,3935,"['Charles', 'Meadows']",2018-08-09,48,B,B,Philadelphia,PA
+3595,3950,"['Gregory', 'Campfield']",2018-08-09,40,B,B,Landover,MD
+3596,3951,"['Montae', 'Shackleford']",2018-08-09,28,B,B,Columbus,OH
+3601,3956,"['Anthony', 'Makai', 'Hutchinson']",2018-08-12,40,B,B,Waynesboro,VA
+3602,3953,"['Christopher', 'Anthony', 'Stone']",2018-08-13,32,B,B,Oklahoma City,OK
+3603,3964,"['Mario', 'Hobson']",2018-08-13,48,B,B,Milwaukee,WI
+3604,3965,"['Mark', 'Harvey']",2018-08-13,32,B,B,Richton Park,IL
+3608,3974,"['Adrian', 'Herron']",2018-08-16,30,B,B,Wasilla,AK
+3609,3975,"['Aquantis', 'Jaymond', 'Griffin']",2018-08-17,21,B,B,Austin,TX
+3613,3978,"['Christopher', 'Alexander', 'Okamoto']",2018-08-19,21,B,B,Bakersfield,CA
+3615,3981,"['Jeremiah', 'Perdue']",2018-08-19,33,B,B,Atlanta,GA
+3617,3985,"['Jeffrey', 'Dennis']",2018-08-20,36,B,B,Philadelphia,PA
+3622,3989,"['James', 'Clay']",2018-08-24,20,B,B,Cincinnati,OH
+3634,4001,"['Jalon', 'Johnson']",2018-08-29,17,B,B,Houston,TX
+3640,4011,"['Oshae', 'Terry']",2018-09-01,24,B,B,Arlington,TX
+3643,4009,"['Aaron', 'Demonta', 'Fleming']",2018-09-03,21,B,B,Covington,GA
+3645,4013,"['James', 'Leatherwood']",2018-09-05,23,B,B,Hollywood,FL
+3648,4017,"['Darell', 'Richards']",2018-09-06,19,B,B,Sacramento,CA
+3649,4023,"['DaShawn', 'Cole']",2018-09-07,28,B,B,Pawtucket,RI
+3653,4020,"['Dereshia', 'Blackwell']",2018-09-09,39,B,B,Missouri City,TX
+3657,4029,"['Thomas', 'Watkins']",2018-09-12,38,B,B,Gary,IN
+3659,4030,"['Detric', 'Driver']",2018-09-14,46,B,B,Detroit,MI
+3667,4043,"['Jerry', 'Foster']",2018-09-16,31,B,B,Shreveport,LA
+3676,4053,"['Nathaniel', 'Sassafras']",2018-09-23,29,B,B,Baltimore,MD
+3681,4055,"['Dravious', 'Burch']",2018-09-25,34,B,B,Orlando,FL
+3683,4065,"['Paul', 'Braswell']",2018-09-26,29,B,B,Newark,NJ
+3687,4069,"['Datwan', 'Keyo', 'Lewis']",2018-09-27,41,B,B,Palatka,FL
+3693,4058,"['Patrick', 'K.', 'Kimmons']",2018-09-30,27,B,B,Portland,OR
+3698,4074,"['LaJuana', 'Philips']",2018-10-02,36,B,B,Victorville,CA
+3699,4071,"['Toby', 'Bailey']",2018-10-03,38,B,B,Bartlett,TN
+3703,4156,"['Sershawn', 'Martez', 'Dillon']",2018-10-05,31,B,B,Nashville,TN
+3715,4086,"['Terrell', 'Blake']",2018-10-10,39,B,B,Rochester,NY
+3719,4125,"['Alonzo', 'L.', 'Smith']",2018-10-10,31,B,B,Milwaukee,WI
+3721,4089,"['Diamonte', 'Riviore']",2018-10-11,22,B,B,West Jordan,UT
+3723,4098,"['Samuel', 'Morris']",2018-10-12,27,B,B,Fort Smith,AR
+3729,4101,"['Eric', 'Jamar', 'Lupain', 'Stromer']",2018-10-14,22,B,B,Jeffersonville,OH
+3734,4105,"['Keyshon', 'Parham']",2018-10-17,19,B,B,Memphis,TN
+3735,4106,"['Charles', 'Roundtree']",2018-10-17,18,B,B,San Antonio,TX
+3741,4117,"['Jacob', 'Servais']",2018-10-18,19,B,B,Vineland,NJ
+3742,4161,"['Mahlon', 'Edward', 'Summerour']",2018-10-18,63,B,B,Monroe,GA
+3743,4116,"['Neico', 'Crooks,', 'Jr']",2018-10-19,21,B,B,Miami,FL
+3752,4120,"['Tafahree', 'Maynard']",2018-10-22,18,B,B,Snellville,GA
+3758,4141,"['Armond', 'Beckwith-Bell']",2018-10-25,28,B,B,St. Louis,MO
+3760,4140,"['Christopher', 'Carroll']",2018-10-27,30,B,B,Houston,TX
+3761,4134,"['Albert', 'Ramon', 'Dorsey']",2018-10-29,30,B,B,Hollywood,CA
+3764,4138,"['Derrick', 'Alexander', 'Sellman']",2018-10-29,28,B,B,Parkville,MD
+3767,4144,"['Tony', 'Bernard', 'Smith']",2018-10-31,24,B,B,Jacksonville,FL
+3770,4158,"['Jesse', 'J.', 'Quinton']",2018-11-02,35,B,B,Idaho Falls,ID
+3773,4150,"['Laudemer', 'Arboleda']",2018-11-03,33,B,B,Danville,CA
+3775,4148,"['Theoddeus', 'Gray']",2018-11-04,29,B,B,St. Clair Shores,MI
+3787,4168,"['Travis', 'Jordan']",2018-11-09,36,B,B,Minneapolis,MN
+3791,4167,"['Patrick', 'Bryant']",2018-11-10,41,B,B,Clarksdale,MS
+3793,4172,"['Jemel', 'Roberson']",2018-11-11,26,B,B,Robbins,IL
+3797,4180,"['Tony', 'Mathis']",2018-11-12,47,B,B,Oklahoma City,OK
+3801,4175,"['Timothy', 'Leon']",2018-11-13,24,B,B,Phoenix,AZ
+3803,4174,"['Olajuwon', 'Murphy']",2018-11-14,22,B,B,Wythe County,VA
+3807,4186,"['Allen', 'Fanning']",2018-11-15,18,B,B,Centennial,CO
+3809,4189,"['Jack', 'Fields,', 'Jr.']",2018-11-15,25,B,B,Augusta,GA
+3814,4185,"['Rio', 'Antwuan', 'Thomas']",2018-11-17,27,B,B,Fort Pierce,FL
+3819,4237,"['Roderick', 'McDaniel']",2018-11-20,33,B,B,Magnolia,AR
+3823,4212,"['Eugene', 'Benjamin', 'Weathers']",2018-11-21,48,B,B,Talladega,AL
+3826,4199,"['Emantic', 'Fitzgerald', 'Bradford']",2018-11-22,21,B,B,Hoover,AL
+3830,4225,"['Martez', 'Webb']",2018-11-23,23,B,B,Detroit,MI
+3835,4210,"['Jarmane', 'Logan']",2018-11-27,35,B,B,Topeka,KS
+3846,4240,"['John', 'Young']",2018-12-01,65,B,B,Pensacola,FL
+3847,4272,"['Jarvis', 'Randall']",2018-12-01,30,B,B,Tamarac,FL
+3848,4239,"['Demontry', 'Floytra', 'Boyd']",2018-12-01,43,B,B,Las Vegas,NV
+3853,4279,"['Anthony', 'M.', 'Edwards']",2018-12-05,33,B,B,Richmond,VA
+3854,4275,"['Dimaggio', 'McNelly']",2018-12-06,53,B,B,Henry County,GA
+3858,4315,"['Julius', 'Ervin', 'Tate']",2018-12-07,16,B,B,Columbus,OH
+3860,4282,"['Joshua', 'Boyd']",2018-12-09,24,B,B,Savannah,GA
+3861,4283,"['Christopher', 'Deandre', 'Mitchell']",2018-12-09,23,B,B,Torrance,CA
+3869,4293,"['Marcus', 'Neal']",2018-12-11,47,B,B,Buffalo,NY
+3871,4296,"['Tameka', 'LaShay', 'Simpson']",2018-12-11,27,B,B,Calhoun,GA
+3872,4297,"['Demario', 'Bass']",2018-12-12,29,B,B,St. Louis,MO
+3877,4317,"['Andre', 'Horton']",2018-12-13,42,B,B,Memphis,TN
+3883,4316,"['Richard', 'L.', 'Johnson']",2018-12-16,46,B,B,Kansas City,KS
+3884,4321,"['April', 'Webster']",2018-12-16,47,B,B,Darlington County,SC
+3887,4302,"['Angel', 'Viola', 'Decarlo']",2018-12-18,31,B,B,Hopewell,VA
+3889,4312,"['Danny', 'Washington']",2018-12-18,27,B,B,Franklin Township,PA
+3902,4322,"['Michael', 'Jerome', 'Taylor']",2018-12-26,17,B,B,Lakeland,FL
+3904,4328,"['Wayne', 'Falana']",2018-12-26,35,B,B,Clearwater,FL
+3907,4338,"['Shane', 'Lyons']",2018-12-28,35,B,B,Port Arthur,TX
+3911,4341,"['Kerry', 'D.', 'Blake']",2018-12-30,44,B,B,Rockford,IL
+3918,4504,"['Brandon', 'Lovell', 'Webster']",2019-01-01,28,B,B,Shallotte,NC
+3919,4342,"['Matthew', 'Burroughs']",2019-01-02,35,B,B,Niles,OH
+3920,4343,"['Abdoulaye', 'Thiam']",2019-01-02,20,B,B,Whitehaven,TN
+3926,4350,"['Jae', 'Wesley', 'Hardy']",2019-01-03,27,B,B,Millbrook,AL
+3928,4367,"['Zonell', 'Williams']",2019-01-04,33,B,B,Treme,LA
+3931,4508,"['Lawrence', 'Thompson', 'III']",2019-01-04,32,B,B,Houston,TX
+3937,4352,"['Kevin', 'Shawn', 'Hanson']",2019-01-06,42,B,B,Hurricane,WV
+3940,4353,"['Andre', 'C.', 'Gladen']",2019-01-06,36,B,B,Portland,OR
+3947,4368,"['Johnny', 'Lee', 'Burney']",2019-01-10,70,B,B,Eclectic,AL
+3949,4366,"['Juston', 'Landry']",2019-01-11,26,B,B,Lake Charles,LA
+3950,4379,"['Treshun', 'Symone', 'Miller']",2019-01-11,20,B,B,Arlington,TX
+3952,4390,"['Jacob', 'Michael', 'Harris']",2019-01-11,19,B,B,Phoenix,AZ
+3960,4370,"['Jahmal', 'Derrick', 'Stewart']",2019-01-14,45,B,B,Linda,CA
+3964,4517,"['Nathaniel', 'Holland']",2019-01-14,38,B,B,Vacaville,CA
+3966,4519,"['William', 'Owens']",2019-01-14,39,B,B,Logan Township,NJ
+3970,4402,"[""D'ettrick"", 'Griffin']",2019-01-15,18,B,B,Atlanta,GA
+3971,4516,"['Quency', 'Chavez', 'Floyd']",2019-01-15,22,B,B,St. Louis,MO
+3977,4502,"['Mikyas', 'Mehary', 'Tegegne']",2019-01-16,31,B,B,Silver Spring,MD
+3984,4395,"['Jimmy', 'Atchison']",2019-01-22,21,B,B,Atlanta,GA
+3986,4407,"['Dwight', 'Steward']",2019-01-23,46,B,B,Spokane,WA
+3999,4422,"['Gregory', 'Griffin']",2019-01-28,46,B,B,Newark,NJ
+4001,4426,"['Nekiylo', 'Dawayne', 'Graves']",2019-01-28,27,B,B,Mercury,NV
+4012,4438,"['Johnny', 'Weeks']",2019-02-02,68,B,B,Buford,GA
+4013,4481,"['Isaiah', 'Thomas']",2019-02-02,40,B,B,Stockton,CA
+4017,4437,"['Corey', 'Johnson']",2019-02-04,44,B,B,Farmville,VA
+4018,4436,"['Anthony', 'Dewayne', 'Childs']",2019-02-05,31,B,B,Shreveport,LA
+4021,4482,"['Allon', 'Jones']",2019-02-06,43,B,B,Walter Hill,TN
+4023,5410,"['Bruce', 'Carter']",2019-02-06,38,B,B,Joilet,IL
+4032,4441,"['Willie', 'Bo', 'McCoy']",2019-02-09,21,B,B,Vallejo,CA
+4037,4445,"['Willie', 'Jermaine', 'Robinson']",2019-02-10,34,B,B,Greenville County,SC
+4039,4457,"[""Ty'rell"", 'Pounds']",2019-02-11,24,B,B,Crestwood,KY
+4041,4458,"['Alex', 'Johnson']",2019-02-12,58,B,B,Defiance,OH
+4042,4459,"['Christopher', 'Brimsey']",2019-02-12,20,B,B,Cinco Ranch,TX
+4043,4460,"['Patrick', 'Reed']",2019-02-12,19,B,B,Cinco Ranch,TX
+4050,4476,"['Gary', 'Marin']",2019-02-15,45,B,B,Aurora,IL
+4051,4470,"['Michael', 'Elam']",2019-02-16,17,B,B,Chicago,IL
+4055,4475,"['Reginald', 'Romero', 'Bursey']",2019-02-17,32,B,B,New Orleans,LA
+4057,4469,"['Pierre', 'Woods']",2019-02-18,31,B,B,Pelehatchie,MS
+4059,4498,"['Emanuel', 'David', 'Joshua', 'Oates']",2019-02-19,24,B,B,Baltimore,MD
+4060,4474,"['Kyron', 'Marcell', 'Sands']",2019-02-20,39,B,B,Norwich,CT
+4062,4471,"['Bradley', 'Blackshire']",2019-02-22,30,B,B,Little Rock,AR
+4065,4493,"['Neico', 'Crooks']",2019-02-22,21,B,B,Miami Gardens,FL
+4078,4495,"['James', 'Scott', 'Reed']",2019-02-27,40,B,B,Killeen,TX
+4091,4526,"['Luke', 'Anthony', 'Swann']",2019-03-04,36,B,B,Des Moines,IA
+4095,4547,"['Shamikle', 'Jackson']",2019-03-04,22,B,B,Aurora,CO
+4101,4537,"['Antonio', 'Joseph', 'Valentine']",2019-03-05,32,B,B,Jacksonville,FL
+4102,4678,"['Donqaule', 'Maurice', 'Gray']",2019-03-06,25,B,B,Morgantown,WV
+4112,4677,"['Rodney', 'Lassiter']",2019-03-09,30,B,B,Monahans,TX
+4119,4561,"['Latasha', 'Nicole', 'Walton']",2019-03-12,32,B,B,Miami,FL
+4121,4563,"['Charles', 'Ballard']",2019-03-13,41,B,B,Ashland,CA
+4123,4566,"['Nina', 'Adams']",2019-03-13,47,B,B,Greensburg,PA
+4137,4586,"['Thomas', 'Johnson']",2019-03-19,22,B,B,Bastrop,LA
+4141,4581,"['Osaze', 'Osagie']",2019-03-20,29,B,B,State College,PA
+4145,4585,"['Daishawn', 'Brown']",2019-03-21,19,B,B,Modesto,CA
+4147,4595,"['Derek', 'Smith']",2019-03-22,22,B,B,Walterboro,SC
+4148,4589,"['Kevin', 'Bruce', 'Mason']",2019-03-24,57,B,B,Baltimore,MD
+4150,4587,"['Danquirs', 'Napoleon', 'Franklin']",2019-03-25,27,B,B,Charlotte,NC
+4153,4657,"['Kaylon', 'Robinson']",2019-03-25,18,B,B,St. Louis,MO
+4158,4604,"['Chris', 'Joseph']",2019-03-27,38,B,B,Terrytown,LA
+4159,4605,"['Daviri', 'Robertson']",2019-03-27,39,B,B,Terrytown,LA
+4160,4671,"['Brian', 'Leslie', 'Statler']",2019-03-27,30,B,B,Inglewood,CA
+4163,4606,"['Pierre', 'J.', 'Cher', 'Frere']",2019-03-30,25,B,B,Miami,FL
+4165,4669,"['Ondrae', 'Levado', 'Hutchinson']",2019-03-30,30,B,B,Durham,NC
+4168,4612,"['Oscar', 'Cain']",2019-03-31,31,B,B,Atlanta,GA
+4171,4620,"['Veltavious', 'Griggs']",2019-04-01,19,B,B,Union City,GA
+4172,4656,"['Bishar', 'Hassan']",2019-04-01,31,B,B,Anchorage,AK
+4183,4621,"['Anthony', 'Orlando', 'Bowers']",2019-04-07,24,B,B,Greeneville,TN
+4184,4622,"['Marzeus', 'Scott']",2019-04-07,35,B,B,Blytheville,AR
+4186,4631,"['Harold', 'Vincent', 'Robinson']",2019-04-08,37,B,B,Salt Lake City,UT
+4189,4629,"['Terry', 'Davis']",2019-04-09,33,B,B,Louisville,KY
+4190,4645,"['Trivenskey', 'O.', 'Odom']",2019-04-10,27,B,B,Shreveport,LA
+4195,4662,"['Demetrious', 'Brooks']",2019-04-11,34,B,B,St. Louis,MO
+4196,4664,"['Marcus', 'McVae']",2019-04-11,34,B,B,Boerne,TX
+4199,4640,"['Myron', 'Flowers']",2019-04-12,28,B,B,Clinton,LA
+4203,4634,"['Kawaski', 'Trawick']",2019-04-14,32,B,B,New York,NY
+4212,4642,"['Akeen', 'Brown']",2019-04-17,34,B,B,Flint,MI
+4230,5415,"['Kevin', 'Leroy', 'Beasley']",2019-04-26,23,B,B,Denver,CO
+4237,4692,"['Isaiah', 'Lewis']",2019-04-29,17,B,B,Edmond,OK
+4260,4702,"['Ryan', 'Smith']",2019-05-09,31,B,B,Seattle,WA
+4262,4734,"['Derrec', 'Jamal', 'Shaw']",2019-05-10,25,B,B,Tulsa,OK
+4263,4713,"['Sharell', 'Brown']",2019-05-11,26,B,B,Chicago,IL
+4268,4718,"['Malik', 'Ali', 'Gresham']",2019-05-13,36,B,B,Gardena,CA
+4269,4719,"['Pamela', 'Shantay', 'Turner']",2019-05-13,45,B,B,Baytown,TX
+4274,5418,"['Djuantez', 'Anthony', 'Mitchell']",2019-05-15,30,B,B,Louisville,KY
+4278,4732,"['Donald', 'Davis,', 'Jr.']",2019-05-17,40,B,B,New Orleans,LA
+4279,5007,"['Daniel', 'Warren']",2019-05-17,36,B,B,Pasadena,CA
+4289,4726,"['Enosa', 'Strickland']",2019-05-20,26,B,B,Auburn,WA
+4295,5423,"['Myles', 'Frazier']",2019-05-22,22,B,B,Chicago,IL
+4303,4737,"['Terrance', 'Bridges']",2019-05-26,30,B,B,Kansas City,MO
+4306,4745,"['Nakia', 'Smith']",2019-05-27,41,B,B,Joliet,IL
+4307,4746,"['Curtis', 'Stagger']",2019-05-28,21,B,B,Chicago,IL
+4310,4756,"['Crystal', 'Danielle', 'Ragland']",2019-05-30,32,B,B,Huntsville,AL
+4317,4752,"['Marcus', 'Boles']",2019-06-01,35,B,B,Shreveport,LA
+4319,4748,"['Miles', 'Hall']",2019-06-02,23,B,B,Walnut Creek,CA
+4322,4762,"['Samuel', 'Galberth']",2019-06-03,43,B,B,Ardsley,NY
+4330,4773,"['Ryan', 'Twyman']",2019-06-06,24,B,B,Los Angeles,CA
+4332,4775,"['Edtwon', 'Stamps']",2019-06-06,27,B,B,Los Angeles,CA
+4336,4830,"['Rodnell', 'Cotton']",2019-06-06,26,B,B,St. Louis,MO
+4339,4769,"['Bryan', 'Bernard', 'Wallace']",2019-06-08,39,B,B,Clearwater,FL
+4341,4768,"['JaQuavion', 'Slaton']",2019-06-09,20,B,B,Fort Worth,TX
+4346,4778,"['Vincense', 'Williams,', 'Jr.']",2019-06-10,24,B,B,Oklahoma City,OK
+4347,4779,"['Brent', 'Durbin-Daniel']",2019-06-10,19,B,B,Lawton,OK
+4348,4777,"['Jaquan', 'Derrick', 'Diijon', 'Thompson']",2019-06-11,27,B,B,Porteau,OK
+4353,4780,"['Brandon', 'Webber']",2019-06-12,20,B,B,Memphis,TN
+4355,4782,"['Marquis', 'Weems']",2019-06-13,17,B,B,Rockville,MD
+4356,4784,"['Tramon', 'Savage']",2019-06-13,22,B,B,Jacksonville,AR
+4359,4792,"['Mantry', 'Norris']",2019-06-15,20,B,B,Renton,WA
+4360,4793,"[""Ty'Rese"", 'West']",2019-06-15,18,B,B,Racine,WI
+4361,4794,"['Jamarcus', 'Dejun', 'Moore']",2019-06-15,28,B,B,Birmingham,AL
+4364,4786,"['Eric', 'Jack', 'Logan']",2019-06-16,53,B,B,South Bend,IN
+4372,4799,"['DeWayne', 'Watkins']",2019-06-18,74,B,B,Syracuse,NY
+4379,4808,"['Jaymil', 'Ellerbe']",2019-06-24,19,B,B,Boston,MA
+4380,4812,"['Bradley', 'Rundle']",2019-06-24,61,B,B,Englewood,FL
+4386,4816,"['Elijah', 'Collins', 'III']",2019-06-26,32,B,B,Sugarcreek,OH
+4387,4814,"['Marvin', 'Green']",2019-06-27,50,B,B,Springfield,FL
+4388,4817,"['Benjamin', 'Ray', 'Smith']",2019-06-27,54,B,B,Orangeburg,SC
+4394,4824,"['Gene', 'Pool']",2019-06-28,37,B,B,Pueblo,CO
+4404,4836,"['Ben', 'Fields']",2019-07-01,67,B,B,Port St. Lucie,FL
+4408,4841,"['Isaiah', 'Robinson']",2019-07-02,39,B,B,Elyria,OH
+4421,4846,"['Kareem', 'Omar', 'Morgan']",2019-07-06,43,B,B,Rosedale,MD
+4423,4844,"['Tymar', 'Crawford']",2019-07-07,28,B,B,Pensacola,FL
+4428,4860,"['Sean', 'Rambert']",2019-07-09,23,B,B,Greenville,NC
+4431,4861,"['Darrell', 'Allen']",2019-07-10,32,B,B,Adelanto,CA
+4438,5460,"['Jamahl', 'Smith']",2019-07-13,46,B,B,Orange,NJ
+4439,4870,"['Blige', 'Sean', 'Christopher', 'Cypress']",2019-07-14,22,B,B,Hollywood,FL
+4440,4877,"['Onaje', 'Dickinson']",2019-07-14,20,B,B,Penn Hills,PA
+4441,5461,"['Dijon', 'D.', 'Watkins']",2019-07-14,30,B,B,Dallas,TX
+4442,4869,"['Ashanti', 'Pinkney']",2019-07-15,49,B,B,Baltimore,MD
+4449,4875,"['Stephen', 'Murray']",2019-07-17,52,B,B,Modesto,CA
+4451,4883,"['Roderick', 'Wilson']",2019-07-17,35,B,B,Birmingham,AL
+4455,4880,"['Leo', 'Brooks']",2019-07-18,23,B,B,Metairie,LA
+4456,5466,"['Makeyvion', 'Devonte', 'Cannon']",2019-07-18,19,B,B,Fort Worth,TX
+4460,5468,"['Hashim', 'Jibiri', 'Wilson']",2019-07-21,28,B,B,Tacoma,WA
+4464,4887,"['Omari', 'Thompson']",2019-07-23,31,B,B,Ross Township,PA
+4466,4894,"['Josef', 'Delon', 'Richardson']",2019-07-25,38,B,B,Port Allen,LA
+4481,4917,"['Jamaal', 'Simpson']",2019-08-01,21,B,B,Los Angeles,CA
+4487,4908,"['Delano', 'Williams']",2019-08-02,55,B,B,Charlotte,NC
+4488,4911,"['Mario', 'Benjamin']",2019-08-02,34,B,B,Minneapolis,MN
+4489,4913,"['Deshon', 'Downing']",2019-08-02,45,B,B,Indianapolis,IN
+4490,4912,"[""De'Von"", 'Bailey']",2019-08-03,19,B,B,Colorado Springs,CO
+4494,4920,"['Aigon', 'Andrew', 'Wallace']",2019-08-03,25,B,B,Loganville,GA
+4498,4914,"['James', 'Lee', 'Kirkwood']",2019-08-05,49,B,B,Memphis,TN
+4501,4953,"['Kaizen', 'Crossen']",2019-08-05,39,B,B,Irvington,NJ
+4505,4928,"['Detravian', 'Allison']",2019-08-07,18,B,B,Longview,TX
+4506,4930,"['Toussaint', 'Diamon', 'Sims']",2019-08-08,27,B,B,Moss Point,MS
+4518,4940,"['Jerry', 'Orlando', 'Weaver']",2019-08-13,51,B,B,Clinton,TN
+4520,4943,"['Charles', 'Roy', 'Pearson']",2019-08-13,51,B,B,Kansas City,KS
+4527,4956,"['Rashad', 'Cunningham']",2019-08-17,25,B,B,Gary,IN
+4530,4963,"['Schaston', 'Theodore', 'Lamarr', 'Hodge']",2019-08-17,27,B,B,Dallas,TX
+4536,4976,"['Amari', 'Malone']",2019-08-21,18,B,B,Fort Worth,TX
+4542,4974,"['Michael', 'Tuck']",2019-08-22,29,B,B,Dayton,OH
+4548,4981,"['Channara', 'Tom', 'Pheap']",2019-08-26,33,B,B,Knoxville,TN
+4550,4986,"['Raymond', 'Lewis', 'Williams']",2019-08-27,37,B,B,Helena,AR
+4552,5473,"['Keith', 'Carter']",2019-08-27,52,B,B,Baton Rouge,LA
+4553,4989,"['Wallace', 'Wilder']",2019-08-28,62,B,B,Gordo,AL
+4554,4990,"['Tyrone', 'Domingo', 'Banks']",2019-08-28,30,B,B,Baltimore,MD
+4561,4994,"['Terry', 'Tillman']",2019-08-31,23,B,B,St. Louis,MO
+4563,4998,"['Kobe', 'Heisler']",2019-08-31,23,B,B,Brooklyn Center,MN
+4579,5008,"['Cortez', 'Shepherd']",2019-09-05,28,B,B,St. Louis,MO
+4582,5018,"['Vondarrow', 'Dewayne', 'Fisher']",2019-09-06,42,B,B,Glendora,CA
+4586,5016,"['Bennie', 'Branch']",2019-09-08,24,B,B,Tacoma,WA
+4587,5024,"['Quentin', 'Broadus']",2019-09-09,27,B,B,Oklahoma City,OK
+4590,5022,"['Bobby', 'Ray', 'Duckworth']",2019-09-10,26,B,B,Wellington,UT
+4592,5026,"['Tasjon', 'Tyreek', 'Osbourne']",2019-09-11,18,B,B,Columbus,OH
+4598,5039,"['Nicholas', 'Walker']",2019-09-14,31,B,B,Arlington,TX
+4599,5042,"['Melvin', 'Watkins']",2019-09-14,54,B,B,Baton Rouge,LA
+4603,5037,"['Ronald', 'Davis']",2019-09-15,31,B,B,St. Paul,MN
+4605,5035,"['Eric', 'Carter']",2019-09-16,53,B,B,Washington,DC
+4612,5248,"['Gregory', 'Edwards']",2019-09-17,39,B,B,New York,NY
+4615,5489,"['Willie', 'Hudson']",2019-09-18,33,B,B,Memphis,TN
+4616,5488,"['Shawn', 'Stevens']",2019-09-18,49,B,B,Wilkinsburg,PA
+4617,5044,"['Jordan', 'Michael', 'Griffin']",2019-09-19,18,B,B,Long Beach,CA
+4632,5052,"['Leonard', 'Shand']",2019-09-26,49,B,B,Hyattsville,MD
+4636,5063,"['Jamaal', 'Ramone', 'Taylor']",2019-09-28,31,B,B,Baltimore,MD
+4640,5064,"['Antonio', 'Williams']",2019-09-29,27,B,B,New York,NY
+4650,5082,"['Michael', 'John']",2019-10-03,24,B,B,Oklahoma City,OK
+4656,5088,"['Maurice', 'Holley']",2019-10-06,55,B,B,Sacramento,CA
+4659,5086,"['Crederick', 'Joseph']",2019-10-08,37,B,B,Beaumont,TX
+4662,5083,"['Leo', 'Craig']",2019-10-09,31,B,B,Oklahoma City,OK
+4668,5090,"['Atatiana', 'Jefferson']",2019-10-12,28,B,B,Fort Worth,TX
+4670,5094,"['Sawandi', 'Asad', 'Toussaint']",2019-10-12,21,B,B,El Monte,CA
+4676,5099,"['Christopher', 'Whitfield']",2019-10-14,31,B,B,Ethel,LA
+4677,5101,"['Victor', 'Jarvis']",2019-10-14,61,B,B,High Point,NC
+4681,5106,"['Nasheem', 'Prioleau']",2019-10-15,30,B,B,New York,NY
+4683,5220,"['Akinyia', 'Malik', 'Jerome', 'Gray']",2019-10-15,26,B,B,Stone Mountain,GA
+4685,5108,"['Lazzeri', 'James', 'Frazier']",2019-10-16,21,B,B,Sherman Oaks,CA
+4688,5113,"['Christopher', 'DeQuan', 'Crosby']",2019-10-17,34,B,B,Warren,AR
+4689,5476,"['Cameron', 'Bennett']",2019-10-17,22,B,B,Fayette,MS
+4696,5116,"['Steven', 'Day']",2019-10-20,30,B,B,St. Louis,MO
+4706,5139,"['Victor', 'Hernandez']",2019-10-23,29,B,B,New York,NY
+4708,5141,"['Delfon', 'Kinney']",2019-10-23,44,B,B,Long Beach,CA
+4714,5132,"['Kwesi', 'Ashun']",2019-10-25,33,B,B,New York,NY
+4722,5130,"['Earnest', 'Easterling']",2019-10-27,25,B,B,Carmichael,CA
+4723,5127,"['Dana', 'Sherrod', 'Fletcher']",2019-10-27,39,B,B,Madison,AL
+4726,5146,"['John', 'Feggins']",2019-10-30,24,B,B,Baltimore,MD
+4741,5154,"['Michael', 'Austin']",2019-11-03,32,B,B,Phoenix,AZ
+4746,5167,"['Maurice', 'Brown']",2019-11-05,48,B,B,East Cleveland,OH
+4750,5164,"['Eddie', 'Ray', 'Maxwell']",2019-11-06,37,B,B,Tahlequah,OK
+4753,5170,"['Treva', 'Smutherman']",2019-11-06,31,B,B,Fayetteville,NC
+4755,5177,"['Shelby', 'Gazaway']",2019-11-07,32,B,B,Louisville,KY
+4768,5195,"['Roy', 'McAllister']",2019-11-13,27,B,B,Wilson,NC
+4773,5190,"['Treon', 'McCoy']",2019-11-15,33,B,B,Charlotte,NC
+4775,5193,"['Mark', 'Sheppard']",2019-11-15,27,B,B,Cleveland,OH
+4779,5194,"['Dante', 'Redmond', 'Jones']",2019-11-18,28,B,B,Franklin County,WA
+4785,5483,"['Christopher', 'Terrell', 'Willis']",2019-11-19,32,B,B,Des Plaines,IL
+4789,5208,"['Kenneth', 'Simeus']",2019-11-20,18,B,B,Henderson,NV
+4792,5225,"['Lance', 'Edward', 'Smith']",2019-11-22,37,B,B,Elizabethtown,NC
+4793,5209,"['Ariane', 'Lamont', 'McCree']",2019-11-23,28,B,B,Chester,SC
+4796,5223,"['Nathaniel', 'Pinnock']",2019-11-25,22,B,B,Los Angeles,CA
+4800,5484,"['Micduff', 'Lamarco', 'Robinson']",2019-11-27,40,B,B,Mansfield,OH
+4802,5240,"['Derrick', 'Everett']",2019-11-28,30,B,B,Tampa,FL
+4811,5229,"['Jimmie', 'Phillips']",2019-12-01,68,B,B,Morrow,GA
+4816,5230,"['Jerric', 'Harris']",2019-12-02,21,B,B,Daytona Beach,FL
+4818,5249,"['Michael', 'Dean']",2019-12-02,28,B,B,Temple,TX
+4821,5250,"['Cameron', 'Lamb']",2019-12-03,26,B,B,Kansas City,MO
+4822,5257,"['Miguel', 'Russo']",2019-12-03,31,B,B,Syracuse,NY
+4823,5255,"['Alvern', 'Donnell', 'Walker']",2019-12-05,58,B,B,Avon,CO
+4824,5256,"['Demetrius', 'Williams']",2019-12-05,31,B,B,Marshall,TX
+4825,5260,"['Lamar', 'Alexander']",2019-12-05,41,B,B,Miramar,FL
+4826,5261,"['Ronnie', 'Jerome', 'Hill']",2019-12-05,41,B,B,Miramar,FL
+4829,5254,"['Dominick', 'Matt']",2019-12-06,17,B,B,Bentonville,AR
+4833,5262,"['Antonio', 'Nichols']",2019-12-09,47,B,B,St. Helena Parish,LA
+4836,5269,"['Kreed', 'Cornell', 'Bateman']",2019-12-10,31,B,B,Andrews,SC
+4837,5270,"['Montay', 'Steven', 'Penning']",2019-12-10,23,B,B,Beloit,WI
+4838,5271,"['Francine', 'Graham']",2019-12-10,50,B,B,Jersey City,NJ
+4839,5272,"['David', 'N.', 'Anderson']",2019-12-10,47,B,B,Jersey City,NJ
+4844,5280,"['Cortez', 'Bufford']",2019-12-12,24,B,B,St. Louis,MO
+4846,5282,"['Taveonte', 'Art', 'Emmanuel']",2019-12-12,34,B,B,Anaheim,CA
+4849,5297,"['Romello', 'Barnes']",2019-12-12,22,B,B,Tampa,FL
+4851,5273,"['Jamee', 'Christopher', 'Deonte', 'Johnson']",2019-12-14,22,B,B,Jacksonville,FL
+4853,5278,"['Louis', 'Patrick', 'Veal']",2019-12-14,65,B,B,Redford Township,MI
+4871,5309,"['Kentrey', 'Marquis', 'Witherspoon']",2019-12-19,28,B,B,Lenoir,NC
+4873,5306,"['Emanuel', 'Johnson']",2019-12-19,21,B,B,Brentwood,NY
+4875,5308,"['Steven', 'DeWayne', 'Haizlip']",2019-12-20,61,B,B,Winston-Salem,NC
+4876,5299,"['Mohamed', 'Ahemed', 'Al-Hashemi']",2019-12-20,25,B,B,Tempe,AZ
+4881,5300,"['Romir', 'Talley']",2019-12-22,24,B,B,Wilkinsburg,PA
+4883,5327,"['Kenneth', 'Collins']",2019-12-22,46,B,B,Hattiesburg,MS
+4888,5331,"['Elray', 'Barber']",2019-12-24,60,B,B,Oklahoma City,OK
+4891,5330,"['Deangelo', 'Rashad', 'Martin']",2019-12-25,23,B,B,Atlanta,GA
+4892,5314,"['Antonio', 'Smith']",2019-12-26,35,B,B,Memphis,TN
+4911,5333,"['Frederick', 'Perkins']",2019-12-31,37,B,B,Chesterfield,MO
+4913,5358,"['Malik', 'Williams']",2019-12-31,23,B,B,Federal Way,WA
+4914,5359,"['Terry', 'Hudson']",2019-12-31,57,B,B,Omaha,NE
+4922,5349,"['Jamari', 'Daiwon', 'Tarver']",2020-01-02,26,B,B,North Las Vegas,NV
+4926,5341,"['Tyree', 'Davis']",2020-01-04,25,B,B,Chicago,IL
+4928,5335,"['Kwamae', 'Jones']",2020-01-05,17,B,B,Jacksonville,FL
+4929,5336,"['Brandon', 'D.', 'Roberts']",2020-01-05,27,B,B,Milford,DE
+4931,5352,"['Miciah', 'Lee']",2020-01-05,18,B,B,Sparks,NV
+4941,5362,"['Earl', 'Facey']",2020-01-09,37,B,B,New York,NY
+4944,5571,"['Claude', 'Fain']",2020-01-09,47,B,B,Philadelphia,PA
+4949,5501,"['Henry', 'Isaac', 'Jones']",2020-01-11,47,B,B,Bainbridge,GA
+4950,5369,"['Ryan', 'O.', 'Simms']",2020-01-11,49,B,B,Miami Beach,FL
+4954,5371,"['Keenan', 'McCain']",2020-01-13,29,B,B,Gary,IN
+4957,5378,"['Renard', 'Antonio', 'Daniels']",2020-01-15,55,B,B,Cocoa,FL
+4961,5375,"['Albert', 'Lee', 'Hughes']",2020-01-15,47,B,B,Lawrenceville,GA
+4964,5377,"['Murbarak', 'Soulemane']",2020-01-16,19,B,B,West Haven,CT
+4965,5376,"['Samuel', 'David', 'Mallard']",2020-01-17,19,B,B,Powder Springs,GA
+4972,5407,"['Reginald', 'Leon', 'Boston']",2020-01-21,20,B,B,Jacksonville,FL
+4974,5385,"['Darius', 'J.', 'Tarver']",2020-01-21,22,B,B,Denton,TX
+4979,5429,"['Deandre', 'Lee', 'Seaborough-Patterson']",2020-01-23,22,B,B,Savannah,GA
+4982,5433,"['Marquis', 'Golden']",2020-01-23,29,B,B,St. Petersburg,FL
+4983,5506,"['Andrew', 'Smyrna']",2020-01-23,32,B,B,Atlanta,GA
+4984,5507,"['Michael', 'Rivera']",2020-01-23,32,B,B,Bloomingdale,NJ
+4988,5425,"[""D'ovion"", 'Semaj', 'Perkins']",2020-01-25,19,B,B,Aurora,CO
+4989,5426,"['Joshua', 'James', 'Brown']",2020-01-25,34,B,B,Columbus,OH
+4991,5434,"['William', 'Howard', 'Green']",2020-01-27,43,B,B,Temple Hills,MD
+4992,5435,"['Aaron', 'T.', 'Brooker']",2020-01-27,22,B,B,Aiken,SC
+4997,5441,"['Jaquyn', 'Oneill', 'Light']",2020-01-29,20,B,B,Graham,NC
+5001,5456,"['Abdirahman', 'Salad']",2020-01-30,15,B,B,Columbus,OH
+5002,5457,"['Keith', 'Dutree', 'Collins']",2020-01-30,52,B,B,Raleigh,NC
+5003,5504,"['Richard', 'Davis']",2020-01-30,29,B,B,Kansas City,MO
+5004,5493,"['Leonard', 'Parker']",2020-02-01,53,B,B,Gulfport,MS
+5006,5566,"['Ronnell', 'Mouzon']",2020-02-01,41,B,B,Fort Myers,FL
+5007,5495,"['Alvin', 'Cole']",2020-02-02,17,B,B,Wauwatosa,WI
+5010,5494,"['Marc', 'Dominic', 'Neal']",2020-02-03,56,B,B,Millcreek,UT
+5011,5513,"['Darius', 'Tarver']",2020-02-04,23,B,B,Denton,TX
+5013,5563,"['Dominique', 'Antwon', 'Anderson']",2020-02-04,26,B,B,Home Garden,CA
+5026,5521,"['Jeremy', 'Grayson']",2020-02-09,31,B,B,Chicago,IL
+5028,5527,"['Bobby', 'Gibbs']",2020-02-10,40,B,B,Forrest City,AR
+5044,5533,"['Kerry', 'Michael', 'Bounsom']",2020-02-16,33,B,B,Long Beach,CA
+5049,5531,"['Kevin', 'Adolphe']",2020-02-18,23,B,B,Orlando,FL
+5051,5556,"['Joseph', 'Jewell']",2020-02-20,17,B,B,Columbus,OH
+5062,5573,"['Kenneth', 'Sashington']",2020-02-25,38,B,B,Tuscumbia,AL
+5063,5589,"['SanJuan', 'Migayle', 'Thomas']",2020-02-25,39,B,B,Shreveport,LA
+5064,5590,"['Matthew', 'Felix']",2020-02-25,19,B,B,New York,NY
+5070,5593,"['Justin', 'Lee', 'Stackhouse']",2020-02-26,30,B,B,Bradenton,FL
+5079,5580,"['Anthony', 'Taylor']",2020-02-29,49,B,B,Milwaukee,WI
+5095,5656,"['Elijah', 'Jamaal', 'Brewer']",2020-03-05,25,B,B,Pittsburgh,PA
+5097,5619,"['Tyler', 'M.', 'Jones']",2020-03-06,24,B,B,Fairfield,OH
+5098,5620,"['Barry', 'Gedeus']",2020-03-06,27,B,B,Fort Lauderdale,FL
+5115,5663,"['Donnie', 'Sanders']",2020-03-12,47,B,B,Kansas City,MO
+5116,5626,"['Breonna', 'Taylor']",2020-03-13,26,B,B,Louisville,KY
+5132,5636,"['Darwin', 'Foy']",2020-03-16,35,B,B,Webster City,IA
+5138,5711,"['William', 'Simpkins']",2020-03-17,39,B,B,Atlanta,GA
+5139,5651,"['Harold', 'Spencer']",2020-03-18,61,B,B,Iota,LA
+5141,5652,"['Lebarron', 'Ballard']",2020-03-18,28,B,B,Abilene,TX
+5145,5647,"['Mycael', 'Johnson']",2020-03-20,31,B,B,Tallahassee,FL
+5146,5648,"['Kamaal', 'Koby', 'Edwards']",2020-03-20,18,B,B,Cuthbert,GA
+5147,5649,"['Alvin', 'Lamont', 'Baum']",2020-03-20,23,B,B,Virginia Beach,VA
+5150,5641,"['Gerald', 'Johnson']",2020-03-22,55,B,B,Sacramento,CA
+5162,5693,"['Tyrell', 'Fincher']",2020-03-27,26,B,B,Newburgh,NY
+5168,5698,"['Etonne', 'Tanzymore']",2020-03-30,38,B,B,Baltimore,MD
+5176,5706,"['Nathan', 'R.', 'Hodge']",2020-04-02,66,B,B,Ouachita Parish,LA
+5190,5727,"['Idris', 'Abdus-Salaam']",2020-04-07,33,B,B,Knoxville,TN
+5194,5731,"['Dewayne', 'Curtis', 'Lafond']",2020-04-07,45,B,B,Refugio,TX
+5196,5733,"['Joshua', 'Dariandre', 'Ruffin']",2020-04-08,17,B,B,Columbia,SC
+5197,5734,"['Zyon', 'Romeir', 'Wyche']",2020-04-09,19,B,B,Colonial Heights,VA
+5203,5739,"['Jonathan', 'Lee', 'Adams']",2020-04-11,31,B,B,Pottstown,PA
+5215,5748,"['Goldie', 'Bellinger']",2020-04-15,39,B,B,Augusta,GA
+5219,5749,"['Jasman', 'Washington']",2020-04-16,31,B,B,Lubbock,TX
+5222,5671,"['Steven', 'Taylor']",2020-04-18,33,B,B,San Leandro,CA
+5223,5672,"['Willie', 'J.', 'Hampton']",2020-04-18,37,B,B,Raytown,MO
+5226,5761,"['Virgill', 'Thrope']",2020-04-19,28,B,B,Colorado Springs,CO
+5227,5756,"['Chase', 'Rosa']",2020-04-21,24,B,B,Las Vegas,NV
+5229,5759,"['Elmer', 'L.', 'Mack']",2020-04-22,40,B,B,Florence,SC
+5232,5917,"['Joshua', 'Johnson']",2020-04-22,35,B,B,Houston,TX
+5234,5862,"['Fred', 'Brown']",2020-04-23,34,B,B,North Las Vegas,NV
+5238,5754,"['Marlon', 'Aaron', 'Bonds']",2020-04-24,53,B,B,Denton,TX
+5239,5755,"['Roy', 'Joiner']",2020-04-24,67,B,B,Adel,GA
+5247,5950,"['Jonas', 'Joseph']",2020-04-28,26,B,B,Tampa,FL
+5251,5787,"['Malcolm', 'Xavier', 'Ray', 'Williams']",2020-04-29,27,B,B,Jeffersonville,IN
+5254,5776,"['William', 'Debose']",2020-05-01,21,B,B,Denver,CO
+5256,5778,"['Shaun', 'Lee', 'Fuhr']",2020-05-01,24,B,B,Seattle,WA
+5258,5780,"['Brent', 'Martin']",2020-05-01,32,B,B,Little Rock,AR
+5259,5781,"['Said', 'Joquin']",2020-05-01,26,B,B,Lakewood,WA
+5270,5814,"['Demontre', 'Bruner']",2020-05-04,21,B,B,Muskogee,OK
+5271,5807,"['Qavon', 'Webb']",2020-05-05,23,B,B,Webster Groves,MO
+5275,5812,"[""Jah'Sean"", 'Iandie', 'Hodge']",2020-05-05,21,B,B,St. Cloud,FL
+5277,5790,"['Dreasjon', 'Reed']",2020-05-06,21,B,B,Indianapolis,IN
+5283,5872,"['McHale', 'Rose']",2020-05-07,19,B,B,Indianapolis,IN
+5285,5789,"['Adrian', 'Medearis']",2020-05-08,48,B,B,Houston,TX
+5288,5792,"['Finan', 'H.', 'Berhe']",2020-05-09,30,B,B,Silver Spring,MD
+5289,5794,"['Yassin', 'Mohamed']",2020-05-09,47,B,B,Claxton,GA
+5297,5835,"['David', 'Tylek', 'Atkinson']",2020-05-13,24,B,B,Raleigh,NC
+5298,5827,"['Rayshard', 'Scales']",2020-05-14,30,B,B,Houston,TX
+5306,5823,"['Robert', 'Johnson']",2020-05-16,29,B,B,Essex,MD
+5308,5828,"['Randy', 'Roszell', 'Lewis']",2020-05-16,38,B,B,Houston,TX
+5315,5820,"['Wilbon', 'Cleveland', 'Woodard']",2020-05-19,69,B,B,Tallahassee,FL
+5317,5816,"['Terry', 'Caver']",2020-05-19,57,B,B,Seattle,WA
+5320,5894,"['Tobby', 'Wiggins']",2020-05-20,45,B,B,Atmore,AL
+5323,5892,"['Willie', 'Lee', 'Quarles']",2020-05-21,60,B,B,Greenwood,SC
+5325,5873,"['Maurice', 'S.', 'Gordon']",2020-05-23,28,B,B,Bass River,NJ
+5326,5874,"['Christopher', 'Clark']",2020-05-23,36,B,B,Paterson,NJ
+5332,5841,"['Dion', 'Johnson']",2020-05-25,28,B,B,Phoenix,AZ
+5344,5843,"['Tony', 'McDade']",2020-05-27,38,B,B,Tallahassee,FL
+5350,5846,"['Modesto', 'Reyes']",2020-05-27,35,B,B,Jefferson Parish,LA
+5353,5906,"['Ruben', 'Smith']",2020-05-28,35,B,B,North Little Rock,AR
+5358,5849,"['Terrell', 'Mitchell']",2020-05-29,35,B,B,Philadelphia,PA
+5359,5850,"['Momodou', 'Lamin', 'Sisay']",2020-05-29,39,B,B,Snellville,GA
+5360,5879,"['Jarvis', 'Sullivan']",2020-05-29,44,B,B,Yulee,FL
+5362,5863,"['Derrick', 'Thompson']",2020-05-30,46,B,B,Fountain,FL
+5365,5842,"['David', 'McAtee']",2020-06-01,53,B,B,Louisville,KY
+5370,5897,"['Tyquarn', 'Graves']",2020-06-02,33,B,B,Brooklyn,NY
+5377,5899,"['Kamal', 'Flowers']",2020-06-06,24,B,B,New Rochelle,NY
+5382,5935,"['Donald', 'L.', 'Hunter']",2020-06-07,39,B,B,Adrian,MO
+5385,5911,"['Lewis', 'Ruffin']",2020-06-09,38,B,B,Orlando,FL
+5391,5915,"['Michael', 'Thomas']",2020-06-11,62,B,B,Lancaster,CA
+5392,5916,"['Rayshard', 'Brooks']",2020-06-12,27,B,B,Atlanta,GA
+5393,5925,"['Caine', 'Van', 'Pelt']",2020-06-12,23,B,B,Crown Point,IN
+5399,5926,"['Brandon', 'Gardner']",2020-06-16,24,B,B,Beach Park,IL
+5400,5927,"['Donald', 'Ward']",2020-06-16,27,B,B,Phoenix,AZ
+5401,5928,"['Terron', 'Jammal', 'Boone']",2020-06-17,31,B,B,Rosamond,CA
+5419,6071,"['Chazz', 'Hailey']",2020-06-23,22,B,B,Sherman,TX
+5421,6072,"['Skyleur', 'Young']",2020-06-24,31,B,B,San Bernardino,CA
+5423,5948,"['Robert', ""D'Lon"", 'Harris']",2020-06-25,34,B,B,Vinita,OK
+5425,6073,"['Rasheed', 'M.', 'Moorman']",2020-06-25,26,B,B,Roanoke,VA
+5434,5951,"['Aloysius', 'Keaton']",2020-06-27,58,B,B,Little Rock,AR
+5443,5976,"['Ky', 'Johnson']",2020-07-02,31,B,B,Kansas City,MO
+5444,5959,"['Kevan', 'Ruffin']",2020-07-02,32,B,B,Sheboygan,WI
+5451,5970,"['Joseph', 'W.', 'Denton']",2020-07-06,35,B,B,Milwaukee,WI
+5458,5987,"['Richard', 'Lewis', 'Price']",2020-07-09,49,B,B,San Diego,CA
+5460,5981,"['Hakim', 'Littleton']",2020-07-10,20,B,B,Detroit,MI
+5461,5986,"['Kanavis', 'Dujuan', 'Glass']",2020-07-10,31,B,B,Panama City,FL
+5470,5990,"['Vincent', 'Demario', 'Truitt']",2020-07-14,17,B,B,Cobb County,GA
+5474,5993,"['Antwane', 'Burrise']",2020-07-15,39,B,B,Stockton,CA
+5480,6001,"['Malcolm', 'Comeaux']",2020-07-17,24,B,B,Houston,TX
+5481,5998,"['Darius', 'Washington']",2020-07-18,24,B,B,Chicago Heights,IL
+5482,6079,"['Grant', 'King']",2020-07-19,35,B,B,Indianapolis,IN
+5483,5999,"['Vincent', 'Harris']",2020-07-20,51,B,B,Baton Rouge,LA
+5486,6004,"['Southern', 'Jeremy']",2020-07-21,22,B,B,Sacramento,CA
+5491,6015,"['Chester', 'Jenkins']",2020-07-24,61,B,B,Stockton,CA
+5493,6022,"['David', 'Earl', 'Brooks']",2020-07-24,45,B,B,Roxboro,NC
+5503,6025,"['Winston', 'Joseph', 'Latour']",2020-07-29,37,B,B,Lake Charles,LA
+5507,6029,"['Darrien', 'Walker']",2020-07-30,28,B,B,Detroit,MI
+5521,6030,"['Amir', 'Johnson']",2020-08-06,30,B,B,Ventnor,NJ
+5526,6055,"['Salaythis', 'Melvin']",2020-08-07,22,B,B,Orlando,FL
+5529,6088,"['Julian', 'Edward', 'Roosevelt', 'Lewis']",2020-08-07,60,B,B,Sylvania,GA
+5533,6051,"['Jonathan', 'Jefferson']",2020-08-08,34,B,B,Bossier City,LA
+5550,6046,"['Anthony', 'McClain']",2020-08-15,32,B,B,Pasadena,CA
+5562,6093,"['Adrian', 'Jason', 'Roberts']",2020-08-18,37,B,B,Cumberland County,NC
+5571,6106,"['Hasani', 'Best']",2020-08-21,39,B,B,Asbury Park,NJ
+5573,6105,"['Trayford', 'Pellerin']",2020-08-21,31,B,B,Lafayette,LA
+5574,6107,"['Christopher', 'Walker']",2020-08-22,29,B,B,Rancho Cordova,CA
+5576,6108,"['Gearil', 'Leonard', 'Williams']",2020-08-23,47,B,B,Kingsland,GA
+5582,6117,"['Damian', 'Lamar', 'Daniels']",2020-08-25,31,B,B,San Antonio,TX
+5585,6122,"['Julius', 'Kehyei']",2020-08-26,29,B,B,Houston,TX
+5589,6127,"['Donny', 'Walker']",2020-08-29,43,B,B,Dearborn Heights,MI
+5590,6128,"['Michael', 'Anthony', 'Harris']",2020-08-29,44,B,B,Holly Hill,FL
+5593,6134,"['Dijon', 'Kizzee']",2020-08-31,29,B,B,Los Angeles,CA
+5598,6138,"['Deon', 'Kay']",2020-09-02,18,B,B,Washington,DC
+5602,6141,"['Steve', 'D.', 'Smith']",2020-09-04,33,B,B,Syracuse,NY
+5605,6151,"['Major', 'Carvel', 'Baldwin']",2020-09-05,61,B,B,San Antonio,TX
+5606,6148,"['Shaon', 'Jermy', 'Ochea', 'Walker']",2020-09-05,34,B,B,Chicago,IL
+5611,6153,"['Steve', 'Gilbert']",2020-09-08,33,B,B,Delray Beach,FL
+5615,6158,"['Robert', 'Samuel', 'Craig', 'Lusk']",2020-09-10,18,B,B,Norcross,GA
+5617,6164,"['Jonathan', 'Darsaw']",2020-09-10,49,B,B,Moscow,TN
+5621,6159,"['Robert', 'Coleman']",2020-09-12,88,B,B,West Sacramento,CA
+5626,6173,"['Darrell', 'Zemault']",2020-09-15,55,B,B,San Antonio,TX
+5634,6181,"['Charles', 'Eric', 'Moses']",2020-09-19,33,B,B,Brunswick,GA
+5636,6192,"['Derek', 'Cooper']",2020-09-19,52,B,B,Talking Rock,GA
+5638,6176,"['Patches', 'Holmes']",2020-09-21,26,B,B,St. Louis,MO
+5640,6179,"['Dearian', 'Bell']",2020-09-21,28,B,B,Atlanta,GA
+5644,6184,"['Kurt', 'Andras', 'Reinhold']",2020-09-23,42,B,B,San Clemente,CA
+5652,6203,"['Willie', 'Shropshire']",2020-09-28,57,B,B,Avondale,LA
+5654,6202,"['Demarco', 'Riley']",2020-09-30,27,B,B,Decatur,GA
+5658,6208,"['Mickel', 'Erich', 'Lewis']",2020-10-02,39,B,B,Mojave,CA
+5663,6204,"['Jonathan', 'Price']",2020-10-03,32,B,B,Wolfe City,TX
+5673,6217,"['Stanley', 'Cochran']",2020-10-08,29,B,B,Philadelphia,PA
+5674,6218,"['Tyran', 'Dent']",2020-10-08,24,B,B,New York,NY
+5684,6229,"['Anthony', 'Jones']",2020-10-12,24,B,B,Bethel Springs,TN
+5688,6240,"['Kevin', 'Carr']",2020-10-14,23,B,B,Los Angeles,CA
+5693,6370,"['Dana', 'Mitchell', 'Young']",2020-10-15,47,B,B,Los Angeles,CA
+5696,6238,"['Fred', 'Williams']",2020-10-16,25,B,B,Los Angeles,CA
+5697,6246,"['Akbar', 'Muhammad', 'Eaddy']",2020-10-16,27,B,B,Rock Island,IL
+5713,6248,"['Marcellis', 'Stinnette']",2020-10-20,19,B,B,Waukegan,IL
+5715,6251,"['Rodney', 'Arnez', 'Barnes']",2020-10-20,48,B,B,Elmwood Place,OH
+5719,6380,"['Dominque', 'Mulkey']",2020-10-20,26,B,B,Tampa,FL
+5720,6249,"['Gregory', 'Jackson']",2020-10-21,45,B,B,Moss Point,MS
+5723,6259,"['Mark', 'Matthew', 'Bender']",2020-10-22,35,B,B,San Bernardino,CA
+5730,6382,"['Ennice', 'Ross']",2020-10-23,26,B,B,Kansas City,MO
+5735,6255,"['Jakerion', 'Shmond', 'Jackson']",2020-10-24,19,B,B,Sylvester,GA
+5739,6266,"['Walter', 'Wallace']",2020-10-26,27,B,B,Philadelphia,PA
+5745,6277,"['Maurice', 'Parker']",2020-10-27,34,B,B,Las Vegas,NV
+5749,6272,"['Kevin', 'Edward', 'Peterson']",2020-10-29,21,B,B,Hazel Dell,WA
+5769,6287,"['Michael', 'Wright']",2020-11-04,52,B,B,Sacramento,CA
+5771,6289,"['Justin', 'Darryel', 'Reed']",2020-11-04,33,B,B,Jacksonville,FL
+5776,6343,"['Reginald', 'Alexander']",2020-11-05,25,B,B,El Centro,TX
+5782,6292,"['Rodriguez', 'Duandre', 'Pam']",2020-11-08,33,B,B,Evansville,IN
+5784,6353,"['Frederick', 'Cox']",2020-11-08,18,B,B,High Point,NC
+5785,6293,"['Rodney', 'Eubanks']",2020-11-09,25,B,B,Baltimore,MD
+5790,6307,"['Vusumuzi', 'Kunene']",2020-11-10,36,B,B,Lanham,MD
+5794,6306,"['Brandon', 'Milburn']",2020-11-11,37,B,B,Oklahoma City,OK
+5798,6311,"['Sincere', 'Pierce']",2020-11-13,18,B,B,Cocoa,FL
+5799,6312,"['Angelo', 'Crooms']",2020-11-13,16,B,B,Cocoa,FL
+5800,6318,"['Arthur', 'Keith']",2020-11-13,19,B,B,Cleveland,OH
+5801,6347,"['Tracey', 'Leon', 'McKinney']",2020-11-13,41,B,B,Gulfport,MS
+5810,6313,"['Shane', 'K.', 'Jones']",2020-11-16,38,B,B,Dania Beach,FL
+5812,6319,"['Javon', 'Brice']",2020-11-17,39,B,B,La Vergne,TN
+5815,6331,"['Devon', 'Tillman', 'Gregory']",2020-11-17,18,B,B,Jacksonville,FL
+5816,6346,"['Shawn', 'Braddy']",2020-11-17,37,B,B,Laurel,MD
+5817,6659,"['Kesner', 'Liberal']",2020-11-17,39,B,B,Miami,FL
+5819,6323,"['Kenneth', 'Jones']",2020-11-19,35,B,B,Omaha,NE
+5820,6344,"['Rodney', 'Applewhite']",2020-11-19,25,B,B,Los Lunas,NM
+5835,6336,"['Rondell', 'Goppy']",2020-11-24,41,B,B,Queens,NY
+5837,6341,"['Ellis', 'Acy', 'Frye']",2020-11-26,62,B,B,Culpeper,VA
+5842,6339,"['Cory', 'Donell', 'Truxillo']",2020-11-29,43,B,B,Houma,LA
+5843,6516,"['Alonzo', 'Leroy', 'Landy']",2020-11-29,32,B,B,Fayette County,GA
+5844,6363,"['Ekom', 'Udofia']",2020-11-30,33,B,B,Phoenix,AZ
+5846,6365,"['Mickee', 'McArthur']",2020-11-30,28,B,B,Pensacola,FL
+5848,6407,"['Kevin', 'Fox']",2020-12-01,28,B,B,Detroit,MI
+5849,6426,"['James', 'David', 'Hawley']",2020-12-01,47,B,B,Pineville,LA
+5851,6398,"['Dominique', 'Harris']",2020-12-02,20,B,B,St. Petersburg,FL
+5852,6396,"['Maurice', 'Jackson']",2020-12-03,42,B,B,Phoenix,AZ
+5854,6402,"['Casey', 'Christopher', 'Goodson']",2020-12-04,23,B,B,Columbus,OH
+5856,6427,"['Andre', 'Sterling']",2020-12-04,35,B,B,New York,NY
+5862,6401,"['Mark', 'Brewer']",2020-12-06,28,B,B,St. Louis,MO
+5863,6411,"['Donald', 'Edwin', 'Saunders']",2020-12-06,37,B,B,Dayton,OH
+5865,6665,"['Thomas', 'Reeder']",2020-12-07,44,B,B,Flint,MI
+5869,6412,"['Joshua', 'Feast']",2020-12-09,22,B,B,La Marque,TX
+5871,6666,"['Joseph', 'R.', 'Crawford-Lamal']",2020-12-09,23,B,B,Fort Atkinson,WI
+5881,6424,"['Dewayne', 'Taylor']",2020-12-11,31,B,B,Cleveland,OH
+5882,6419,"['Bennie', 'Edwards']",2020-12-11,60,B,B,Oklahoma City,OK
+5891,6431,"['Jeremy', 'Daniels']",2020-12-16,29,B,B,Concord,NC
+5905,6434,"['Andre', 'Maurice', 'Hill']",2020-12-22,47,B,B,Columbus,OH
+5914,6452,"['Shamar', 'Ogman']",2020-12-26,30,B,B,Hartford,CT
+5916,6456,"['Helen', 'Jones']",2020-12-28,47,B,B,Phoenix,AZ
+5921,6472,"['Larry', 'Hamm']",2020-12-28,47,B,B,Denver,CO
+5925,6464,"['Jaquan', 'Haynes']",2020-12-29,18,B,B,Atlanta,GA
+5926,6465,"['Jason', 'Cooper']",2020-12-29,28,B,B,Charleston,SC
+5928,6670,"['Shyheed', 'Robert', 'Boyd']",2020-12-29,21,B,B,Highland,CA
+5931,6474,"['Dolal', 'Idd']",2020-12-30,23,B,B,Minneapolis,MN
+5936,6480,"['Carl', 'Dorsey']",2021-01-01,39,B,B,Newark,NJ
+5937,6483,"['Isaac', 'Matheny']",2021-01-01,37,B,B,Valley Falls,OR
+5942,6479,"['La', 'Garion', 'Lamar', 'Smith']",2021-01-03,27,B,B,Homestead,FL
+5947,6508,"['Vincent', 'Belmonte']",2021-01-05,18,B,B,Cleveland,OH
+5955,6503,"['Kwamena', 'Ocran']",2021-01-08,24,B,B,Gaithersburg,MD
+5960,6680,"['Jason', 'Nightengale']",2021-01-09,32,B,B,Evanston,IL
+5961,6681,"['Paul', 'Bolden']",2021-01-09,37,B,B,Phoenix,AZ
+5962,6485,"['Patrick', 'Lynn', 'Warren']",2021-01-10,52,B,B,Killeen,TX
+5964,6495,"['Xzavier', 'D.', 'Hill']",2021-01-10,18,B,B,Goochland County,VA
+5966,6682,"['Mark', 'Bivins']",2021-01-10,28,B,B,Munster,IN
+5974,6497,"['Lymond', 'Moses']",2021-01-13,30,B,B,Wilmington,DE
+5979,6521,"['Reginald', 'Johnson']",2021-01-15,48,B,B,Biloxi,MS
+5980,6522,"['Kershawn', 'Geyger']",2021-01-15,24,B,B,Carmichael,CA
+5983,6527,"['Zonterious', 'Johnson']",2021-01-17,24,B,B,Lawton,OK
+5986,6529,"['Christopher', 'Harris']",2021-01-18,27,B,B,Toledo,OH
+5991,6534,"['Eusi', 'Malik', 'Kater']",2021-01-20,21,B,B,Birmingham,AL
+5998,6541,"['Tyree', 'Kajuan', 'Rogers']",2021-01-24,38,B,B,Wichita Falls,TX
+6007,6684,"['Randy', 'Miller']",2021-01-27,55,B,B,Los Angeles,CA
+6012,6555,"['Karl', 'Walker']",2021-01-31,29,B,B,Dixon,CA
+6027,6579,"['Treyh', 'Webster']",2021-02-04,18,B,B,Mobile,AL
+6028,6580,"['Dontae', 'Green']",2021-02-04,34,B,B,Baltimore,MD
+6030,6607,"['Jenoah', 'Donald']",2021-02-04,30,B,B,Hazel Dell,WA
+6033,6601,"['Christopher', 'Hagans']",2021-02-05,36,B,B,Stratford,CT
+6034,6685,"['Phillip', 'Francis']",2021-02-05,43,B,B,Pine Hills,FL
+6035,6574,"['Andrew', 'Hogan']",2021-02-05,25,B,B,Trotwood,OH
+6043,6567,"['Dustin', 'Demaurean', 'Powell']",2021-02-07,34,B,B,Lacy Lakeview,TX
+6048,6596,"['Gregory', 'Taylor']",2021-02-09,45,B,B,Seattle,WA
+6050,6595,"['Jordan', 'Walton']",2021-02-10,21,B,B,Austin,TX
+6051,6597,"['Cortez', 'Lee', 'Bogan']",2021-02-10,27,B,B,East Cleveland,OH
+6053,6594,"['Jonathan', 'Turner']",2021-02-11,39,B,B,Gulfport,MS
+6061,6686,"['Daverion', 'Kinard']",2021-02-13,28,B,B,Fontana,CA
+6083,6637,"['Arnell', 'States']",2021-02-20,39,B,B,Cedar Rapids,IA
+6087,6638,"['Daniel', 'Newton', 'Neal']",2021-02-21,37,B,B,Jacksonville,FL
+6093,6677,"['Alonte', 'Murphy']",2021-02-24,22,B,B,Garden City,MI
+6095,6631,"['Benjamin', 'Tyson']",2021-02-25,35,B,B,Baltimore,MD
+6097,6633,"['Donald', 'Francis', 'Hairston']",2021-02-25,44,B,B,Culpeper,VA
+6108,6647,"['Rudy', 'Duvivier']",2021-02-27,32,B,B,Clay County,FL
+6113,7572,"['Chandra', 'Moore']",2021-03-01,55,B,B,Detroit,MI
+6115,6656,"['Dwight', 'Brown']",2021-03-03,41,B,B,Abbeville,LA
+6118,6674,"['Andrew', 'Teague']",2021-03-05,43,B,B,Columbus,OH
+6122,6673,"['Howayne', 'Gayle']",2021-03-07,35,B,B,Lakeland,FL
+6128,6690,"['Tyshon', 'Jones']",2021-03-10,29,B,B,Rochester,NY
+6132,6717,"['Tyrell', 'Wilson']",2021-03-11,32,B,B,Danville,CA
+6134,6696,"['Nika', 'Nicole', 'Holbert']",2021-03-12,31,B,B,Memphis,TN
+6141,6699,"['Christopher', 'Ruffin']",2021-03-14,28,B,B,Palm Bay,FL
+6152,6714,"['Daryl', 'L.', 'Jordan']",2021-03-18,50,B,B,Miami,FL
+6168,7585,"['Frankie', 'Jennings']",2021-03-23,32,B,B,Charlotte,NC
+6170,6725,"['Tony', 'Smith']",2021-03-24,35,B,B,Forest Park,IL
+6171,7586,"['Aaron', 'Pierre', 'Thomas']",2021-03-24,33,B,B,Canton,OH
+6174,6727,"['Charles', 'C.', 'White']",2021-03-25,35,B,B,King George County,VA
+6175,6730,"['Travon', 'Chadwell']",2021-03-25,18,B,B,Chicago,IL
+6178,7603,"['Alvin', 'Burrage']",2021-03-25,26,B,B,Calumet City,IL
+6181,6733,"['Donovon', 'W.', 'Lynch']",2021-03-26,25,B,B,Virginia Beach,VA
+6187,6728,"['Matthew', 'Blaylock']",2021-03-29,38,B,B,Los Angeles,CA
+6190,7642,"['Terry', 'Darnell', 'Jackson']",2021-03-29,48,B,B,Mason County,KY
+6192,6752,"['Michael', 'Leon', 'Hughes']",2021-03-30,32,B,B,Jacksonville,FL
+6199,6740,"['Willie', 'Roy', 'Allen']",2021-03-31,57,B,B,DeKalb County,GA
+6202,6749,"['DeShawn', 'Tatum']",2021-04-01,25,B,B,Rock Island,IL
+6203,6751,"['Stephen', 'Patrick', 'Moseley']",2021-04-01,36,B,B,Fremont,CA
+6208,6753,"['Noah', 'Green']",2021-04-02,25,B,B,Washington,DC
+6214,6838,"['Desmon', 'Montez', 'Ray']",2021-04-04,28,B,B,Birmingham,AL
+6221,6776,"['James', 'Alexander']",2021-04-07,24,B,B,Philadelphia,PA
+6222,6811,"['Roger', 'Cornelius', 'Allen']",2021-04-07,44,B,B,Daly City,CA
+6226,6777,"['DeShund', 'Tanner']",2021-04-09,31,B,B,Georgetown,KY
+6234,6767,"['Daunte', 'Wright']",2021-04-11,20,B,B,Brooklyn Center,MN
+6236,6768,"['Pier', 'Alexander', 'Shelton']",2021-04-12,28,B,B,Bremen,GA
+6237,6781,"['Anthony', 'J.', 'Thompson']",2021-04-12,17,B,B,Knoxville,TN
+6238,6834,"['Matthew', 'Zadok', 'Williams']",2021-04-12,35,B,B,Decatur,GA
+6239,6832,"['Miles', 'Jackson']",2021-04-12,27,B,B,Westerville,OH
+6246,6784,"['Lindani', 'Myeni']",2021-04-14,29,B,B,Honolulu,HI
+6251,6828,"['Innes', 'Lee']",2021-04-15,25,B,B,Cleveland,OH
+6259,6782,"['Larry', 'Jenkins']",2021-04-17,52,B,B,Winter Haven,FL
+6261,6798,"['Ryan', 'Williams']",2021-04-18,31,B,B,Fort Worth,TX
+6266,6791,"['Doward', 'Sylleen', 'Baker']",2021-04-19,39,B,B,Dothan,AL
+6267,6790,"['Ma’Khia', 'Bryant']",2021-04-20,16,B,B,Columbus,OH
+6272,6794,"['Andrew', 'Brown']",2021-04-21,42,B,B,Elizabeth City,NC
+6276,6803,"['Tory', 'Casey']",2021-04-23,41,B,B,Rosenberg,TX
+6287,6820,"['Terrance', 'Maurice', 'Parker']",2021-04-30,36,B,B,Washington,DC
+6296,6833,"['Ashton', 'Pinke']",2021-05-04,27,B,B,Mesquite,TX
+6301,6839,"['Adonis', 'Traughber']",2021-05-08,54,B,B,Clarksville,TN
+6304,6846,"['Everton', 'Brown']",2021-05-08,56,B,B,Baltimore,MD
+6308,6842,"['Kalon', 'J.', 'Horton']",2021-05-10,29,B,B,Lancaster,TX
+6310,6859,"['Lance', 'Lowe']",2021-05-11,30,B,B,Stockton,CA
+6313,7627,"['Samuel', 'Roberto', 'Pleasant']",2021-05-13,40,B,B,Killeen,TX
+6319,7624,"['Monolito', 'Ford']",2021-05-14,48,B,B,Indianapolis,IN
+6322,6849,"['Timothy', 'Fleming']",2021-05-16,49,B,B,Baltimore,MD
+6328,6864,"['Gary', 'Moncrief']",2021-05-18,32,B,B,Montgomery,AL
+6333,6860,"['Tyrone', 'Penny']",2021-05-18,21,B,B,Decatur,GA
+6335,6871,"['Darion', 'M.', 'Lafayette']",2021-05-19,24,B,B,Champaign,IL
+6345,6881,"['Steve', 'Newsome']",2021-05-22,31,B,B,Adel,GA
+6348,6875,"['Roderick', 'Devonne', 'Merchant']",2021-05-23,21,B,B,College Station,TX
+6353,6885,"['Vedo', 'Hall']",2021-05-24,26,B,B,Washington,DC
+6355,6884,"['Darren', 'Dejuan', 'Chandler']",2021-05-25,34,B,B,Lenexa,KS
+6365,6901,"['Shannon', 'Wright']",2021-05-30,29,B,B,Denver,CO
+6367,6895,"['Demetrious', 'Stanley']",2021-05-31,31,B,B,San Jose,CA
+6370,7613,"['Bilal', 'Winston', 'Shabazz']",2021-05-31,29,B,B,Yucca Valley,CA
+6371,7614,"['Michael', 'Jackson']",2021-05-31,29,B,B,Madison Parish,LA
+6379,6923,"['Winston', 'Boogie', 'Smith']",2021-06-03,32,B,B,Minneapolis,MN
+6383,6915,"['Timothy', 'Flowers']",2021-06-04,29,B,B,Rochester,NY
+6399,6919,"['Terrell', 'J.', 'Gas']",2021-06-09,36,B,B,Atlanta,GA
+6401,7607,"['Michael', 'Lee', 'Ross']",2021-06-09,32,B,B,Forest Hill,TX
+6416,6939,"['Solomon', 'Jamison']",2021-06-15,28,B,B,Jackson,MS
+6420,6934,"['Ansy', 'Dolce']",2021-06-16,29,B,B,Holly Springs,GA
+6430,6947,"['Briana', 'Sykes']",2021-06-19,19,B,B,Flint,MI
+6432,6952,"['Jeff', 'Melvin']",2021-06-19,20,B,B,Lee County,AL
+6440,7000,"[""De'Shon"", 'Hill']",2021-06-22,39,B,B,Luray,VA
+6446,6997,"['Earl', 'Fitzgerald', 'Hunter']",2021-06-23,40,B,B,Greenville,SC
+6464,7595,"['Albert', 'Wayne', 'Finnie']",2021-06-25,22,B,B,College Station,TX
+6478,6976,"['Joseph', 'Lee', 'Humbles']",2021-06-30,29,B,B,Atlanta,GA
+6482,7385,"['Shannon', 'Earl', 'Smith']",2021-07-01,45,B,B,Spartanburg,SC
+6485,7005,"['John', 'Reuben', 'Turbe']",2021-07-04,40,B,B,Tampa,FL
+6502,7011,"['Klevontaye', 'White']",2021-07-09,34,B,B,Chicago,IL
+6510,7049,"['Justin', 'Powell']",2021-07-13,32,B,B,Baltimore,MD
+6516,7050,"['Ryan', 'LeRoux']",2021-07-16,21,B,B,Gaithersburg,MD
+6517,7031,"['Maurice', 'Sentel', 'Mincey']",2021-07-17,36,B,B,Savannah,GA
+6522,7041,"['Irvin', 'Peterson']",2021-07-18,35,B,B,Houston,TX
+6523,7395,"['Leslie', 'Stephen', 'Scarlett']",2021-07-18,35,B,B,Tucson,AZ
+6536,7029,"['Gabriel', 'Parker']",2021-07-25,38,B,B,Atlanta,GA
+6542,7052,"['Losardo', 'Lucas']",2021-07-27,55,B,B,Calumet City,IL
+6544,7054,"['Alexis', 'C.', 'Wilson']",2021-07-27,19,B,B,Dolton,IL
+6556,7070,"['Antonio', 'D.', 'King']",2021-08-03,22,B,B,Nashville,TN
+6595,7103,"['Broderick', 'Shelton']",2021-08-16,42,B,B,Milwaukee,WI
+6596,7105,"['Antonio', 'Jackson']",2021-08-16,27,B,B,Memphis,TN
+6601,7117,"['Terrence', 'Bey']",2021-08-18,29,B,B,Philadelphia,PA
+6602,7118,"['Devonte', 'Dawayne', 'Brown']",2021-08-18,28,B,B,Marietta,GA
+6613,7111,"['Tyran', 'Lamb']",2021-08-22,31,B,B,Milwaukee,WI
+6623,7127,"['Kenneth', 'Vessell']",2021-08-25,36,B,B,Redondo Beach,CA
+6625,7138,"['Robert', 'Anderson']",2021-08-25,38,B,B,Crescent City,CA
+6630,7134,"['Christopher', 'Corey', 'Moore']",2021-08-27,41,B,B,Greensboro,NC
+6647,7166,"['Paris', 'Wilder']",2021-08-30,38,B,B,West Melbourne,FL
+6676,7165,"['Cedric', 'Williams']",2021-09-10,29,B,B,Oxon Hill,MD
+6679,7163,"['Desmond', 'D.', 'Lewis']",2021-09-11,30,B,B,Shreveport,LA
+6680,7164,"['Tristan', 'Vereen']",2021-09-11,33,B,B,Horry County,SC
+6694,7645,"['Katrina', 'Simpson']",2021-09-16,27,B,B,Yazoo City,MS
+6701,7174,"['Adrian', 'Cameron']",2021-09-18,47,B,B,Nashville,TN
+6706,7169,"['Deon', 'Ledet']",2021-09-20,30,B,B,Houston,TX
+6716,7565,"['Desmond', 'Lewis']",2021-09-23,20,B,B,Lake Charles,LA
+6745,7644,"['Michael', 'Craig']",2021-10-04,61,B,B,Chicago,IL
+6750,7559,"['Corey', 'Daniel', 'Wellman']",2021-10-05,40,B,B,Nashville,TN
+6752,7229,"['Andra', 'Devon', 'Murphy']",2021-10-06,43,B,B,Bolivar,TN
+6761,7552,"['Ramone', 'Dwight']",2021-10-08,29,B,B,Evans County,GA
+6766,7231,"['Calvin', 'Robinson']",2021-10-09,52,B,B,Madison County,MS
+6772,7547,"['Jovan', 'Lewis', 'Singleton']",2021-10-11,36,B,B,Woodlawn,MD
+6781,7207,"['Jermaine', 'Harris']",2021-10-14,32,B,B,Tarboro,NC
+6789,7201,"['Allan', 'Lorenzo', 'Robb']",2021-10-17,33,B,B,West Palm Beach,FL
+6811,7536,"['Corey', 'Timothy', 'Stanley']",2021-10-25,37,B,B,Miami,FL
+6840,7338,"['Mark', 'D.', 'Walker']",2021-11-06,34,B,B,Long Branch,NJ
+6855,7365,"['Marcus', 'Mann']",2021-11-13,42,B,B,Jackson,TN
+6856,7530,"['Isaac', 'Bell']",2021-11-13,41,B,B,Biloxi,MS
+6868,7528,"['Sylvester', 'Tart']",2021-11-17,61,B,B,Waynesboro,MS
+6869,7349,"['Chucky', 'Nathaniel', 'Bowden']",2021-11-18,53,B,B,Bessemer City,NC
+6879,7355,"['Lionel', 'Womack']",2021-11-22,36,B,B,Kansas City,KS
+6881,7526,"['Devin', 'Edward', 'Hall']",2021-11-23,24,B,B,Pasadena,CA
+6886,7525,"['Anthony', 'Oliver']",2021-11-27,54,B,B,Kalamazoo,MI
+6901,7405,"['Edward', 'Allen', 'Gatling']",2021-12-01,38,B,B,Lithonia,GA
+6902,7469,"['Anei', 'Gabriel', 'Joker']",2021-12-01,20,B,B,Taylorsville,UT
+6931,7422,"['Christopher', 'Sterusky']",2021-12-11,29,B,B,Elizabethtown,KY
+6933,7418,"['Patrick', 'Horton']",2021-12-12,39,B,B,Cleveland,OH
+6935,7431,"['George', 'Hollins']",2021-12-12,26,B,B,Jennings,MO
+6942,7488,"['Jahad', 'Patterson']",2021-12-15,20,B,B,Elkhart,IN
+6946,7490,"['Terrance', 'Dogan']",2021-12-16,27,B,B,Memphis,TN
+6969,7501,"['Kokou', 'Christopher', 'Fiafonou']",2021-12-23,38,B,B,Austin,MN
+6975,7509,"['James', 'Lowery']",2021-12-26,40,B,B,Titusville,FL
+6979,7512,"['Christopher', 'Thomas']",2021-12-27,22,B,B,Lake Charles,LA
+6980,7515,"['Kevin', 'Dubois']",2021-12-27,31,B,B,Savannah,GA
+6984,7519,"['Dwayne', 'McDonald']",2021-12-28,62,B,B,Detroit,MI
+6985,7449,"['Osman', 'Sesay']",2021-12-29,27,B,B,Silver Spring,MD
+6986,7457,"['Thelonious', 'McKnight']",2021-12-29,25,B,B,Paterson,NJ
+6987,7460,"['Kadeem', 'Errol', 'Livingston', 'Smith']",2021-12-30,28,B,B,Pine Hills,FL
+6991,7661,"['James', 'Williams']",2022-01-01,46,B,B,Canton,OH
+6999,7454,"['Stephanie', 'Wilson']",2022-01-04,28,B,B,Bahama,NC
+7001,7669,"['Abdul', 'Timmons']",2022-01-05,27,B,B,Florence County,SC
+7006,7675,"['Deaughn', 'Willis']",2022-01-08,25,B,B,Baton Rouge,LA
+7007,7677,"['Denrick', 'Demond', 'Stallings']",2022-01-09,47,B,B,Crawford County,GA
+7025,7692,"['Junnie', 'Williams']",2022-01-16,35,B,B,North Charleston,SC
+7029,7716,"['Nathan', 'Humphrey']",2022-01-17,28,B,B,Harris County,TX
+7038,7665,"['Lashawn', 'McNeil']",2022-01-21,47,B,B,New York,NY
+7043,8003,"['Christopher', 'Jones']",2022-01-23,17,B,B,O'Fallon,MO
+7059,7702,"['Dyonta', 'Quarles']",2022-01-30,20,B,B,Crofton,MD
+7065,7646,"['Amir', 'Locke']",2022-02-02,22,B,B,Minneapolis,MN
+7071,7691,"['Robert', 'Junior', 'Langley']",2022-02-06,46,B,B,Georgetown County,SC
+7076,7690,"['Charion', 'Lockett']",2022-02-07,27,B,B,Houston,TX
+7079,7701,"['Shawn', 'Wilson']",2022-02-07,36,B,B,Kansas City,MO
+7088,7742,"['Makari', 'Smith']",2022-02-09,23,B,B,Stovall,NC
+7127,7756,"['Daniel', 'Patrick', 'Knight']",2022-02-19,39,B,B,Winter Park,FL
+7139,7772,"['Jacori', 'Shaw']",2022-02-23,23,B,B,Reno,NV
+7140,7773,"['Keleen', 'Rashad', 'Connell']",2022-02-23,27,B,B,Birmingham,AL
+7154,7814,"['Darian', 'Q.', 'Bryant']",2022-03-01,26,B,B,Jacksonville,FL
+7175,7804,"['Antwon', 'Leonard', 'Cooper']",2022-03-08,34,B,B,Miami,FL
+7180,7794,"['Tyrea', 'Pryor']",2022-03-11,39,B,B,Independence,MO
+7183,7833,"['Felix', 'Tyler']",2022-03-11,42,B,B,Covington,TN
+7196,7820,"['Kevin', 'Donel', 'Johnson']",2022-03-14,28,B,B,San Antonio,TX
+7212,7847,"['Irvin', 'D.', 'Moorer-Charley']",2022-03-19,34,B,B,Columbia,SC
+7267,7890,"['Patrick', 'Lyoya']",2022-04-04,26,B,B,Grand Rapids,MI
+7293,7909,"['Ali', 'Coulter']",2022-04-11,20,B,B,Covington,KY
+7468,8135,"['Jerome', 'Lavon', 'Connelly']",2022-06-12,35,B,B,Caldwell County,NC
+7483,8153,"['Derrick', 'D.', 'Clark']",2022-06-18,24,B,B,Milwaukie,OR

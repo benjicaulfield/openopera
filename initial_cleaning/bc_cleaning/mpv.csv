@@ -1,0 +1,2503 @@
+,name,age,gender,race,date,city,state
+28,"['Robert', 'Gadson']",35,Male,Black,2022-03-26,Savannah,GA
+30,"['Miguel', 'Estrella']",22,Male,Black,2022-03-25,Pittsfield,MA
+33,"['Zy’shonne', 'Johnson']",23,Male,Black,2022-03-24,Fort Lauderdale,FL
+34,"['Charles', 'Henry', 'Calhoun']",68,Male,Black,2022-03-23,Jonesboro,GA
+42,"['Nicholas', 'Conklin']",33,Male,Black,2022-03-20,Kalamazoo,MI
+44,"['Rodney', 'K.', 'Robinson', 'II']",21,Male,Black,2022-03-19,Dewey Beach,DE
+47,"['Irvin', 'D.', 'Moorer', 'Charley']",34,Male,Black,2022-03-19,Columbia,SC
+53,"['James', 'J.', 'Emery']",31,Male,Black,2022-03-17,Bonne Terre,MO
+59,"['Malcolm', 'Staton']",30,Male,Black,2022-03-15,Monroe,NC
+62,"['Dominique', 'Thomas']",31,Male,Black,2022-03-14,Buffalo,NY
+63,"['Kevin', 'Johnson']",27,Male,Black,2022-03-14,San Antonio,TX
+71,"['Zakareya', 'Ibrahim']",17,Male,Black,2022-03-12,Tuscon,AZ
+75,"['Alonzo', 'Carter']",32,Male,Black,2022-03-11,Columbus,GA
+77,"['Quentrice', 'McAllister']",38,Female,Black,2022-03-11,Raymond,MS
+78,"['Tyrea', 'Pryor']",39,Male,Black,2022-03-11,Independence,MO
+85,"['Antwon', 'Leonard', 'Cooper']",34,Male,Black,2022-03-08,Miami,FL
+87,"['Joshua', 'Dismuke']",18,Male,Black,2022-03-07,South Pittsburg,TN
+100,"['Osman', 'Brown']",41,Male,Black,2022-03-03,Anaheim,CA
+101,"['Jamarian', 'Marquis', 'McGhee']",29,Male,Black,2022-03-03,Denver,CO
+103,"['Alberto', 'Riascos']",18,Male,Black,2022-03-02,Houston,TX
+104,"['Crasteven', 'Kennon', 'Wilson']",23,Male,Black,2022-03-02,Oklahoma City ,OK
+108,"['Darian', 'Quinlan', 'Bryant']",26,Male,Black,2022-03-01,Jacksonville,FL
+122,"['Jacori', 'Shaw']",23,Male,Black,2022-02-23,Reno,NV
+125,"['Keleen', 'RaShad', 'Connell']",27,Male,Black,2022-02-23,Birmingham,AL
+128,"['Czyz', 'Harrison']",35,Male,Black,2022-02-23,Houston,TX
+132,"['Lawrence', 'LeJames', 'Rodgers']",21,Male,Black,2022-02-22,Akron,OH
+133,"['Tracy', 'Gaeta']",54,Female,Black,2022-02-22,Stockton,CA
+141,"['Daniel', 'Patrick', 'Knight']",39,Male,Black,2022-02-19,Winter Park,FL
+142,"['Donnell', 'Rochester']",18,Male,Black,2022-02-19,Baltimore,MD
+155,"['Atiba', 'Lewis']",45,Male,Black,2022-02-16,Plainsboro,NJ
+176,"['Terrell', 'Russell']",22,Male,Black,2022-02-10,New Orleans,LA
+183,"['Jayden', 'Prunty']",22,Male,Black,2022-02-09,Jonesboro,AR
+193,"['Charion', 'Lockett']",27,Male,Black,2022-02-07,Houston,TX
+197,"['Robert', 'Junior', 'Langley']",46,Male,Black,2022-02-06,Hemingway,SC
+204,"['Amir', 'Locke']",22,Male,Black,2022-02-02,Minneapolis,MN
+205,"['Isaiah', 'Payne']",31,Male,Black,2022-02-01,Orlando,FL
+222,"['John', 'Hunt']",20,Male,Black,2022-01-26,Cordova,TN
+224,"['Equan', 'Hopson']",23,Male,Black,2022-01-26,St. Louis,MO
+233,"['Bobby', 'Lee', 'Sutton']",59,Male,Black,2022-01-23,Atlanta,GA
+234,"['Christopher', '""Chris""', 'Jones']",17,Male,Black,2022-01-23,O’Fallon,MO
+235,"['Tyron', 'Coates']",23,Male,Black,2022-01-23,Lafayette,LA
+240,"['Lashawn', 'McNeil']",47,Male,Black,2022-01-21,New York,NY
+249,"['Nathan', 'Humphrey']",28,Male,Black,2022-01-17,Atascocita,TX
+251,"['Junnie', 'Williams']",35,Male,Black,2022-01-16,North Charleston,SC
+254,"['Raishawn', 'Jones']",38,Male,Black,2022-01-14,Durham,NC
+269,"['Orlando', 'Taylor', 'III']",23,Male,Black,2022-01-09,Springfield,MA
+272,"['Jason', 'Walker']",37,Male,Black,2022-01-08,Fayetteville,NC
+273,"['Deaughn', 'Willis']",25,Male,Black,2022-01-08,Baton Rouge,LA
+288,"['Kadeem', 'Errol', 'Livingston', 'Smith']",28,Male,Black,2022-01-02,Pine Hills,FL
+293,"['Osman', 'Sesay']",27,Male,Black,2021-12-29,Silver Spring,MD
+294,"['Thelonious', 'McKnight']",25,Male,Black,2021-12-29,Paterson,NJ
+295,"['Dwayne', 'McDonald']",62,Male,Black,2021-12-28,Detroit,MI
+303,"['James', 'Lowery']",40,Male,Black,2021-12-26,Titusville,FL
+306,"['Benny', 'Antonio', 'Hood']",30,Male,Black,2021-12-24,Atlanta,GA
+312,"['Kokou', 'Christopher', 'Fiafonou']",38,Male,Black,2021-12-23,Austin,MN
+317,"['Jessie', 'Lee', 'Gaither']",48,Male,Black,2021-12-22,Fordoche,LA
+324,"['Eudes', 'Pierre']",26,Male,Black,2021-12-20,Brooklyn,NY
+326,"['Nakita', 'Williams']",33,Female,Black,2021-12-19,Detroit,MI
+327,"['Eric', 'Lavon', 'Nelson']",28,Male,Black,2021-12-19,Bogalusa,LA
+332,"['Josh', 'H.', 'Taylor']",18,Male,Black,2021-12-16,Memphis,TN
+334,"['Terrance', 'Marquise', 'Dogan']",27,Male,Black,2021-12-16,Memphis,TN
+341,"['Jahad', 'Patterson']",20,Male,Black,2021-12-15,Elkhart,IN
+342,"['William', 'Gardner']",21,Male,Black,2021-12-14,Dayton,OH
+346,"['Amanuel', 'Aman', 'Moreno']",29,Male,Black,2021-12-12,San Pablo,CA
+351,"['Christopher', 'Sterusky']",28,Male,Black,2021-12-11,Elizabethtown,KY
+359,"['Terence', 'Caffey']",30,Male,Black,2021-12-10,Little Rock,AR
+363,"['Donta', 'R.', 'Stewart']",18,Male,Black,2021-12-08,Columbus,OH
+376,"['Quadry', 'Sanders']",29,Male,Black,2021-12-05,Lawton,OK
+378,"['Alhaji', 'Sow']",18,Male,Black,2021-12-03,Melbourne,FL
+381,"['Anei', 'Joker']",20,Male,Black,2021-12-02,Taylorsville,UT
+383,"['Edward', 'Allen', 'Gatling']",38,Male,Black,2021-12-01,Redan,GA
+384,"['Billy', 'Gilbert', 'Bizzell']",52,Male,Black,2021-12-01,Yellow Bluff,AL
+398,"['Anthony', 'Oliver']",54,Male,Black,2021-11-27,Kalamazoo,MI
+404,"['Devin', 'Edward', 'Hall']",24,Male,Black,2021-11-23,Pasadena,CA
+405,"['Lionel', 'Womack']",35,Male,Black,2021-11-22,Kansas City,KS
+407,"['Anthony', 'Harden']",30,Male,Black,2021-11-22,Fall River,MA
+410,"['Jabari', 'Farafiai', 'Asante-Chioke']",52,Male,Black,2021-11-21,Metairie,LA
+416,"['Chucky', 'Nathaniel', 'Bowden']",53,Male,Black,2021-11-18,Bessemer City,NC
+418,"['Sylvester', 'Tart']",61,Male,Black,2021-11-17,Waynesboro,MS
+419,"['Steven', 'Thomas']",36,Male,Black,2021-11-17,Las Vegas,NV
+428,"['Marcus', 'Mann']",42,Male,Black,2021-11-14,Jackson,TN
+429,"['Quillan', 'Jacobs']",30,Male,Black,2021-11-14,Columbia,MO
+430,"['Christopher', 'Walls']",16,Male,Black,2021-11-14,Miami,FL
+435,"['Elliot', 'Lewis']",42,Male,Black,2021-11-11,Houston,TX
+441,"['Dashaun', 'Wright']",37,Male,Black,2021-11-09,Boston,MA
+447,"['Jabbar', 'Muhammad']",21,Male,Black,2021-11-06,Joliet,IL
+453,"['Michael', 'A.', 'Quarrles']",37,Male,Black,2021-11-06,Dorchester,MA
+456,"['Derrell', 'Lamar', 'Raney']",33,Male,Black,2021-11-05,Charlotte,NC
+457,"['Barry', 'Rigsby']",36,Male,Black,2021-11-04,Wisner,LA
+461,"['LeKenneth', 'Q.', 'Miller']",30,Male,Black,2021-11-03,Eau Claire,WI
+466,"['Johnny', 'McGee']",36,Male,Black,2021-11-01,Houma,LA
+474,"['Ahmad', 'Akeem', 'Abdul', 'Muhammad']",30,Male,Black,2021-10-28,Colorado Springs,CO
+476,"['Koffi', 'Dzima']",31,Male,Black,2021-10-27,Philadelphia,PA
+480,"['Ivan', 'Foster']",27,Male,Black,2021-10-26,Louisville ,KY
+483,"['Corey', 'Timothy', 'Stanley']",37,Male,Black,2021-10-25,Miami,FL
+485,"['Kim', 'Douglas', 'Ropp']",60,Male,Black,2021-10-24,Kentwood,MI
+488,"['Leon', 'T.', 'Perry']",28,Male,Black,2021-10-23,Tulsa,OK
+494,"['Jarvis', 'Jarrette']",32,Male,Black,2021-10-20,Atlanta,GA
+502,"['Deandre', 'Johnson']",30,Male,Black,2021-10-18,Washington,DC
+506,"['Allan', 'Lorenzo', 'Robb']",33,Male,Black,2021-10-17,West Palm Beach,FL
+513,"['Jermaine', 'Harris']",32,Male,Black,2021-10-14,Tarboro,NC
+519,"['Jim', 'Rogers']",54,Male,Black,2021-10-13,Pittsburgh,PA
+526,"['Jovan', 'Lewis', 'Singleton']",36,Male,Black,2021-10-11,Woodlawn,MD
+527,"['Jermaine', 'Marshell', 'Jones', 'Jr.']",24,Male,Black,2021-10-11,Augusta,GA
+535,"['Michael', 'Carothers']",17,Male,Black,2021-10-09,Austin,TX
+536,"['Calvin', 'Robinson']",52,Male,Black,2021-10-09,Gluckstadt,MS
+541,"['Demetrio', 'Antaus', 'Jackson']",43,Male,Black,2021-10-08,Altoona,WI
+546,"['Derrick', 'Clinton']",27,Male,Black,2021-10-08,Indian Land,SC
+547,"['Ramone', 'Javaris', 'Dwight']",29,Male,Black,2021-10-08,Hagan,GA
+550,"['Andra', 'Devon', 'Murphy']",43,Male,Black,2021-10-06,Bolivar,TN
+553,"['Simran', 'Gordon']",24,Male,Black,2021-10-06,Rochester,NY
+555,"['Donte', 'Lorenzo', 'Laster']",23,Male,Black,2021-10-05,Tucson ,AZ
+556,"['Corey', 'Daniel', 'Wellman']",40,Male,Black,2021-10-05,Nashville,TN
+560,"['R.V.', 'Johnson', 'II']",22,Male,Black,2021-10-04,Galesburg,MI
+564,"['Demetrius', 'Roberts']",21,Male,Black,2021-10-04,Las Vegas,NV
+565,"['Darrion', 'Taylor']",26,Male,Black,2021-10-04,Tucson ,AZ
+576,"['Kyle', 'Anthony', 'Veyon']",26,Male,Black,2021-09-29,Columbus,OH
+583,"['Gloria', 'Marie', 'Strong']",27,Female,Black,2021-09-27,Allen,TX
+596,"['Desmond', 'Damond', 'Louis']",20,Male,Black,2021-09-23,Lake Charles,LA
+597,"['Keith', 'Cole']",50,Male,Black,2021-09-23,Senatobia,MS
+606,"['Deon', 'Ledet']",30,Male,Black,2021-09-20,Houston,TX
+607,"['Turell', 'Brown']",28,Male,Black,2021-09-19,Chicago,IL
+610,"['Joshua', 'Cooper']",31,Male,Black,2021-09-18,Brooklyn,NY
+611,"['Unsfored', 'Lewis', 'Thurmond']",27,Male,Black,2021-09-18,Smyrna,GA
+612,"['Adrian', 'Cameron']",47,Male,Black,2021-09-18,Nashville,TN
+629,"['Robert', 'Parks']",39,Male,Black,2021-09-13,Smyrna,GA
+633,"['Desmond', 'Lewis']",30,Male,Black,2021-09-11,Shreveport,LA
+634,"['Tristan', 'Vereen']",33,Male,Black,2021-09-11,Longs,SC
+635,"['Leden', 'Boykins']",12,Male,Black,2021-09-10,Douglasville,GA
+637,"['Cedric', 'Williams']",29,Male,Black,2021-09-10,Oxon Hill,MD
+651,"['Josue', 'Arias']",32,Male,Black,2021-09-07,Clearwater,FL
+654,"['Frederick', 'Thomas']",41,Male,Black,2021-09-05,Miamisburg,OH
+658,"['Cedric', 'Baxter']",60,Male,Black,2021-09-03,Buena Park,CA
+666,"['James', 'Williams']",33,Male,Black,2021-09-01,Indianapolis,IN
+673,"['Paris', 'Wilder']",38,Male,Black,2021-08-30,West Melbourne,FL
+674,"['Martin', 'Luther', 'Bowman']",80,Male,Black,2021-08-30,Pearlington,MS
+679,"['Johnny', 'Lee', 'Perry', 'II']",31,Male,Black,2021-08-29,Missoula,MT
+687,"['Fanta', 'Bility']",8,Female,Black,2021-08-27,Sharon Hill,PA
+688,"['Lonnel', 'Cephas']",19,Male,Black,2021-08-27,Elkhart,IN
+692,"['Christopher', 'Corey', 'Moore']",41,Male,Black,2021-08-27,Greensboro,NC
+697,"['Antwan', 'Gilmore']",27,Male,Black,2021-08-25,Washington,DC
+698,"['Robert', 'Anderson']",38,Male,Black,2021-08-25,Crescent City,CA
+704,"['Tory', 'Brown']",22,Male,Black,2021-08-24,College Park,GA
+706,"['Jamar', 'Jason', 'Taylor']",33,Male,Black,2021-08-24,Butler City,IL
+711,"['Tyran', 'Lamb']",31,Male,Black,2021-08-22,Milwaukee,WI
+720,"['James', 'Matalice', 'Smith']",41,Male,Black,2021-08-18,Somerville,TX
+722,"['Devonte', 'Dawayne', 'Brown']",28,Male,Black,2021-08-18,Marietta,GA
+723,"['Terrence', 'Bey']",29,Male,Black,2021-08-18,Philadelphia,PA
+726,"['Antonio', 'Jackson']",27,Male,Black,2021-08-16,Memphis,TN
+727,"['Broderick', 'Shelton']",42,Male,Black,2021-08-16,Milwaukee,WI
+753,"['Christopher', 'Robinson']",48,Male,Black,2021-08-09,Seguin,TX
+754,"['Marcus', 'Martin']",40,Male,Black,2021-08-08,Baltimore,MD
+757,"['Dashawn', '""Big', 'Top""', 'Batiste']",22,Male,Black,2021-08-08,Lafayette,LA
+771,"['Antonio', 'King']",22,Male,Black,2021-08-03,Nashville,TN
+779,"['James', 'Haynes']",31,Male,Black,2021-07-29,Mansfield,OH
+782,"['Losardo', 'Lucas']",55,Male,Black,2021-07-27,Calumet City,IL
+785,"['Alexis', 'C.', 'Wilson']",19,Female,Black,2021-07-27,Dolton,IL
+792,"['Gabriel', '""Sam""', 'Parker']",38,Male,Black,2021-07-25,Atlanta,GA
+807,"['Leslie', 'Stephen', 'Scarlett']",35,Male,Black,2021-07-18,Tucson ,AZ
+809,"['Irvin', 'Peterson']",35,Male,Black,2021-07-18,Houston,TX
+810,"['Maurice', 'Sentel', 'Mincey']",36,Male,Black,2021-07-17,Savannah,GA
+812,"['Quentin', 'Bogard']",36,Male,Black,2021-07-17,Canton,MS
+814,"['Ryan', 'LeRoux']",21,Male,Black,2021-07-16,Gaithersburg,MD
+820,"['Marquez', 'Floyd']",31,Male,Black,2021-07-14,Albuquerque ,NM
+822,"['Justin', 'Powell']",32,Male,Black,2021-07-13,Baltimore,MD
+828,"['Klevontaye', 'White']",34,Male,Black,2021-07-09,Chicago,IL
+842,"['John', 'Reuben', 'Turbe']",30,Male,Black,2021-07-04,Tampa,FL
+844,"['Gulia', 'Dale', 'III']",61,Male,Black,2021-07-04,Newton,NJ
+847,"['Shannon', 'Earl', 'Smith']",45,Male,Black,2021-07-01,Spartanburg,SC
+850,"['Joseph', 'Lee', 'Humbles']",29,Male,Black,2021-06-30,Atlanta,GA
+855,"['Jerome', 'Barber']",59,Male,Black,2021-06-28,Azusa,CA
+860,"['Tristan', 'Trevino']",24,Male,Black,2021-06-28,Corpus Christi,TX
+872,"['Albert', 'Wayne', 'Finnie', 'Jr.']",22,Male,Black,2021-06-25,College Station,TX
+885,"['Earl', 'Fitzgerald', 'Hunter']",40,Male,Black,2021-06-23,Greenville,SC
+886,"['Fred', 'Holder']",28,Male,Black,2021-06-23,Norwalk,CA
+892,"[""De'Shon"", 'Hill']",39,Male,Black,2021-06-22,Luray,VA
+900,"['Jeff', 'Melvin']",20,Male,Black,2021-06-19,Salem,AL
+901,"['Briana', 'Sykes']",19,Female,Black,2021-06-19,Flint,MI
+904,"['Carlos', 'Jackson']",43,Male,Black,2021-06-18,Lithia Springs,GA
+906,"['Ansy', 'Dolce']",29,Male,Black,2021-06-17,Holly Springs,GA
+908,"['Jermaine', 'Sonnier']",19,Male,Black,2021-06-16,Houston,TX
+916,"['Solomon', 'Jamison']",28,Male,Black,2021-06-15,Jackson,MS
+933,"['Josiah', 'L.', 'Byard']",21,Male,Black,2021-06-10,Willcox,AZ
+934,"['Rezek', 'Yaqub', 'Yahya']",39,Male,Black,2021-06-10,Salt Lake City,UT
+936,"['Michael', 'Lee', 'Ross', 'Jr.']",32,Male,Black,2021-06-09,Forest Hill,TX
+937,"['Terrell', 'Gas']",36,Male,Black,2021-06-09,College Park,GA
+953,"['Timothy', 'Flowers']",29,Male,Black,2021-06-04,Rochester,NY
+955,"['Andrew', 'Homen']",34,Male,Black,2021-06-04,Braintree,MA
+958,"['William', 'Brookins', 'Sr.']",39,Male,Black,2021-06-03,Phoenix,AZ
+959,"['Winston', 'Smith']",32,Male,Black,2021-06-03,Minneapolis,MN
+969,"['Antonio', 'Christopher', 'Jones']",26,Male,Black,2021-05-31,Houston,TX
+970,"['Demetrius', 'Stanley']",31,Male,Black,2021-05-31,San Jose,CA
+972,"['Bilal', 'Winston', 'Shabazz']",29,Male,Black,2021-05-31,Yucca Valley,CA
+975,"['Shannon', 'Wright']",29,Male,Black,2021-05-30,Denver,CO
+983,"['Darren', 'Dejuan', 'Chandler']",34,Male,Black,2021-05-25,Lenexa,KS
+986,"['Vedo', 'Hall']",26,Male,Black,2021-05-24,Washington,DC
+987,"['Juan', 'Joseph', 'Daniele', 'Castellano']",38,Male,Black,2021-05-23,Athens,GA
+988,"['Roderick', 'Devonne', 'Merchant', 'Jr.']",21,Male,Black,2021-05-23,College Station,TX
+997,"['Zaekwon', 'Malik', 'Gullatte-Graves']",25,Male,Black,2021-05-21,Houston,TX
+999,"['Kortnee', 'Lashon', 'Warren']",23,Male,Black,2021-05-21,Albany,GA
+1000,"['Patrick', 'Watkins']",31,Male,Black,2021-05-20,Pittsburg,CA
+1003,"['Darion', 'M.', 'Lafayette']",24,Male,Black,2021-05-19,Champaign,IL
+1009,"['Gary', 'Moncrief']",32,Male,Black,2021-05-18,Montgomery,AL
+1011,"['Tyrone', 'Penny']",21,Male,Black,2021-05-18,Decatur,GA
+1014,"['Denzell', 'Nathan', 'Clarke']",28,Male,Black,2021-05-17,Waldorf,MD
+1018,"['Timothy', 'Fleming']",49,Male,Black,2021-05-16,Baltimore,MD
+1022,"['Monolito', 'Ford']",48,Male,Black,2021-05-14,Indianapolis,IN
+1028,"['Samuel', 'Roberto', 'Pleasant']",40,Male,Black,2021-05-13,Killeen,TX
+1032,"['Lance', 'Lowe']",30,Male,Black,2021-05-11,Stockton,CA
+1037,"['Kalon', 'Horton']",29,Male,Black,2021-05-09,Lancaster,TX
+1039,"['Adonis', 'Traughber']",54,Male,Black,2021-05-08,Clarksville,TN
+1041,"['Everton', 'Brown']",56,Male,Black,2021-05-08,Baltimore,MD
+1049,"['Latoya', 'Denis', 'James']",37,Female,Black,2021-05-04,Woodbine,GA
+1050,"['Ashton', 'Pinke']",27,Male,Black,2021-05-04,Mesquite,TX
+1053,"[""La'Mello"", 'Parker']",1,Male,Black,2021-05-03,Biloxi,MS
+1054,"['Eric', 'Derell', 'Smith']",30,Male,Black,2021-05-03,Biloxi,MS
+1060,"['Terrance', 'Maurice', 'Parker']",36,Male,Black,2021-04-30,Washington,DC
+1061,"['Hanad', 'Abdiaziz']",25,Male,Black,2021-04-30,Kansas City,MO
+1068,"['Marvin', 'Veiga']",32,Male,Black,2021-04-24,Nashville,TN
+1070,"['Tory', 'Casey']",41,Male,Black,2021-04-23,Rosenberg,TX
+1071,"['Michael', 'Lee', 'McClure']",26,Male,Black,2021-04-23,Billings,MT
+1075,"['Andrew', 'Brown', 'Jr.']",42,Male,Black,2021-04-21,Elizabeth City,NC
+1079,"[""Ma'Khia"", 'Bryant']",16,Female,Black,2021-04-20,Columbus,OH
+1084,"['Doward', 'Sylleen', 'Baker']",39,Male,Black,2021-04-19,Dothan,AL
+1087,"['Ryan', 'Oneal', 'Williams']",31,Male,Black,2021-04-18,Fort Worth,TX
+1092,"['Larry', 'Jenkins']",52,Male,Black,2021-04-17,Winter Haven,FL
+1097,"['Roderick', 'Inge']",29,Male,Black,2021-04-15,Tuscaloosa,AL
+1099,"['Innes', 'Lee', 'Jr.']",25,Male,Black,2021-04-15,Cleveland,OH
+1104,"['Lindani', 'Myeni']",29,Male,Black,2021-04-13,Honolulu,HI
+1109,"['Anthony', 'Thompson', 'Jr.']",17,Male,Black,2021-04-12,Knoxville,TN
+1110,"['Miles', 'Jackson']",27,Male,Black,2021-04-12,Westerville,OH
+1111,"['Matthew', 'Zadok', 'Williams']",35,Male,Black,2021-04-12,Decatur,GA
+1112,"['Pier', 'Alexander', 'Shelton']",28,Male,Black,2021-04-12,Bremen ,GA
+1114,"['Daunte', 'Wright']",20,Male,Black,2021-04-11,Brooklyn Center,MN
+1115,"['Faustin', 'Guetigo']",27,Male,Black,2021-04-10,Rockford,IL
+1121,"['DeShund', 'Tanner']",31,Male,Black,2021-04-09,Georgetown,KY
+1125,"['Raheem', 'Reeder']",21,Male,Black,2021-04-08,Tallahassee,FL
+1127,"['James', 'Alexander']",24,Male,Black,2021-04-07,Philadelphia,PA
+1128,"['Dominique', 'Williams']",32,Male,Black,2021-04-07,Takoma Park,MD
+1129,"['James', 'Lionel', 'Johnson']",38,Male,Black,2021-04-07,Takoma Park,MD
+1130,"['Roger', 'Cornelius', 'Allen']",44,Male,Black,2021-04-07,Daly City,CA
+1137,"['Desmon', 'Montez', 'Ray']",28,Male,Black,2021-04-04,Birmingham,AL
+1142,"['Diwone', 'Wallace']",24,Male,Black,2021-04-03,Alorton,IL
+1143,"['Noah', 'R.', 'Green']",25,Male,Black,2021-04-02,Washington,DC
+1148,"['DeShawn', 'Latiwon', 'Tatum']",25,Male,Black,2021-04-01,Rock Island,IL
+1150,"['Stephen', 'Patrick', 'Moseley']",36,Male,Black,2021-04-01,Fremont,CA
+1153,"['Willie', 'Roy', 'Allen']",57,Male,Black,2021-03-31,Lithonia,GA
+1160,"['Michael', 'Leon', 'Hughes']",32,Male,Black,2021-03-30,Jacksonville,FL
+1164,"['Matthew', 'Blaylock']",38,Male,Black,2021-03-29,Los Angeles ,CA
+1167,"['Donovon', 'W.', 'Lynch']",25,Male,Black,2021-03-26,Virginia Beach,VA
+1173,"['Malcolm', 'D.', 'Johnson']",31,Male,Black,2021-03-25,Kansas City,MO
+1174,"['Travon', 'Chadwell']",18,Male,Black,2021-03-25,Chicago,IL
+1183,"['Frankie', 'Jennings']",32,Male,Black,2021-03-23,Charlotte,NC
+1193,"['Kevin', 'L.', 'Duncan']",38,Male,Black,2021-03-20,Bellefontaine,OH
+1199,"['Daryl', 'Lenard', 'Jordan']",50,Male,Black,2021-03-18,Miami,FL
+1202,"['Exzabian', 'Morgan', 'Myers']",31,Male,Black,2021-03-18,Graniteville,SC
+1203,"['Matthew', 'James', 'Hurlock']",35,Male,Black,2021-03-17,Cypress,TX
+1207,"['Caleb', 'Smith']",22,Male,Black,2021-03-16,Hayward,CA
+1211,"['Christopher', 'Ruffin']",28,Male,Black,2021-03-14,Palm Bay,FL
+1218,"['Charles', 'Ray', 'Phillips']",51,Male,Black,2021-03-13,Monahans,TX
+1222,"['Nika', 'Nicole', 'Holbert']",31,Female,Black,2021-03-12,Nashville,TN
+1224,"['Tyrell', 'Wilson']",32,Male,Black,2021-03-11,Danville,CA
+1230,"['Tyshon', 'Jones']",29,Male,Black,2021-03-10,Rochester,NY
+1231,"['Jehlani', 'Black']",19,Male,Black,2021-03-09,Riverside,CA
+1235,"['Howayne', 'Gayle']",35,Male,Black,2021-03-07,Lakeland,FL
+1239,"['Andrew', 'Teague']",43,Male,Black,2021-03-05,Columbus,OH
+1242,"['Dwight', 'Brown']",41,Male,Black,2021-03-03,Abbeville,LA
+1243,"['Broderick', 'Woods']",33,Male,Black,2021-03-03,Houston,TX
+1245,"['Chandra', 'Moore']",55,Male,Black,2021-03-01,Detroit,MI
+1255,"['Rudy', 'Duvivier']",32,Male,Black,2021-02-27,Orange Park,FL
+1262,"['Benjamin', 'Tyson']",35,Male,Black,2021-02-25,Baltimore,MD
+1263,"['Donald', 'Francis', 'Hairston']",44,Male,Black,2021-02-25,Culpeper,VA
+1267,"['Alonte', 'Damar', 'Murphy']",22,Male,Black,2021-02-24,Garden City,MI
+1275,"['Daniel', 'Newton', 'Neal']",37,Male,Black,2021-02-21,San Jose,FL
+1277,"['Arnell', 'States']",39,Male,Black,2021-02-20,Cedar Rapids,IA
+1304,"['Daverion', 'Kinard']",29,Male,Black,2021-02-13,Fontana,CA
+1305,"[""De'Aire"", 'Jontae', 'Gray']",28,Male,Black,2021-02-13,Speedway,IN
+1306,"['Brandon', 'Wimberly']",36,Male,Black,2021-02-12,Coral Gables,FL
+1314,"['Cortez', 'Lee', 'Bogan']",27,Male,Black,2021-02-10,East Cleveland,OH
+1315,"['Jordan', 'Walton']",21,Male,Black,2021-02-10,Austin,TX
+1317,"['Gregory', 'Taylor']",45,Male,Black,2021-02-09,Seattle,WA
+1321,"['Dustin', 'Demaurean', 'Powell']",34,Male,Black,2021-02-07,Lakeview,TX
+1333,"['Christopher', 'Hagans']",36,Male,Black,2021-02-05,Stratford,CT
+1334,"['Andrew', 'Hogan']",25,Male,Black,2021-02-05,Trotwood ,OH
+1335,"['Jenoah', 'Donald']",30,Male,Black,2021-02-04,Hazel Dell,WA
+1336,"['Trey', 'Webster']",18,Male,Black,2021-02-04,Mobile,AL
+1338,"['Dontae', 'Green']",34,Male,Black,2021-02-04,Baltimore,MD
+1341,"['Marvon', 'Payton', 'Jr.']",27,Male,Black,2021-02-03,Las Vegas,NV
+1352,"['Karl', 'Walker']",29,Male,Black,2021-01-31,Dixon,CA
+1360,"['Roger', 'D.', 'Hipskind']",37,Male,Black,2021-01-28,Wabash,IN
+1361,"['Randy', 'Miller']",55,Male,Black,2021-01-27,Los Angeles ,CA
+1370,"['Tyree', 'Kajawn', 'Rogers']",38,Male,Black,2021-01-24,Wichita Falls,TX
+1377,"['Eusi', 'Malik', 'Kater', 'Jr.']",21,Male,Black,2021-01-20,Titusville,AL
+1382,"['Christopher', 'Harris']",27,Male,Black,2021-01-18,Toledo,OH
+1385,"['Zonterious', 'Johnson']",24,Male,Black,2021-01-17,Lawton,OK
+1390,"['Reginald', 'Johnson']",48,Male,Black,2021-01-15,Biloxi,MS
+1391,"['Kershawn', 'Geiger']",24,Male,Black,2021-01-15,Carmichael,CA
+1394,"['Lymond', 'Maurice', 'Moses']",30,Male,Black,2021-01-13,Wilington ,DE
+1403,"['Patrick', 'Warren', 'Sr.']",52,Male,Black,2021-01-10,Killeen,TX
+1409,"['Jason', 'Nightengale']",32,Male,Black,2021-01-09,Evanston,IL
+1410,"['Matthew', 'Oxendine']",46,Male,Black,2021-01-09,Pembroke,NC
+1412,"['Paul', 'Bolden']",37,Male,Black,2021-01-09,Phoenix,AZ
+1414,"['Kwamena', 'Ocran']",24,Male,Black,2021-01-08,Gaithersburg,MD
+1420,"['Robert', '""Lil', 'Rob""', 'Howard']",30,Male,Black,2021-01-06,Memphis,TN
+1424,"['Vincent', 'Belmonte']",18,Male,Black,2021-01-05,Cleveland,OH
+1428,"['La', 'Garion', 'Smith']",27,Male,Black,2021-01-03,Homestead,FL
+1429,"['Tre-Kedrian', 'Tyquan', 'White']",20,Male,Black,2021-01-03,Richburg,SC
+1434,"['Isaac', 'Matheney']",37,Male,Black,2021-01-01,Lakeview,OR
+1435,"['Carl', 'Dorsey', 'III']",39,Male,Black,2021-01-01,Newark,NJ
+1441,"['Dolal', 'Idd']",23,Male,Black,2020-12-30,Minneapolis,MN
+1443,"['Jaquan', 'Haynes']",18,Male,Black,2020-12-29,Atlanta,GA
+1445,"['Jason', 'Cooper']",28,Male,Black,2020-12-29,Charleston,SC
+1446,"['Shyheed', 'Robert', 'Boyd']",21,Male,Black,2020-12-29,Highland,CA
+1450,"['Helen', 'Jones']",47,Female,Black,2020-12-28,Phoenix,AZ
+1455,"['Larry', 'Hamm']",47,Male,Black,2020-12-28,Denver,CO
+1456,"['Marquavious', 'Rashod', 'Parks']",26,Male,Black,2020-12-27,Davisboro,GA
+1458,"['Shamar', 'Ogman']",30,Male,Black,2020-12-26,Hartford,CT
+1459,"['Sheikh', 'Mustafa', 'Davis']",20,Male,Black,2020-12-25,Midway,GA
+1462,"['Isaac', 'Frazier']",31,Male,Black,2020-12-25,Houston,TX
+1470,"['Andre', 'Maurice', 'Hill']",47,Male,Black,2020-12-22,Columbus,OH
+1471,"['Larry', 'Taylor']",39,Male,Black,2020-12-21,Mobile,AL
+1482,"['Johnny', 'Bolton']",49,Male,Black,2020-12-17,Smyrna,GA
+1484,"['Jeremy', 'Maurice', 'Daniels']",29,Male,Black,2020-12-16,Concord Mills,NC
+1498,"['Charles', 'E.', 'Jones']",36,Male,Black,2020-12-11,Houston,TX
+1499,"['Bennie', 'Edwards']",60,Male,Black,2020-12-11,Oklahoma City ,OK
+1505,"['Joshua', 'Feast']",22,Male,Black,2020-12-09,La Marque,TX
+1507,"['Joseph', 'R.', 'Crawford']",23,Male,Black,2020-12-09,Fort Atkinson,WI
+1511,"['Thomas', 'Reeder', 'III']",44,Male,Black,2020-12-07,Flint,MI
+1513,"['Mark', 'Brewer']",28,Male,Black,2020-12-06,St. Louis,MO
+1514,"['Donald', 'Edwin', 'Saunders']",37,Male,Black,2020-12-06,Dayton,OH
+1515,"['Kwamaine', ""O'Neal""]",47,Male,Black,2020-12-05,Toledo,OH
+1519,"['Andre', 'K.', 'Sterling']",35,Male,Black,2020-12-04,Bronx,NY
+1522,"['Casey', 'Christopher', 'Goodson', 'Jr.']",23,Male,Black,2020-12-04,Columbus,OH
+1524,"['Maurice', 'Jackson']",42,Male,Black,2020-12-03,Phoenix,AZ
+1527,"['Dominique', 'Harris']",20,Male,Black,2020-12-02,St. Petersburg,FL
+1529,"['James', 'David', 'Hawley']",47,Male,Black,2020-12-01,Pineville,LA
+1530,"['Kevin', 'Fox']",28,Male,Black,2020-12-01,Detroit,MI
+1533,"['Mickee', 'McArthur']",28,Male,Black,2020-11-30,Ferry Pass,FL
+1541,"['Ellis', 'Frye', 'Jr.']",62,Male,Black,2020-11-26,Culpeper,VA
+1543,"['Rondell', 'Goppy']",41,Male,Black,2020-11-24,Queens,NY
+1557,"['Rodney', 'Applewhite']",25,Male,Black,2020-11-19,Los Lunas,NM
+1560,"['Terrell', 'Smith']",17,Male,Black,2020-11-19,Atlanta,GA
+1561,"['Kenneth', 'Jones']",35,Male,Black,2020-11-19,Omaha ,NE
+1565,"['Shawn', 'Lequin', 'Braddy']",37,Male,Black,2020-11-17,Laurel,MD
+1566,"['Javon', 'Brice']",39,Male,Black,2020-11-17,La Vergne,TN
+1568,"['Shane', 'K.', 'Jones']",38,Male,Black,2020-11-16,Dania Beach,FL
+1576,"['Sincere', 'Pierce']",18,Male,Black,2020-11-13,Cocoa,FL
+1577,"['Arthur', 'Keith']",19,Unknown,Black,2020-11-13,Cleveland,OH
+1580,"['Angelo', '""AJ""', 'Crooms']",16,Male,Black,2020-11-13,Cocoa,FL
+1584,"['Brandon', 'Milburn']",37,Male,Black,2020-11-11,Oklahoma City ,OK
+1587,"['Vusumuzi', 'Kunene']",36,Male,Black,2020-11-10,Lanham,MD
+1593,"['Rodney', 'Eubanks']",25,Male,Black,2020-11-09,Baltimore,MD
+1594,"['Fredrick', 'Cox', 'Jr.']",18,Male,Black,2020-11-08,High Point,NC
+1601,"['Reginald', 'Alexander', 'Jr.']",25,Male,Black,2020-11-05,Dallas,TX
+1608,"['Justin', 'Reed']",34,Male,Black,2020-11-04,Jacksonville,FL
+1624,"['Name', 'withheld', 'by', 'police']",42,Male,Black,2020-10-30,Detroit,MI
+1627,"['Kevin', 'Peterson', 'Jr.']",21,Male,Black,2020-10-29,Vancouver,WA
+1635,"['Maurice', 'Parker']",34,Male,Black,2020-10-27,Las Vegas,NV
+1637,"['Walter', 'Wallace', 'Jr.']",27,Male,Black,2020-10-26,Philadelphia,PA
+1643,"['Jakerion', 'Shmond', 'Jackson']",19,Male,Black,2020-10-24,Sylvester,GA
+1649,"['Ennice', '""Lil', 'Rocc""', 'Ross', 'Jr.']",26,Male,Black,2020-10-23,Kansas City,MO
+1652,"['Mark', 'Matthew', 'Bender']",35,Male,Black,2020-10-22,San Bernardino,CA
+1656,"['Gregory', 'Jackson']",45,Male,Black,2020-10-21,Moss Point,MS
+1659,"['Marcellis', 'Stinnette']",19,Male,Black,2020-10-20,Waukegan,IL
+1663,"['Dominique', 'Mulkey']",26,Male,Black,2020-10-20,Tampa,FL
+1664,"['Rodney', 'Arnez', 'Barnes']",48,Male,Black,2020-10-20,Elmwood Place,OH
+1682,"['Fred', 'Williams', 'III']",25,Male,Black,2020-10-16,Los Angeles ,CA
+1684,"['Akbar', 'Muhammad', 'Eaddy']",27,Male,Black,2020-10-16,Rock Island,IL
+1688,"['Dana', 'Mitchell', 'Young', 'Jr.']",47,Male,Black,2020-10-15,Los Angeles ,CA
+1689,"['Kevin', 'Carr']",23,Male,Black,2020-10-14,Los Angeles ,CA
+1698,"['Anthony', 'Jones']",24,Male,Black,2020-10-12,Bethel Springs,TN
+1708,"['Stanley', 'Cochran']",29,Male,Black,2020-10-08,Philadelphia,PA
+1711,"['Tyran', 'Dent']",24,Male,Black,2020-10-08,Queens,NY
+1724,"['Jonathan', 'Price']",31,Male,Black,2020-10-03,Wolfe City,TX
+1732,"['DeMarco', 'Riley']",27,Male,Black,2020-09-30,Decatur,GA
+1734,"['Willie', 'Shropshire', 'Jr.']",57,Male,Black,2020-09-28,Waggaman,LA
+1744,"['Kurt', 'Andras', 'Reinhold']",42,Male,Black,2020-09-23,San Clemente,CA
+1747,"['Patches', 'Vojon', 'Holmes', 'Jr.']",26,Male,Black,2020-09-21,Bellefontaine Neighbors,MO
+1748,"['Dearian', 'Bell']",28,Male,Black,2020-09-21,Atlanta,GA
+1754,"['Charles', 'Eric', 'Moses', 'Jr.']",33,Male,Black,2020-09-19,Brunswick,GA
+1764,"['Darrell', 'Wayne', 'Zemault', 'Sr.']",55,Male,Black,2020-09-15,San Antonio,TX
+1767,"['Robert', 'Coleman']",88,Male,Black,2020-09-12,West Sacramento,CA
+1770,"['Jonathan', 'Darsaw']",28,Male,Black,2020-09-10,Moscow,TN
+1777,"['Steve', 'Gilbert']",33,Male,Black,2020-09-08,Delray Beach,FL
+1783,"['Major', 'Carvel', 'Baldwin']",61,Male,Black,2020-09-05,San Antonio,TX
+1786,"['Steven', 'D.', 'Smith']",33,Male,Black,2020-09-04,Syracuse,NY
+1791,"['Deon', 'Kay']",18,Male,Black,2020-09-02,Washington,DC
+1793,"['Dijon', 'Kizzee']",29,Male,Black,2020-08-31,Westmont,CA
+1795,"['Robert', 'Earl', 'Jackson']",54,Male,Black,2020-08-31,Thorsby,AL
+1801,"['Name', 'withheld', 'by', 'police']",43,Male,Black,2020-08-29,Dearborn Heights,MI
+1802,"['Michael', 'Anthony', 'Harris']",44,Male,Black,2020-08-29,Daytona Beach,FL
+1806,"['Julius', 'Paye', 'Kehyei']",29,Male,Black,2020-08-26,Houston,TX
+1808,"['Damian', 'Lamar', 'Daniels']",31,Male,Black,2020-08-25,San Antonio,TX
+1815,"['Trayford', 'Pellerin']",31,Male,Black,2020-08-22,Lafayette,LA
+1831,"['Adrian', 'Jason', 'Roberts']",37,Male,Black,2020-08-18,Hope Mills,NC
+1843,"['Kendrell', 'Antron', 'Watkins']",31,Male,Black,2020-08-15,Tuscaloosa,AL
+1845,"['Anthony', 'McClain']",32,Male,Black,2020-08-15,Pasadena,CA
+1851,"['Rafael', 'Jevon', 'Minniefield']",29,Male,Black,2020-08-13,Moreland,GA
+1868,"['Julian', 'Edward', 'Roosevelt', 'Lewis']",60,Male,Black,2020-08-07,Sylvania,GA
+1872,"['Salaythis', 'Melvin']",22,Male,Black,2020-08-07,Orlando,FL
+1874,"['Amir', 'Johnson']",30,Male,Black,2020-08-06,Ventnor City,NJ
+1878,"['Ashton', 'Broussard']",30,Male,Black,2020-08-04,Houston,TX
+1894,"['Darrien', 'Walker']",28,Male,Black,2020-07-30,Detroit,MI
+1910,"['David', 'Earl', 'Brooks', 'Jr.']",45,Male,Black,2020-07-24,Roxboro,NC
+1911,"['Chester', 'Jenkins']",60,Male,Black,2020-07-24,Stockton,CA
+1917,"['Jeremy', 'Southern']",22,Male,Black,2020-07-21,Sacramento,CA
+1918,"['Vincent', 'Harris']",51,Male,Black,2020-07-20,Baton Rouge,LA
+1921,"['Darius', 'Washington']",24,Male,Black,2020-07-18,Chicago Heights,IL
+1927,"['Aaron', 'Anthony', 'Hudson']",31,Male,Black,2020-07-16,Syracuse,NY
+1936,"['Vincent', 'Demario', 'Truitt']",17,Male,Black,2020-07-13,Austell,GA
+1942,"['Hakim', 'Littleton']",20,Male,Black,2020-07-10,Detroit,MI
+1947,"['Richard', 'Lewis', 'Price']",49,Male,Black,2020-07-09,San Diego,CA
+1949,"['Erroll', 'Johnson']",31,Male,Black,2020-07-08,Monroe,LA
+1950,"['Malik', 'Canty']",36,Male,Black,2020-07-08,Paterson,NJ
+1955,"['William', 'Wade', 'Burgess', 'III']",27,Male,Black,2020-07-06,St. Louis,MO
+1957,"['Joseph', 'W.', 'Denton']",35,Male,Black,2020-07-06,Milwaukee,WI
+1966,"['Ky', 'Johnson']",31,Male,Black,2020-07-02,Kansas City,MO
+1967,"['Kevan', 'O.', 'Ruffin']",32,Male,Black,2020-07-02,Sheboygan,WI
+1979,"['Aloysius', 'Larue', 'Keaton']",58,Male,Black,2020-06-27,Little Rock,AR
+1987,"['Rasheed', 'Mathew', 'Moorman']",26,Male,Black,2020-06-25,Roanoke,VA
+1988,"['Robert', ""D'Lon"", 'Harris']",34,Male,Black,2020-06-25,Vinita,OK
+1992,"['Skyleur', 'Young']",31,Male,Black,2020-06-24,San Bernardino,CA
+1999,"['Derrick', 'Canada']",43,Male,Black,2020-06-22,Giddings,TX
+2011,"['Terron', 'Jammal', 'Boone']",31,Male,Black,2020-06-17,Rosamond,CA
+2015,"['Donald', 'Ward']",27,Male,Black,2020-06-16,Phoenix,AZ
+2016,"['Brandon', 'Gardner']",24,Male,Black,2020-06-16,Beach Park,IL
+2021,"['Rayshard', 'Brooks']",27,Male,Black,2020-06-12,Atlanta,GA
+2022,"['Caine', 'Van', 'Pelt']",23,Male,Black,2020-06-12,Crown Point,IN
+2023,"['Michael', 'Blu', 'Thomas']",63,Male,Black,2020-06-11,Lancaster,CA
+2026,"['Phillip', 'Jackson']",32,Male,Black,2020-06-11,Tunnel Hill,GA
+2031,"['Lewis', 'Ruffin', 'Jr.']",38,Male,Black,2020-06-09,Orlando,FL
+2044,"['Kamal', 'Flowers']",24,Male,Black,2020-06-05,New Rochelle,NY
+2052,"['Tyquarn', 'Graves']",33,Male,Black,2020-06-02,Brooklyn,NY
+2054,"['David', 'McAtee']",53,Male,Black,2020-06-01,Louisville ,KY
+2058,"['Derrick', 'Thompson']",46,Male,Black,2020-05-30,Fountain,FL
+2060,"['Terrell', 'Mitchell']",34,Male,Black,2020-05-29,Philadelphia,PA
+2061,"['Momodou', 'Lamin', 'Sisay']",39,Male,Black,2020-05-29,Snellville,GA
+2063,"['Jarvis', 'Sullivan']",44,Male,Black,2020-05-29,Yulee,FL
+2068,"['Ruben', 'Smith', 'III']",35,Male,Black,2020-05-28,North Little Rock,AR
+2072,"['Tony', 'McDade', 'aka', 'Natosha', 'McDade']",38,Transgender,Black,2020-05-27,Tallahassee,FL
+2078,"['Modesto', '""Marrero', 'Desto""', 'Reyes']",35,Male,Black,2020-05-27,Marrero,LA
+2087,"['Dion', 'Johnson']",28,Male,Black,2020-05-25,Phoenix,AZ
+2091,"['George', 'Floyd']",46,Male,Black,2020-05-25,Minneapolis,MN
+2097,"['Maurice', 'S.', 'Gordon']",28,Male,Black,2020-05-23,Bass River,NJ
+2100,"['Willie', 'Lee', 'Quarles', 'Sr.']",60,Male,Black,2020-05-21,Greenwood,SC
+2104,"['William', 'Johnson', 'Jr.']",48,Male,Black,2020-05-21,Nashville,TN
+2105,"['Tobby', 'LaRon', 'Wiggins']",45,Male,Black,2020-05-20,Atmore,AL
+2118,"['Randy', 'Roszell', 'Lewis']",38,Male,Black,2020-05-16,Braeburn,TX
+2119,"['Robert', 'Johnson', 'Jr.']",29,Male,Black,2020-05-16,Essex,MD
+2128,"['Rayshard', 'Scales']",30,Male,Black,2020-05-14,Houston,TX
+2129,"['David', 'Tylek', 'Atkinson']",24,Male,Black,2020-05-13,Raleigh,NC
+2140,"['Yassin', 'Mohamed']",47,Male,Black,2020-05-09,Claxton,GA
+2143,"['Adrian', 'Medearis']",48,Male,Black,2020-05-08,Houston,TX
+2146,"['McHale', 'Rose']",19,Male,Black,2020-05-07,Indianapolis,IN
+2148,"['Finan', 'H.', 'Berhe']",30,Male,Black,2020-05-07,Silver Spring,MD
+2150,"['Dreasjon', '""DaDon""', 'Reed']",21,Male,Black,2020-05-06,Indianapolis,IN
+2154,"['Jahsean', 'Iandie', 'Hodge']",21,Male,Black,2020-05-05,St. Cloud,FL
+2158,"['Qavon', 'Webb']",23,Male,Black,2020-05-05,Webster Groves,MO
+2161,"['Demontre', 'Bruner']",21,Male,Black,2020-05-04,Muskogee,OK
+2172,"['Said', 'Joquin']",26,Male,Black,2020-05-01,Lakewood,WA
+2173,"['Brent', ""D'Andrew"", 'Martin']",32,Male,Black,2020-05-01,Little Rock,AR
+2176,"['William', 'Lamont', 'Debose']",21,Male,Black,2020-05-01,Denver,CO
+2180,"['Shaun', 'Lee', 'Fuhr']",24,Male,Black,2020-04-29,Columbia City,WA
+2186,"['Malcolm', '""Milky""', 'Xavier', 'Ray', 'Williams']",27,Male,Black,2020-04-29,Jeffersonville,IN
+2190,"['Jonas', 'Joseph']",26,Male,Black,2020-04-28,Tampa,FL
+2197,"['Kelvin', 'D.', 'Shaw']",37,Male,Black,2020-04-25,Rock Island,IL
+2206,"['Elmer', 'L.', 'Mack']",40,Male,Black,2020-04-22,Florence,SC
+2210,"['Joshua', 'Johnson']",35,Male,Black,2020-04-22,Missouri City,TX
+2213,"['Chase', 'Rosa']",24,Male,Black,2020-04-21,Las Vegas,NV
+2217,"['Virgill', 'Thorpe']",28,Male,Black,2020-04-19,Colorado Springs,CO
+2218,"['Joel', 'Acevedo']",25,Male,Black,2020-04-19,Milwaukee,WI
+2223,"['Steven', 'Demarco', 'Taylor']",33,Male,Black,2020-04-18,San Leandro,CA
+2225,"['Derick', 'L.', 'Powe']",30,Male,Black,2020-04-17,Daphne,AL
+2227,"['Jasman', 'Washington']",31,Male,Black,2020-04-16,Lubbock,TX
+2232,"['Goldie', 'Bellinger']",39,Male,Black,2020-04-15,Augusta,GA
+2248,"['Jonathan', 'Lee', 'Adams']",31,Male,Black,2020-04-10,Pottstown,PA
+2249,"['Kanisha', 'Necole', 'Fuller']",43,Female,Black,2020-04-10,Birmingham,AL
+2253,"['Zyon', 'Romeir', 'Wyche']",19,Male,Black,2020-04-09,Colonial Heights,VA
+2255,"['Desmond', 'Franklin']",22,Male,Black,2020-04-09,Cleveland,OH
+2256,"['Joshua', 'Dariandre', 'Ruffin']",17,Male,Black,2020-04-08,Columbia,SC
+2260,"['Idris', 'Abdus-Salaam']",33,Male,Black,2020-04-07,Knoxville,TN
+2263,"['Dewayne', 'Curtis', 'Lafond']",44,Male,Black,2020-04-07,Refugio,TX
+2266,"['Tommie', 'Dale', 'McGlothen', 'Jr.']",44,Male,Black,2020-04-06,Shreveport,LA
+2276,"['Nathan', 'R.', 'Hodge']",66,Male,Black,2020-04-02,Swartz,LA
+2286,"['Edward', 'Bronstein']",38,Male,Black,2020-03-31,Altadena,CA
+2287,"['Etonne', 'T.', 'Tanzymore']",38,Male,Black,2020-03-30,Baltimore,MD
+2297,"['Tyrell', '""Rex""', 'Fincher']",26,Male,Black,2020-03-27,Newburgh,NY
+2315,"['Kamaal', 'Koby', 'Edwards']",18,Male,Black,2020-03-20,Cuthbert,GA
+2316,"['Mycael', 'Johnson', 'aka', 'Mychael', 'Johnson']",31,Male,Black,2020-03-20,Tallahassee,FL
+2318,"['Alvin', 'Lamont', 'Baum', 'II']",23,Male,Black,2020-03-20,Virginia Beach,VA
+2321,"['Harold', 'Spencer']",61,Male,Black,2020-03-19,Iota,LA
+2324,"['Lebarron', 'Ballard']",28,Male,Black,2020-03-18,Abilene,TX
+2326,"['William', 'Dion', 'Tolbert', 'Simpkins']",39,Male,Black,2020-03-17,Atlanta,GA
+2331,"['Darwin', '""Darrin""', 'Barnell', 'Foy']",35,Male,Black,2020-03-16,Webster City,IA
+2332,"['Darrell', 'William', 'Mobley', 'Sr.']",48,Male,Black,2020-03-15,Syracuse,NY
+2343,"['Breonna', 'Taylor']",26,Female,Black,2020-03-13,Louisville ,KY
+2351,"['Donnie', 'Sanders']",47,Male,Black,2020-03-12,Kansas City,MO
+2360,"['Zachery', 'Anderson', 'Jr.']",28,Male,Black,2020-03-08,Humble,TX
+2364,"['Barry', 'Gedeus']",27,Male,Black,2020-03-08,Fort Lauderdale,FL
+2369,"['Tyler', 'M.', 'Jones']",24,Male,Black,2020-03-06,Fairfield,OH
+2374,"['Elijah', 'Jamaal', 'Brewer']",25,Male,Black,2020-03-05,Pittsburgh,PA
+2375,"['Devan', 'Austin', 'Twilley']",25,Male,Black,2020-03-05,Hamilton Township,IN
+2380,"['Manuel', '""Manny""', 'Elijah', 'Ellis']",33,Male,Black,2020-03-03,Tacoma,WA
+2390,"['Anthony', 'Taylor']",49,Male,Black,2020-02-29,Milwaukee,WI
+2398,"['Desmond', 'Hayes']",28,Male,Black,2020-02-27,Colorado Springs,CO
+2402,"['Justin', 'Lee', 'Stackhouse']",30,Male,Black,2020-02-26,Bradenton,FL
+2405,"['Kenneth', 'Laneal', 'Sashington']",38,Male,Black,2020-02-25,Tuscumbia,AL
+2409,"['Matthew', 'Felix']",19,Male,Black,2020-02-25,Queens,NY
+2425,"['Joseph', 'C.', 'Jewell', 'III']",17,Male,Black,2020-02-20,Columbus,OH
+2427,"['Kevin', 'Aldophe']",22,Male,Black,2020-02-18,Orlando,FL
+2449,"['Bobby', 'Joe', 'Gibbs']",40,Male,Black,2020-02-10,Forrest City,AR
+2451,"['Jeremy', 'Grayson']",31,Male,Black,2020-02-09,Chicago,IL
+2463,"['Dominque', 'Antwon', 'Anderson']",26,Male,Black,2020-02-04,Home Garden,CA
+2465,"['Lionel', 'Morris']",39,Male,Black,2020-02-04,Conway,AR
+2468,"['Marc', 'Dominic', 'Neal']",56,Male,Black,2020-02-03,Salt Lake City,UT
+2471,"['Alvin', 'Cole']",17,Male,Black,2020-02-02,Wauwatosa,WI
+2473,"['Leonard', 'Charles', 'Parker', 'Jr.']",53,Male,Black,2020-02-01,Gulfport,MS
+2474,"['Ronnell', 'Mouzon']",41,Male,Black,2020-02-01,Fort Myers,FL
+2475,"['Abdirahman', 'Salad']",15,Male,Black,2020-01-30,Columbus,OH
+2476,"['Keith', 'Dutree', 'Collins']",52,Male,Black,2020-01-30,Raleigh,NC
+2484,"['Jaquyn', 'Oneill', 'Light']",20,Male,Black,2020-01-28,Graham,NC
+2486,"['Aaron', 'T.', 'Booker']",22,Male,Black,2020-01-27,Aiken,SC
+2488,"['William', 'Howard', 'Green', 'Jr.']",43,Male,Black,2020-01-27,Marlow Heights,MD
+2489,"['Joshua', 'James', 'Brown']",34,Male,Black,2020-01-25,Columbus,OH
+2490,"[""D'ovion"", 'Semaj', 'Perkins']",19,Male,Black,2020-01-25,Aurora,CO
+2494,"['Marquis', 'Golden']",29,Male,Black,2020-01-23,St. Petersburg,FL
+2496,"['Michael', 'J.', 'Rivera']",32,Male,Black,2020-01-23,Bloomingdale,NJ
+2497,"['Deandre', 'Lee', 'Seaborough-Patterson']",22,Male,Black,2020-01-23,Savannah,GA
+2499,"['Andrew', 'J.', 'Smyrna']",32,Male,Black,2020-01-23,Atlanta,GA
+2503,"['Reginald', 'Leon', 'Boston', 'Jr.']",20,Male,Black,2020-01-21,Jacksonville,FL
+2505,"['Gamel', 'Antonio', 'Brown']",30,Male,Black,2020-01-21,Owings Mills,MD
+2508,"['Darius', 'J.', 'Tarver']",23,Male,Black,2020-01-21,Denton,TX
+2514,"['Kelvin', 'White']",42,Male,Black,2020-01-19,Chesapeake,VA
+2516,"['Samuel', 'David', 'Mallard']",19,Male,Black,2020-01-17,Powder Springs,GA
+2520,"['Mubarak', 'Soulemane']",19,Male,Black,2020-01-15,West Haven,CT
+2521,"['Renard', 'Antonio', 'Daniels']",55,Male,Black,2020-01-15,Cocoa,FL
+2522,"['Albert', 'Lee', 'Hughes']",47,Male,Black,2020-01-15,Lawrenceville,GA
+2527,"['Keenan', 'McCain']",29,Male,Black,2020-01-13,Gary,IN
+2529,"['Henry', 'Isaac', 'Jones']",47,Male,Black,2020-01-11,Bainbridge,GA
+2532,"['Ryan', 'Simms']",49,Male,Black,2020-01-11,Miami Beach,FL
+2537,"['Earl', 'Facey']",37,Male,Black,2020-01-09,New York,NY
+2539,"['Claude', 'Washington', 'Fain', 'III']",42,Male,Black,2020-01-09,Philadelphia,PA
+2550,"['Brandon', 'Dionte', 'Roberts']",27,Male,Black,2020-01-05,Milford,DE
+2551,"['Miciah', 'Lee']",18,Male,Black,2020-01-05,Sparks,NV
+2552,"['Kwame', 'Jones']",17,Male,Black,2020-01-05,Jacksonville,FL
+2556,"['Tyree', 'Davis']",25,Male,Black,2020-01-04,Chicago,IL
+2557,"['Tina', 'Marie', 'Davis']",53,Female,Black,2020-01-04,Spring Valley,NY
+2559,"['Jamarri', 'Daiwon', 'Tarver']",26,Male,Black,2020-01-02,North Las Vegas,NV
+2569,"['Terry', 'Hudson']",57,Male,Black,2019-12-31,Omaha ,NE
+2570,"['Malik', 'Williams']",23,Male,Black,2019-12-31,Federal Way,WA
+2574,"['Frederick', 'Perkins']",37,Male,Black,2019-12-31,Chesterfield,MO
+2593,"['Antonio', 'Smith']",35,Male,Black,2019-12-26,Memphis,TN
+2595,"['Deangelo', 'Rashad', 'Martin']",23,Male,Black,2019-12-25,Atlanta,GA
+2596,"['Elray', 'Barber']",60,Male,Black,2019-12-24,Oklahoma City ,OK
+2602,"['Romir', 'Talley']",24,Male,Black,2019-12-22,Pittsburgh,PA
+2603,"['Kenneth', 'Collins']",46,Male,Black,2019-12-22,Hattiesburg,MS
+2610,"['Steven', 'DeWayne', 'Haizlip']",61,Male,Black,2019-12-20,Winston-Salem,NC
+2612,"['Mohamed', 'Ahemed', 'Al-Hashemi']",25,Male,Black,2019-12-19,Tempe,AZ
+2614,"['Emanuel', 'Johnson']",21,Male,Black,2019-12-19,Brentwood,NY
+2616,"['Kentrey', 'Marquis', 'Witherspoon']",28,Male,Black,2019-12-19,Lenoir,NC
+2633,"['Louis', 'Patrick', 'Veal']",65,Male,Black,2019-12-14,Detroit,MI
+2634,"['Jamee', 'Christopher', 'Deonte', 'Johnson']",22,Male,Black,2019-12-14,Jacksonville,FL
+2636,"['Romello', 'Barnes']",22,Male,Black,2019-12-12,Tampa,FL
+2638,"['Cortez', 'Bufford']",24,Male,Black,2019-12-12,St. Louis,MO
+2640,"['Taveonte', 'Art', 'Emmanuel']",34,Male,Black,2019-12-12,Anaheim,CA
+2646,"['Montay', 'Steven', 'Penning']",23,Male,Black,2019-12-10,Beloit,WI
+2647,"['Kreen', 'Cornell', 'Bateman']",31,Male,Black,2019-12-10,Andrews,SC
+2648,"['Francine', 'Graham']",50,Female,Black,2019-12-10,Jersey City,NJ
+2650,"['David', 'N.', 'Anderson']",47,Male,Black,2019-12-10,Jersey City,NJ
+2652,"['Antonio', 'Nichols']",47,Male,Black,2019-12-09,Independence,LA
+2656,"['Dominick', 'Matt']",17,Male,Black,2019-12-06,Bentonville,AR
+2658,"['Ronnie', 'Jerome', 'Hill']",41,Male,Black,2019-12-05,Miramar,FL
+2659,"['Lamar', 'Alexander']",41,Male,Black,2019-12-05,Miramar,FL
+2661,"['Alvern', 'Donell', 'Walker']",58,Male,Black,2019-12-05,Avon,CO
+2662,"['Demetrius', 'Williams']",31,Male,Black,2019-12-05,Marshall,TX
+2665,"['Miguel', 'Russo']",31,Male,Black,2019-12-03,Syracuse,NY
+2666,"['Cameron', 'Lamb']",26,Male,Black,2019-12-03,Kansas City,MO
+2670,"['Jerric', 'Harris']",21,Male,Black,2019-12-02,Daytona Beach,FL
+2671,"['Michael', 'Lorenzo', 'Dean']",28,Male,Black,2019-12-02,Temple,TX
+2674,"['Jimmie', 'Phillips']",68,Male,Black,2019-12-01,Morrow,GA
+2684,"['Derrick', 'Everett']",31,Male,Black,2019-11-28,Tampa,FL
+2687,"['Micduff', 'Lamarco', 'Robinson']",40,Male,Black,2019-11-27,Mansfield,OH
+2692,"['Nathaniel', 'Pinnock']",22,Male,Black,2019-11-25,Hollywood,CA
+2697,"['Ariane', 'Lamont', 'McCree']",28,Male,Black,2019-11-23,Chester,SC
+2698,"['Lance', 'Edward', 'Smith']",37,Male,Black,2019-11-22,Elizabethtown,NC
+2701,"['Kenneth', 'Simeus']",18,Male,Black,2019-11-20,Henderson,NV
+2703,"['Christopher', 'Terrell', 'Willis']",32,Male,Black,2019-11-19,Chicago,IL
+2710,"['Dante', 'Redmond', 'Jones']",28,Male,Black,2019-11-18,Mesa,WA
+2715,"['Treon', 'McCoy']",33,Male,Black,2019-11-15,Charlotte,NC
+2716,"['Mark', 'Sheppard']",27,Male,Black,2019-11-15,Cleveland,OH
+2721,"['Roy', 'McAllister']",27,Male,Black,2019-11-13,Wilson,NC
+2730,"['Eric', 'Reason']",38,Male,Black,2019-11-10,Vallejo,CA
+2737,"['Shelby', 'Gazaway']",32,Male,Black,2019-11-07,Louisville ,KY
+2740,"['Treva', 'Smutherman']",31,Male,Black,2019-11-06,Fayetteville,NC
+2743,"['Eddie', 'Ray', 'Maxwell']",37,Male,Black,2019-11-06,Tahlequah,OK
+2744,"['Maurice', 'Brown']",48,Male,Black,2019-11-05,Cleveland,OH
+2752,"['Michael', 'Austin']",32,Male,Black,2019-11-03,Phoenix,AZ
+2765,"['John', 'Feggins']",24,Male,Black,2019-10-30,Baltimore,MD
+2768,"['Dana', 'Sherrod', 'Fletcher']",39,Male,Black,2019-10-27,Madison,AL
+2771,"['Earnest', 'Easterling']",25,Male,Black,2019-10-27,Carmichael,CA
+2778,"['Kwesi', 'Ashun']",36,Male,Black,2019-10-25,Brooklyn,NY
+2786,"['Delfon', 'Garnell', 'Kinney', 'Sr.']",48,Male,Black,2019-10-23,Long Beach,CA
+2797,"['Christopher', 'McCorvey']",36,Male,Black,2019-10-21,Tillmans Corner,AL
+2798,"['Steven', 'Day']",30,Male,Black,2019-10-20,St. Louis,MO
+2808,"['Allan', 'Feliz']",31,Male,Black,2019-10-17,Bronx,NY
+2809,"['Cameron', 'L.', 'Bennett']",21,Male,Black,2019-10-17,Fayette,MS
+2810,"['Christopher', 'Dequan', 'Crosby']",34,Male,Black,2019-10-17,Warren,AR
+2812,"['Lazzeri', 'James', 'Frazier']",21,Male,Black,2019-10-16,Sherman Oaks,CA
+2813,"['Nasheem', 'Prioleau']",30,Male,Black,2019-10-15,Brooklyn,NY
+2816,"['Akinyia', 'Malik', 'Jerome', 'Gray']",26,Male,Black,2019-10-15,Stone Mountain,GA
+2820,"['Christopher', 'Whitfield']",31,Male,Black,2019-10-14,Ethel,LA
+2821,"['Victor', 'Ervin', 'Jarvis']",61,Male,Black,2019-10-14,High Point,NC
+2826,"['Atatiana', 'Jefferson']",28,Female,Black,2019-10-12,Fort Worth,TX
+2827,"['Sawandi', 'Toussaint']",21,Male,Black,2019-10-12,El Monte,CA
+2833,"['Michael', 'John']",24,Male,Black,2019-10-10,Oklahoma City ,OK
+2836,"['Leo', 'Craig']",31,Male,Black,2019-10-09,Oklahoma City ,OK
+2839,"['Crederick', 'Joseph']",37,Male,Black,2019-10-08,Beaumont,TX
+2845,"['Maurice', 'Holly']",55,Male,Black,2019-10-06,Herald,CA
+2855,"['Jamaal', 'Ramone', 'Taylor']",31,Male,Black,2019-09-29,Cockeysville,MD
+2859,"['Antonio', 'Lavance', 'Williams']",27,Male,Black,2019-09-29,Bronx,NY
+2860,"['Isaac', 'Rasheed', 'Smith']",37,Male,Black,2019-09-29,Boston,MA
+2865,"['Leonard', 'Shand']",49,Male,Black,2019-09-26,Hyattsville,MD
+2866,"['Eric', 'DeWayne', 'Curtis']",25,Male,Black,2019-09-26,Dallas,TX
+2871,"['Elijah', 'McClain']",23,Male,Black,2019-09-24,Aurora,CO
+2882,"['Shaharah', 'Coggins']",38,Female,Black,2019-09-19,Shannon,MS
+2884,"['Jordan', 'Michael', 'Griffin']",18,Male,Black,2019-09-19,Long Beach,CA
+2885,"['Kentorrey', 'Sims']",32,Male,Black,2019-09-19,Shannon,MS
+2886,"['Shawn', 'Stevens']",49,Male,Black,2019-09-18,Pittsburgh,PA
+2887,"['Willie', 'Hudson']",33,Male,Black,2019-09-18,Memphis,TN
+2892,"['Gregory', 'Edwards']",39,Male,Black,2019-09-17,Staten Island,NY
+2895,"['Anthony', 'Lonnie', 'White']",27,Male,Black,2019-09-16,Houston,TX
+2898,"['Eric', 'Carter']",53,Male,Black,2019-09-16,Washington,DC
+2901,"['Ronald', 'Davis']",31,Male,Black,2019-09-15,St. Paul,MN
+2904,"['Melvin', 'Watkins']",54,Male,Black,2019-09-14,Baton Rouge,LA
+2906,"['Nicholas', 'Walker']",31,Male,Black,2019-09-14,Arlington,TX
+2912,"['LeEdwards', '""Pete""', 'Hopkins']",43,Male,Black,2019-09-12,Nacogdoches,TX
+2913,"['Brandon', 'Bell']",17,Male,Black,2019-09-12,Houston,TX
+2914,"['Tasjon', 'Tyreek', 'Osbourne']",18,Male,Black,2019-09-11,Columbus,OH
+2916,"['Bobby', 'Ray', 'Duckworth']",26,Male,Black,2019-09-10,Wellington,UT
+2917,"['Quentin', 'Broadus']",33,Male,Black,2019-09-09,Oklahoma City ,OK
+2920,"['Bennie', 'Branch']",24,Male,Black,2019-09-08,Tacoma,WA
+2924,"['Vondarrow', 'Dewayne', 'Fisher']",42,Male,Black,2019-09-06,Glendora,CA
+2925,"['Cortez', 'Shepherd']",28,Male,Black,2019-09-05,St. Louis,MO
+2926,"['Byron', 'Williams']",50,Male,Black,2019-09-05,Las Vegas,NV
+2945,"['Kobe', 'Heisler']",21,Male,Black,2019-08-31,Brooklyn Center,MN
+2946,"['Terry', 'Tillman']",23,Male,Black,2019-08-31,Clayton,MO
+2953,"['Tyrone', 'Domingo', 'Banks']",30,Male,Black,2019-08-28,Baltimore,MD
+2954,"['Wallace', 'Wilder']",62,Male,Black,2019-08-28,Gordo,AL
+2956,"['Keith', 'Carter']",52,Male,Black,2019-08-27,Baton Rouge,LA
+2957,"['Raymond', 'Lewis', 'Williams']",37,Male,Black,2019-08-27,West Helena,AR
+2958,"['Arthur', 'Walton', 'Jr.']",33,Male,Black,2019-08-27,Maywood,IL
+2960,"['Willie', 'Lamont', 'Sample']",39,Male,Black,2019-08-27,Overland,MO
+2962,"['Channara', 'Tom', 'Pheap']",33,Male,Black,2019-08-26,Knoxville,TN
+2968,"['Michael', 'Tuck']",29,Male,Black,2019-08-22,Dayton,OH
+2976,"['Amari', 'Malone']",18,Male,Black,2019-08-21,Fort Worth,TX
+2986,"['Rashad', 'Cunningham']",25,Male,Black,2019-08-17,Gary,IN
+2987,"['Schaston', 'Theodore', 'Lamarr', 'Hodge']",27,Male,Black,2019-08-17,Dallas,TX
+2988,"['Jerome', 'Michael', 'Uzzle']",34,Male,Black,2019-08-17,Yorktown,VA
+2996,"['Javaon', 'Ousley']",19,Male,Black,2019-08-13,Talladega,AL
+2997,"['Jerry', '""Knot-Knot""', 'Orlando', 'Weaver']",51,Male,Black,2019-08-13,Clinton,TN
+3011,"['Kaizen', 'Crossen']",39,Male,Black,2019-08-08,Irvington,NJ
+3012,"['Toussaint', 'Diamon', 'Sims']",27,Male,Black,2019-08-08,Moss Point,MS
+3015,"['Detravian', 'Allison']",18,Male,Black,2019-08-07,Longview,TX
+3024,"['James', 'Lee', 'Kirkwood']",49,Male,Black,2019-08-05,Memphis,TN
+3030,"[""De'Von"", 'Bailey']",19,Male,Black,2019-08-03,Colorado Springs,CO
+3034,"['Deshon', 'Downing']",45,Male,Black,2019-08-02,Indianapolis,IN
+3035,"['Mario', 'Philip', 'Benjamin']",34,Male,Black,2019-08-02,Minneapolis,MN
+3040,"['Jamaal', 'Michael', 'Simpson']",21,Male,Black,2019-08-01,Los Angeles ,CA
+3048,"['Aric', 'Rashaad', 'Moody']",16,Male,Black,2019-07-29,Channelview,TX
+3049,"['Patricia', 'Spivey']",52,Female,Black,2019-07-28,Houston,TX
+3051,"['Jamal', 'Muhammad']",42,Male,Black,2019-07-27,Dallas,TX
+3053,"['Alphonso', 'Zaporta']",41,Male,Black,2019-07-26,Hartford,CT
+3056,"['Josef', 'Delon', 'Richardson']",38,Male,Black,2019-07-25,Port Allen,LA
+3057,"['Omari', 'Thompson']",31,Male,Black,2019-07-23,Pittsburgh,PA
+3062,"['Shawan', 'F.', 'Allen']",17,Male,Black,2019-07-22,Wesson,MS
+3063,"['Hashim', 'Jibri', 'Wilson']",28,Male,Black,2019-07-21,Tacoma,WA
+3070,"['Makeyvion', 'Devonte', 'Cannon']",19,Male,Black,2019-07-18,Fort Worth,TX
+3071,"['Omar', 'Shado', 'Stevens']",28,Male,Black,2019-07-17,West Palm Beach,FL
+3074,"['Stephen', 'Murray']",52,Male,Black,2019-07-17,Modesto,CA
+3075,"['Leo', 'Brooks']",23,Male,Black,2019-07-17,Metairie,LA
+3076,"['Roderick', 'Wilson']",35,Male,Black,2019-07-17,Birmingham,AL
+3082,"['Ashanti', 'Pinkney']",49,Male,Black,2019-07-15,Baltimore,MD
+3086,"['Blige', 'Sean', 'Christopher', 'Cypress']",22,Male,Black,2019-07-14,Hollywood,FL
+3088,"['Onaje', 'Dickinson']",20,Male,Black,2019-07-14,Penn Hills,PA
+3093,"['Jamahl', 'Smith']",46,Male,Black,2019-07-13,City of Orange,NJ
+3096,"['Darrell', 'Allen']",32,Male,Black,2019-07-10,Adelanto,CA
+3098,"['Sean', 'Rambert']",23,Male,Black,2019-07-09,Greenville,NC
+3108,"['Kareem', 'Omar', 'Morgan']",43,Male,Black,2019-07-06,Rosedale,MD
+3115,"['Tymar', 'Crawford']",28,Male,Black,2019-07-05,Pensacola,FL
+3124,"['Isak', 'Abdirahman', 'Aden']",23,Male,Black,2019-07-02,Eagan,MN
+3125,"['Isaiah', 'Robinson']",39,Male,Black,2019-07-02,Elyria,OH
+3128,"['Ben', 'Fields']",67,Male,Black,2019-07-01,Port St. Lucie,FL
+3135,"['Darren', 'Williams']",34,Male,Black,2019-06-28,Linwood,PA
+3140,"['Gene', 'Pool']",37,Male,Black,2019-06-28,Pueblo,CO
+3141,"['Marvin', 'Green']",50,Male,Black,2019-06-27,Springfield,FL
+3148,"['Elijah', 'Collins', 'III']",32,Male,Black,2019-06-26,Sugarcreek,OH
+3155,"['Jaymil', 'Ellerbe']",19,Male,Black,2019-06-24,Boston,MA
+3163,"['DeWayne', 'Watkins']",74,Male,Black,2019-06-18,Syracuse,NY
+3167,"['Eric', 'Jack', 'Logan']",53,Male,Black,2019-06-16,South Bend,IN
+3169,"['Derrick', 'Edmond']",18,Male,Black,2019-06-15,Pearland,TX
+3172,"['Jamarcus', 'Dejun', 'Moore']",28,Male,Black,2019-06-15,Hueytown,AL
+3173,"['Tyrese', 'West']",18,Male,Black,2019-06-15,Mt. Pleasant,WI
+3176,"['Mantry', 'Norris']",20,Male,Black,2019-06-15,Renton,WA
+3179,"['Eric', 'Phillips']",42,Male,Black,2019-06-14,Florissant,MO
+3180,"['Marquis', 'Weems']",17,Male,Black,2019-06-13,Rockville,MD
+3181,"['Tramon', 'Savage']",22,Male,Black,2019-06-13,Jacksonville,AR
+3182,"['Brandon', 'Webber']",20,Male,Black,2019-06-12,Memphis,TN
+3188,"['Jaquan', 'Derrick', 'Diijon', 'Thompson']",27,Male,Black,2019-06-11,Poteau,OK
+3191,"['Vincense', 'DeWayne', 'Williams', 'Jr.']",24,Male,Black,2019-06-10,Oklahoma City ,OK
+3192,"['Brent', 'Durbin-Daniel']",19,Male,Black,2019-06-10,Lawton,OK
+3196,"['JaQuavion', 'Slaton']",20,Male,Black,2019-06-09,Fort Worth,TX
+3202,"['Bryan', 'Bernard', 'Wallace']",40,Male,Black,2019-06-08,Clearwater,FL
+3205,"['Rodnell', 'Cotton']",26,Male,Black,2019-06-06,St. Louis,MO
+3206,"['Edtwon', 'Stamps']",27,Male,Black,2019-06-06,Hawthorne,CA
+3209,"['Ryan', 'Twyman']",24,Male,Black,2019-06-06,Willowbrook,CA
+3218,"['Samuel', 'Galberth']",43,Male,Black,2019-06-03,Ardsley,NY
+3219,"['Kevin', 'Pudlik']",41,Male,Black,2019-06-03,Detroit,MI
+3221,"['Miles', 'Hall']",23,Male,Black,2019-06-02,Walnut Creek,CA
+3222,"['Marcus', 'Boles']",35,Male,Black,2019-06-01,Shreveport,LA
+3226,"['DeWayne', 'Craddock']",40,Male,Black,2019-05-31,Virginia Beach,VA
+3233,"['Crystal', 'Danielle', 'Ragland']",32,Female,Black,2019-05-30,Huntsville,AL
+3236,"['Curtis', 'Stagger']",21,Male,Black,2019-05-28,Chicago,IL
+3238,"['Nakia', 'Smith']",44,Male,Black,2019-05-27,Joliet,IL
+3239,"['Terrance', 'Bridges']",30,Male,Black,2019-05-26,Kansas City,MO
+3247,"['Myles', 'Frazier']",22,Male,Black,2019-05-22,Chicago,IL
+3248,"['Shaquille', 'Ihsan', '""Shaun""', 'Kelly']",26,Male,Black,2019-05-22,Fort Wayne,IN
+3256,"['Ronnie', 'Churches']",45,Male,Black,2019-05-20,Miami Gardens,FL
+3259,"['Ensoa', 'Strickland', 'Jr.']",26,Male,Black,2019-05-20,Auburn,WA
+3263,"['Dominique', 'Clayton']",32,Female,Black,2019-05-19,Oxford,MS
+3270,"['Donald', 'Davis', 'Jr.']",40,Male,Black,2019-05-17,New Orleans,LA
+3271,"['Daniel', 'Warren']",36,Male,Black,2019-05-17,Pasadena,CA
+3273,"['Ruben', 'Houston']",47,Male,Black,2019-05-15,Appleton,WI
+3274,"['Djuantez', 'Anthony', 'Mitchell']",30,Male,Black,2019-05-15,Jeffersontown,KY
+3278,"['Malik', 'Ali', 'Gresham']",36,Male,Black,2019-05-13,Gardena,CA
+3279,"['Pamela', 'Shantay', 'Turner']",44,Female,Black,2019-05-13,Baytown,TX
+3284,"['Edward', 'Fuller']",49,Male,Black,2019-05-11,Savannah,GA
+3285,"['Sharrell', 'Brown']",30,Male,Black,2019-05-11,Chicago,IL
+3286,"['Ronald', 'Greene']",49,Male,Black,2019-05-10,Monroe,LA
+3287,"['Derrec', 'Jamal', 'Shaw']",25,Male,Black,2019-05-10,Tulsa,OK
+3314,"['Isaiah', 'Lewis']",17,Male,Black,2019-04-29,Edmond,OK
+3323,"['Kevin', 'Leroy', 'Beasley', 'Jr.']",23,Male,Black,2019-04-26,Denver,CO
+3349,"['Kawaski', 'Trawick']",32,Male,Black,2019-04-14,Bronx,NY
+3352,"['Julius', '""Jules""', 'Graves']",43,Male,Black,2019-04-13,St. Louis,MO
+3354,"['Jean', 'Samuel', 'Celestin']",33,Male,Black,2019-04-12,Ocoee,FL
+3355,"['Myron', 'Flowers']",28,Male,Black,2019-04-12,Clinton,LA
+3358,"['Demetrious', 'Brooks']",34,Male,Black,2019-04-11,St. Louis,MO
+3359,"['Marcus', 'McVae']",34,Male,Black,2019-04-11,Boerne,TX
+3365,"['Trivenskey', 'O.', 'Odom']",27,Male,Black,2019-04-10,Shreveport,LA
+3367,"['Terry', 'Davis']",33,Male,Black,2019-04-09,Louisville ,KY
+3370,"['Anthony', 'Orlando', 'Bowers']",24,Male,Black,2019-04-08,Greeneville,TN
+3371,"['Harold', 'Vincent', 'Robinson']",37,Male,Black,2019-04-08,Salt Lake City,UT
+3372,"['Marzues', 'Scott']",35,Male,Black,2019-04-07,Blytheville,AR
+3385,"['Bishar', 'Hassan']",31,Male,Black,2019-04-01,Anchorage,AK
+3387,"['Veltavious', 'Griggs']",19,Male,Black,2019-04-01,Union City,GA
+3392,"['Oscar', 'Cain']",31,Male,Black,2019-03-31,Atlanta,GA
+3393,"['Ondrae', 'Levado', 'Hutchinson']",30,Male,Black,2019-03-30,Durham,NC
+3395,"['Pierre', 'Cherfrere']",25,Male,Black,2019-03-30,North Miami,FL
+3398,"['Chris', 'Joseph']",38,Male,Black,2019-03-27,Gretna,LA
+3403,"['Daviri', 'Robertson']",39,Male,Black,2019-03-27,Gretna,LA
+3405,"['Brian', 'Leslie', 'Statler']",30,Male,Black,2019-03-27,Inglewood,CA
+3406,"['Danquirs', 'Napoleon', 'Franklin']",27,Male,Black,2019-03-25,Charlotte,NC
+3407,"['Kaylon', 'Robinson']",18,Male,Black,2019-03-25,St. Louis,MO
+3410,"['Kevin', 'Bruce', 'Mason']",57,Male,Black,2019-03-25,Baltimore,MD
+3412,"['Derek', 'Smith']",22,Male,Black,2019-03-22,Walterboro,SC
+3415,"[""Dai'Shawn"", 'Brown']",19,Male,Black,2019-03-21,Modesto,CA
+3418,"['Osaze', 'Osagie']",29,Male,Black,2019-03-20,State College,PA
+3420,"['Thomas', 'Johnson']",22,Male,Black,2019-03-19,Bastrop,LA
+3428,"['Tevin', 'Blount', 'aka', 'Tevin', 'Lemar', 'Page']",21,Male,Black,2019-03-15,Dublin,GA
+3430,"['Preston', 'Alexander', 'Coleman']",27,Male,Black,2019-03-15,Dublin,GA
+3439,"['Nina', 'Adams']",48,Female,Black,2019-03-13,Greensburg,PA
+3440,"['Charles', 'Ballard']",41,Male,Black,2019-03-13,San Leandro,CA
+3441,"['Latasha', 'Nicole', 'Walton']",32,Female,Black,2019-03-12,Miami,FL
+3451,"['Rodney', 'Lassister']",30,Male,Black,2019-03-09,Monahans,TX
+3460,"['Donquale', 'Maurice', 'Gray']",25,Male,Black,2019-03-06,Morgantown,WV
+3468,"['Luke', 'Anthony', 'Swann']",36,Male,Black,2019-03-04,Des Moines,IA
+3469,"['Shamikle', 'Jackson']",22,Male,Black,2019-03-04,Aurora,CO
+3484,"['James', 'Scott', 'Reed']",40,Male,Black,2019-02-27,Killeen,TX
+3497,"['Bradley', 'Blackshire']",30,Male,Black,2019-02-22,Little Rock,AR
+3502,"['Kyron', 'Marcell', 'Sands']",39,Male,Black,2019-02-20,Willimantic,CT
+3504,"['Emanuel', 'David', 'Joshua', 'Oates']",24,Male,Black,2019-02-19,Randallstown,MD
+3506,"['Pierre', 'Woods']",31,Male,Black,2019-02-18,Pelahatchie,MS
+3510,"['Reginald', 'Romero', 'Bursey']",32,Male,Black,2019-02-17,New Orleans,LA
+3512,"['Michael', 'Elam']",20,Male,Black,2019-02-16,Chicago,IL
+3514,"['Gary', 'Martin']",45,Male,Black,2019-02-15,Aurora,IL
+3517,"['Mario', 'Clark']",31,Male,Black,2019-02-14,Jackson,MS
+3518,"['Daniel', 'E.', 'King']",37,Male,Black,2019-02-14,Corpus Christi,TX
+3523,"['Christopher', 'Brimsey']",20,Male,Black,2019-02-12,Cinco Ranch,TX
+3525,"['Alex', 'Johnson']",58,Male,Black,2019-02-12,Defiance,OH
+3527,"['Patrick', 'Reed']",19,Male,Black,2019-02-12,Cinco Ranch,TX
+3529,"[""Ty'rell"", 'Pounds']",24,Male,Black,2019-02-11,Crestwood,KY
+3532,"['Willie', 'Jermaine', 'Robinson']",34,Male,Black,2019-02-10,Greenville,SC
+3534,"['Willie', 'McCoy']",20,Male,Black,2019-02-09,Vallejo,CA
+3539,"['Joshua', 'Rember', 'Williams']",32,Transgender,Black,2019-02-08,New York,NY
+3548,"['Allon', 'Jones']",43,Male,Black,2019-02-06,Murfreesboro,TN
+3550,"['Bruce', 'W.', 'Carter', 'Jr.']",38,Male,Black,2019-02-06,Joliet,IL
+3551,"['Anthony', 'Dewayne', 'Childs']",31,Male,Black,2019-02-05,Shreveport,LA
+3553,"['Corey', 'Johnson']",44,Male,Black,2019-02-04,Farmville,VA
+3558,"['Johnny', 'Weeks']",68,Male,Black,2019-02-02,Buford,GA
+3559,"['Isaiah', 'Thomas']",40,Male,Black,2019-02-02,Stockton,CA
+3567,"['Joey', 'Duane', 'Ramirez']",29,Male,Black,2019-01-28,Jackson,MI
+3573,"['Gregory', 'Griffin']",46,Male,Black,2019-01-28,Newark,NJ
+3574,"['Nekiylo', 'Dawayne', 'Graves']",27,Male,Black,2019-01-28,Mercury,NV
+3587,"['Dwight', 'Delando', 'Steward']",46,Male,Black,2019-01-23,Spokane,WA
+3588,"['Jimmy', 'Atchison']",21,Male,Black,2019-01-22,Atlanta,GA
+3598,"['Mikyas', 'Mehary', 'Tegegne']",31,Male,Black,2019-01-16,Silver Spring,MD
+3603,"[""De'Angelo"", 'Jamar', 'Brown']",30,Male,Black,2019-01-16,West Memphis,AR
+3605,"['Esmond', 'Drauvon', 'Trimble']",42,Male,Black,2019-01-15,Aurora,CO
+3606,"[""D'ettrick"", 'Griffin']",18,Male,Black,2019-01-15,Atlanta,GA
+3608,"['Quency', 'Chavez', 'Floyd']",22,Male,Black,2019-01-15,St. Louis,MO
+3610,"['William', 'Owens']",39,Male,Black,2019-01-14,Swedesboro,NJ
+3611,"['Jahmal', 'Derrick', 'Stewart']",45,Male,Black,2019-01-14,Marysville,CA
+3612,"['Nathaniel', 'Holland']",38,Male,Black,2019-01-14,Vacaville,CA
+3616,"['George', 'Robinson']",62,Male,Black,2019-01-13,Jackson,MS
+3625,"['Jacob', 'Michael', 'Harris']",19,Male,Black,2019-01-11,Phoenix,AZ
+3626,"['Juston', 'Joseph', 'Landry']",26,Male,Black,2019-01-11,Lake Charles,LA
+3627,"['Treshun', 'Symone', 'Miller']",20,Male,Black,2019-01-11,Arlington,TX
+3629,"['Johnny', 'Lee', 'Burney']",71,Male,Black,2019-01-10,Eclectic,AL
+3636,"['Darion', '""Paid', 'N', 'Full', 'Rocky""', 'Jones']",26,Male,Black,2019-01-07,Decatur,GA
+3638,"['Shatelle', 'Hooks']",35,Male,Black,2019-01-07,Utica,NY
+3639,"['Andre', 'C.', 'Gladen']",36,Male,Black,2019-01-06,Portland,OR
+3641,"['Kevin', 'Shawn', 'Hanson']",42,Male,Black,2019-01-06,Hurricane,WV
+3649,"['Zonell', 'Williams']",33,Male,Black,2019-01-04,New Orleans,LA
+3650,"['Lawrence', 'Thompson', 'III']",32,Male,Black,2019-01-04,Houston,TX
+3654,"['Jae', 'Wesley', 'Hardy']",27,Male,Black,2019-01-03,Millbrook,AL
+3659,"['Matthew', 'Burroughs']",35,Male,Black,2019-01-02,Niles,OH
+3660,"['Abdoulaye', 'Thiam']",20,Male,Black,2019-01-02,Memphis,TN
+3663,"['Brandon', 'Lovell', 'Webster']",28,Male,Black,2019-01-01,Shallotte,NC
+3670,"['Kerry', 'D.', 'Blake']",44,Male,Black,2018-12-30,Rockford,IL
+3676,"['Shane', 'Lyons']",35,Male,Black,2018-12-28,Port Arthur,TX
+3682,"['Michael', 'Jerome', 'Taylor']",17,Male,Black,2018-12-26,Lakeland,FL
+3683,"['Wayne', 'Falana', 'Jr.']",35,Male,Black,2018-12-26,Clearwater,FL
+3703,"['Danny', 'Washington']",27,Male,Black,2018-12-18,Lehighton,PA
+3704,"['Angel', 'Viola', 'Decarlo']",31,Female,Black,2018-12-18,Hopewell,VA
+3707,"['David', 'Anthony', 'Baker']",32,Male,Black,2018-12-17,Aurora,CO
+3712,"['April', 'E.', 'Webster']",47,Female,Black,2018-12-16,Darlington,SC
+3718,"['Andre', 'Horton']",42,Male,Black,2018-12-13,Memphis,TN
+3722,"['Demario', 'Bass']",29,Male,Black,2018-12-12,St. Louis,MO
+3729,"['Marcus', 'Neal']",47,Male,Black,2018-12-11,Buffalo,NY
+3731,"['Tameka', 'LaShay', 'Simpson']",27,Female,Black,2018-12-11,Calhoun,GA
+3735,"['Christopher', 'Deandre', 'Mitchell']",23,Male,Black,2018-12-09,Torrance,CA
+3741,"['Joshua', 'Boyd']",24,Male,Black,2018-12-08,Savannah,GA
+3744,"['Julius', 'Ervin', 'Tate', 'Jr.']",16,Male,Black,2018-12-07,Columbus,OH
+3748,"['Dimaggio', 'McNelly']",53,Male,Black,2018-12-06,Mcdonough,GA
+3752,"[""De'Trell"", 'Crews']",23,Male,Black,2018-12-05,St. Louis,MO
+3755,"['Anthony', 'M.', 'Edwards']",33,Male,Black,2018-12-05,Richmond,VA
+3760,"['Demontry', 'Floytra', 'Boyd']",43,Male,Black,2018-12-01,Las Vegas,NV
+3762,"['Jarvis', 'Randall']",30,Male,Black,2018-12-01,Tamarac,FL
+3763,"['John', 'Young']",65,Male,Black,2018-12-01,Pensacola,FL
+3780,"['Jarmane', 'Dywane', 'Logan']",35,Male,Black,2018-11-27,Topeka,KS
+3786,"['Martez', 'Webb']",23,Male,Black,2018-11-23,Detroit,MI
+3787,"['Sarge', 'Junior']",16,Male,Black,2018-11-22,Chicago,IL
+3789,"['Emantic', '""EJ""', 'Fitzgerald', 'Bradford', 'Jr.']",21,Male,Black,2018-11-22,Birmingham,AL
+3797,"['Eugene', 'Benjamin', 'Weathers']",48,Male,Black,2018-11-21,Talladega,AL
+3799,"['Roderick', 'McDaniel']",33,Male,Black,2018-11-20,Magnolia,AR
+3803,"['Rio', 'Antwuan', 'Thomas']",27,Male,Black,2018-11-17,Fort Pierce,FL
+3806,"['Allen', 'Fanning']",18,Male,Black,2018-11-15,Greenwood Village,CO
+3808,"['Jack', 'Darrel', 'Fields', 'Jr.']",25,Male,Black,2018-11-15,Augusta,GA
+3813,"['Olajuwon', 'Raekwon', 'Murphy']",22,Male,Black,2018-11-14,Fort Chiswell,VA
+3815,"['Timothy', 'Odell', 'Leon']",24,Male,Black,2018-11-13,Glendale,AZ
+3821,"['Tony', 'Lamont', 'Mathis']",47,Male,Black,2018-11-12,Oklahoma City ,OK
+3824,"['Jemel', 'Roberson']",26,Male,Black,2018-11-11,Robbins,IL
+3826,"['Patrick', 'Bryant']",39,Male,Black,2018-11-10,Clarksdale,MS
+3828,"['Travis', 'Jordan']",36,Male,Black,2018-11-09,St. Paul,MN
+3842,"['Theoddeus', 'Gray']",29,Male,Black,2018-11-04,St. Clair Shores,MI
+3847,"['Jesse', 'Jesus', 'Quinton']",35,Male,Black,2018-11-02,Idaho Falls,ID
+3848,"['Tony', 'Bernard', 'Smith', 'Jr.']",24,Male,Black,2018-11-01,Jacksonville,FL
+3853,"['Albert', 'Ramon', 'Dorsey']",30,Male,Black,2018-10-29,Los Angeles ,CA
+3857,"['Derrick', 'Alexander', 'Sellman']",28,Male,Black,2018-10-29,Parkville,MD
+3859,"['Christopher', 'Carroll']",30,Male,Black,2018-10-27,Kingwood,TX
+3860,"['Armand', 'Lamont', 'Beckwith-Bell']",28,Male,Black,2018-10-25,St. Louis,MO
+3867,"['Tafahree', 'Maynard']",18,Male,Black,2018-10-22,Snellville,GA
+3871,"['Cedric', 'Pritchard']",27,Male,Black,2018-10-21,Washington,NC
+3876,"['Neico', 'G.', 'Crooks']",21,Male,Black,2018-10-19,Miami Gardens,FL
+3880,"['Jacob', 'Servais']",19,Male,Black,2018-10-18,Vineland,NJ
+3883,"['Mahlon', 'Edward', 'Summerour']",63,Male,Black,2018-10-18,Monroe,GA
+3886,"['Charles', 'D.', '""Chop', 'Chop""', 'Roundtree', 'Jr.']",18,Male,Black,2018-10-17,San Antonio,TX
+3888,"['Keyshon', 'Parham']",19,Male,Black,2018-10-17,Memphis,TN
+3891,"['Eric', 'Jamar', 'Lupain', 'Stromer']",22,Male,Black,2018-10-14,Jeffersonville,OH
+3896,"['Samuel', 'Morris']",27,Male,Black,2018-10-13,Fort Smith,AR
+3902,"['Diamonte', 'Riviore']",22,Male,Black,2018-10-11,West Jordan,UT
+3905,"['Alonzo', 'L.', 'Smith']",31,Male,Black,2018-10-10,Milwaukee,WI
+3910,"['Terrell', 'Blake']",47,Male,Black,2018-10-10,Rochester,NY
+3921,"['Sershawn', 'Martez', 'Dillon']",31,Male,Black,2018-10-05,Nashville,TN
+3922,"['William', 'Harold', 'Cox', 'II']",45,Male,Black,2018-10-04,Scarbro,WV
+3923,"['Chinedu', 'Valentine', 'Okobi']",36,Male,Black,2018-10-03,Millbrae,CA
+3924,"['Toby', 'D.', 'Bailey', 'Sr.']",38,Male,Black,2018-10-03,Memphis,TN
+3927,"['Lajuana', 'Phillips']",36,Female,Black,2018-10-02,Victorville,CA
+3931,"['Patrick', '""Pat', ""Pat''"", 'Kimmons']",27,Male,Black,2018-09-30,Portland,OR
+3937,"['Willie', 'Earl', 'Simmons']",23,Male,Black,2018-09-28,Houston,TX
+3942,"['Datwan', 'Keyo', 'Lewis']",41,Male,Black,2018-09-27,Palatka,FL
+3944,"['Paul', 'Braswell']",29,Male,Black,2018-09-26,Newark,NJ
+3946,"['Allen', 'Travers']",37,Male,Black,2018-09-25,Newark,NJ
+3947,"['Dravious', 'Burch']",34,Male,Black,2018-09-25,Orlando,FL
+3951,"['Nathaniel', 'Sassafras']",29,Male,Black,2018-09-23,Baltimore,MD
+3976,"['Jerry', 'Foster']",31,Male,Black,2018-09-16,Shreveport,LA
+3981,"['Anton', 'Black']",19,Male,Black,2018-09-15,Greensboro,MD
+3983,"['Dacion', 'Steptoe']",23,Male,Black,2018-09-14,Fort Worth,TX
+3984,"['Detric', 'Driver']",46,Male,Black,2018-09-14,Detroit,MI
+3988,"['Johnny', 'Lee', 'Lloyd']",53,Male,Black,2018-09-14,Dover,NC
+3993,"['Thomas', 'Watkins']",38,Male,Black,2018-09-12,Gary,IN
+3998,"['Brandon', 'Joyner']",24,Male,Black,2018-09-09,Greenville,NC
+3999,"['Dereshia', 'Blackwell']",39,Female,Black,2018-09-09,Missouri City,TX
+4003,"['DaShawn', 'Cole']",28,Male,Black,2018-09-07,Pawtucket,RI
+4005,"['Darell', 'Richards']",19,Male,Black,2018-09-06,Sacramento,CA
+4009,"['Botham', 'Shem', 'Jean']",26,Male,Black,2018-09-06,Dallas,TX
+4011,"['James', 'Leatherwood']",23,Male,Black,2018-09-05,Hollywood,FL
+4014,"['Aaron', 'Demonta', 'Fleming']",21,Male,Black,2018-09-03,Covington,GA
+4018,"['Oshae', 'Terry']",24,Male,Black,2018-09-01,Arlington,TX
+4025,"['Jalon', 'Johnson']",17,Male,Black,2018-08-29,Houston,TX
+4028,"['Robert', 'Knox']",50,Male,Black,2018-08-28,Harbeson,DE
+4045,"['Joshua', 'Wayne', 'Harvey']",25,Male,Black,2018-08-24,Tulsa,OK
+4048,"['James', 'Clay']",20,Male,Black,2018-08-24,Cincinnati,OH
+4056,"['Jeffrey', 'Dennis']",36,Male,Black,2018-08-20,Philadelphia,PA
+4058,"['Jeremiah', 'Perdue']",33,Male,Black,2018-08-19,Atlanta,GA
+4059,"['Christopher', 'Alexander', 'Okamoto']",21,Male,Black,2018-08-19,Bakersfield,CA
+4065,"['Aquantis', 'Griffin']",21,Male,Black,2018-08-17,Austin,TX
+4066,"['Adrian', 'Devon', 'Herron']",30,Male,Black,2018-08-16,Wasilla,AK
+4073,"['Christopher', 'Anthony', 'Stone']",33,Male,Black,2018-08-13,Oklahoma City ,OK
+4074,"['Mario', 'Hobson']",48,Male,Black,2018-08-13,Milwaukee,WI
+4077,"['Anthony', 'Makai', 'Hutchinson']",40,Male,Black,2018-08-12,Amherst,VA
+4082,"['Montae', 'D.', 'Shackleford']",28,Male,Black,2018-08-09,Columbus,OH
+4083,"['Charles', 'Meadows']",48,Male,Black,2018-08-09,Philadelphia,PA
+4084,"['Gregory', 'Campfield', 'Jr.']",40,Male,Black,2018-08-09,Hyattsville,MD
+4085,"['William', 'Fuller']",30,Male,Black,2018-08-09,Las Vegas,NV
+4086,"['Stephen', 'L.', 'Caldwell']",54,Male,Black,2018-08-08,Omaha ,NE
+4088,"['Leu', 'Freycinet']",52,Male,Black,2018-08-08,Hollywood,FL
+4089,"['Vaughn', 'Harrison', 'Denham']",48,Male,Black,2018-08-08,San Diego,CA
+4096,"['Levester', 'Taylor']",39,Male,Black,2018-08-06,Atlanta,GA
+4097,"['Ricardo', 'Giddings']",59,Male,Black,2018-08-06,Philadelphia,PA
+4098,"['Spurgeon', 'Daniels']",62,Male,Black,2018-08-06,Las Vegas,NV
+4107,"['Danny', 'Lee']",34,Male,Black,2018-08-03,Pine Bluff,AR
+4114,"['Bobby', 'Wallace']",41,Male,Black,2018-08-02,Shreveport,LA
+4117,"['David', 'Edward', 'Hall']",27,Male,Black,2018-08-01,Oxon Hill,MD
+4119,"['Tramaine', 'Marquese', 'Poole']",41,Male,Black,2018-08-01,Yale,VA
+4124,"['James', 'Edward', 'Blackmon']",35,Male,Black,2018-07-30,Luxora,AR
+4130,"['Cynthia', 'Fields']",60,Female,Black,2018-07-27,Savannah,GA
+4132,"['Lamar', 'Richardson']",25,Male,Black,2018-07-27,Toledo,OH
+4134,"['Daniel', 'Hambrick']",25,Male,Black,2018-07-26,Nashville,TN
+4142,"[""D'Mario"", 'Perkins']",29,Male,Black,2018-07-25,Memphis,TN
+4145,"['DeVaughdre', 'Delsha', 'Rogers']",20,Male,Black,2018-07-24,Starke,FL
+4177,"['Marlin', 'Mack']",25,Male,Black,2018-07-15,Kansas City,MO
+4178,"['Jethro', 'Benjamin']",68,Male,Black,2018-07-14,Florence,SC
+4181,"['Harith', 'L.', 'Augustus']",37,Male,Black,2018-07-14,Chicago,IL
+4182,"['Rashaun', 'Washington']",37,Male,Black,2018-07-14,Vineland,NJ
+4200,"['Charles', 'Webb']",43,Male,Black,2018-07-06,Overland Park,KS
+4211,"['Terrell', 'Eason']",33,Male,Black,2018-07-03,Chicago,IL
+4213,"['Lemuel', 'Bunn']",40,Male,Black,2018-07-03,Fayetteville,NC
+4217,"['Donadony', 'Blake', 'Taylor']",46,Male,Black,2018-07-01,Santa Ana,CA
+4222,"['Chukwumankpam', 'Mbegbu']",19,Male,Black,2018-06-29,Phoenix,AZ
+4224,"['Rodney', 'Lee', 'Hunter']",27,Male,Black,2018-06-29,Pomona,CA
+4230,"['Joey', 'Lewis', 'Bronson']",39,Male,Black,2018-06-27,Aurora,CO
+4237,"['Thurman', 'Junior', 'Blevins']",30,Male,Black,2018-06-23,Minneapolis,MN
+4240,"['Detandel', 'Pickens', 'Devon']",25,Male,Black,2018-06-23,Monroe,LA
+4242,"['Timothy', 'Deal']",32,Male,Black,2018-06-22,Atlantic City,NJ
+4247,"['Anthony', '""Punch""', 'Marcell', 'Green']",33,Male,Black,2018-06-20,Kingsland,GA
+4251,"['Jonathon', 'Buckley']",21,Male,Black,2018-06-19,Stone Mountain,GA
+4253,"['Antwon', 'Michael', 'Rose', 'II']",17,Male,Black,2018-06-19,East Pittsburgh,PA
+4255,"['Tahaji', 'Wells']",33,Male,Black,2018-06-17,Trenton,NJ
+4260,"['Dwayne', 'Clyburn']",37,Male,Black,2018-06-16,Warwick,NY
+4267,"['Timothy', 'Mosley']",33,Male,Black,2018-06-14,Kansas City,MO
+4268,"['Terrence', 'White']",18,Male,Black,2018-06-14,Las Vegas,NV
+4271,"['Nathaniel', 'Adams', 'McCoy', 'Sr.']",32,Male,Black,2018-06-13,Carencro,LA
+4272,"['Carnell', 'Nelson']",29,Male,Black,2018-06-13,Denver,CO
+4275,"['Marqueese', 'Alston']",22,Male,Black,2018-06-12,Washington,DC
+4278,"['Chavius', 'Hollis']",26,Male,Black,2018-06-12,Monroe,GA
+4279,"['DaNathe', 'M.', 'Gulliford']",34,Male,Black,2018-06-12,Danville,IL
+4281,"['Robert', 'Lawrence', 'White']",41,Male,Black,2018-06-11,Silver Spring,MD
+4284,"['LaShanda', 'Anderson']",36,Female,Black,2018-06-09,Deptford,NJ
+4291,"['Raymon', 'Lee', 'Truitt', 'II']",28,Male,Black,2018-06-07,Gary,IN
+4296,"['Maurice', 'Granton', 'Jr.']",24,Male,Black,2018-06-06,Chicago,IL
+4303,"['Shamir', 'Deangelo', 'Terry']",39,Male,Black,2018-06-02,Macon,GA
+4304,"['Gus', 'Tousis']",43,Male,Black,2018-06-02,Chicago,IL
+4309,"['Jerick', 'Raheem', 'Gray']",42,Male,Black,2018-05-31,Thomasville,NC
+4311,"['Juvon', 'Leroy', 'Simon']",23,Male,Black,2018-05-30,Homestead,FL
+4331,"['Eddie', 'James', 'Morris']",46,Male,Black,2018-05-23,Tallahassee,FL
+4333,"['Ronald', 'Clinton']",47,Male,Black,2018-05-21,West Memphis,AR
+4348,"['Marcus-David', 'L.', 'Peters']",24,Male,Black,2018-05-14,Richmond,VA
+4351,"['Anthony', 'Trice', 'Jr.']",24,Male,Black,2018-05-14,Clinton,MD
+4354,"['Willie', 'Rogers', 'Marable']",29,Male,Black,2018-05-13,Portsmouth,VA
+4366,"['Keeven', 'Robinson']",22,Male,Black,2018-05-10,Jefferson,LA
+4367,"['Elliot', 'Reed']",30,Male,Black,2018-05-09,Jackson,MS
+4382,"['Terence', 'Leslie']",32,Male,Black,2018-05-06,East Point,GA
+4392,"['Damion', '""Dae-Dae""', 'Collier']",24,Male,Black,2018-05-02,Columbus,GA
+4394,"['Timothy', 'Raye', 'Mayfield']",67,Male,Black,2018-05-02,Dallas,TX
+4400,"['Abadi', 'Gebregziber']",64,Male,Black,2018-04-30,Columbus,OH
+4408,"['Shukri', 'Ali', 'Said']",36,Female,Black,2018-04-28,Johns Creek,GA
+4414,"['Isaac', 'Jackson']",42,Male,Black,2018-04-25,Louisville ,KY
+4417,"['Demonjhea', 'Jordan']",21,Male,Black,2018-04-24,Louisville ,KY
+4419,"['Carlos', 'Deone', 'High']",37,Male,Black,2018-04-23,Grand Prairie,TX
+4422,"['Terrance', 'Carlton']",25,Male,Black,2018-04-21,Memphis,TN
+4426,"['James', 'Bauduy']",48,Male,Black,2018-04-20,Orlando,FL
+4428,"['David', 'Gino', 'Teneyuque']",48,Male,Black,2018-04-18,Kalamazoo,MI
+4429,"['Dytadious', 'Demetrius', 'Mobley']",31,Male,Black,2018-04-18,Fort Lauderdale,FL
+4433,"['Lonnie', 'Marcel', 'Bowen']",41,Male,Black,2018-04-17,Magna,UT
+4436,"['Sanchez', 'Lowe']",25,Male,Black,2018-04-17,Austell,GA
+4439,"['Andre', 'Lavance', 'Rippy']",39,Male,Black,2018-04-14,Phoenix,AZ
+4446,"['Rumondale', 'Jones']",39,Male,Black,2018-04-12,West Helena,AR
+4448,"['Steven', 'Brooks']",45,Male,Black,2018-04-12,Washington,PA
+4449,"['Dashaun', 'Shepard']",30,Male,Black,2018-04-12,Atlanta,GA
+4455,"['Kenneth', 'Ross', 'Jr.']",25,Male,Black,2018-04-11,Gardena,CA
+4459,"['Grechario', 'Mack']",30,Male,Black,2018-04-10,Los Angeles ,CA
+4467,"['Juan', 'Markee', 'Jones']",25,Male,Black,2018-04-08,Danville,VA
+4468,"['Elijah', 'James', 'Smith']",20,Male,Black,2018-04-08,West Valley City,UT
+4478,"['Diante', 'Yarber']",26,Male,Black,2018-04-05,Barstow,CA
+4482,"['Saheed', 'Vassell']",34,Male,Black,2018-04-04,Brooklyn,NY
+4485,"['Allan', 'Farris']",56,Male,Black,2018-04-04,Detroit,MI
+4494,"['Brian', 'Bellamy']",41,Male,Black,2018-04-01,Greenville,NC
+4495,"['Christopher', 'Lamarr', 'Hall']",34,Male,Black,2018-04-01,Wyoming,MI
+4497,"['Bobby', 'Hinton']",60,Male,Black,2018-04-01,New Llano,LA
+4498,"['Timothy', 'Orlando', 'Wyatt']",41,Male,Black,2018-04-01,Tampa,FL
+4504,"['Edward', 'Van', 'McCrae']",60,Male,Black,2018-03-30,Winston-Salem,NC
+4505,"['Rodney', 'Toler']",39,Male,Black,2018-03-29,Charleston,WV
+4508,"['Dishon', 'McBride']",19,Male,Black,2018-03-29,Zion,IL
+4517,"['Juan', 'Carlos', 'Romero']",41,Male,Black,2018-03-27,Sanford,NC
+4527,"['Linus', 'F.', 'Phillip']",30,Male,Black,2018-03-23,Largo,FL
+4535,"['Danny', 'Ray', 'Thomas']",34,Male,Black,2018-03-22,Houston,TX
+4547,"['Rueben', 'Ruffin', 'Jr.']",24,Male,Black,2018-03-19,Owensboro,KY
+4549,"['Jermaine', 'Massey']",35,Male,Black,2018-03-19,Greenville,SC
+4551,"['Stephon', 'Clark']",23,Male,Black,2018-03-18,Sacramento,CA
+4558,"['James', 'A.', 'Vaughn']",49,Male,Black,2018-03-16,Clarksville,TN
+4559,"['Cameron', 'Hall']",27,Male,Black,2018-03-15,Casa Grande,AZ
+4560,"['Shermichael', 'Ezeff']",31,Male,Black,2018-03-14,Baton Rouge,LA
+4564,"['Michael', 'Ward']",46,Male,Black,2018-03-12,Great Neck,NY
+4565,"['Jontell', 'Reedom']",27,Male,Black,2018-03-12,Tulare,CA
+4569,"['Decynthia', 'S.', 'Clements']",34,Female,Black,2018-03-12,Elgin,IL
+4575,"['Daniel', 'Stacey', 'Reynolds']",20,Male,Black,2018-03-10,Hillsboro,OR
+4582,"['Jamil', 'Omar', 'Harvey']",16,Male,Black,2018-03-08,Fredericksburg,VA
+4592,"['James', 'Earl', 'Waters']",37,Male,Black,2018-03-06,Clinton,MO
+4594,"['William', 'Simon']",19,Male,Black,2018-03-05,Brooklyn,NY
+4604,"['Marvin', 'Ray', 'McMillian']",41,Male,Black,2018-03-03,Gulfport,MS
+4612,"['Timothy', 'M.', 'Gray']",40,Male,Black,2018-03-01,Sandston,VA
+4614,"['Qawi', 'A.', 'Muhammad']",48,Male,Black,2018-02-28,Orlando,FL
+4616,"['Marlon', 'Smith']",29,Male,Black,2018-02-27,Dallas,TX
+4623,"['William', 'Watson', 'Jr.']",40,Male,Black,2018-02-26,St. Louis,MO
+4625,"['Haydon', 'Taylor']",25,Male,Black,2018-02-25,Oklahoma City ,OK
+4630,"['Mario', 'Dantoni', 'Bass']",37,Male,Black,2018-02-23,Dumfries,VA
+4634,"['Joshua', 'D.', 'Babb']",26,Male,Black,2018-02-22,Church Hill,TN
+4636,"['Darion', 'Baker']",22,Male,Black,2018-02-21,Stratford,TX
+4637,"['Lonnie', 'Smith', 'Jr.']",21,Male,Black,2018-02-21,Montgomery,AL
+4638,"['Edward', 'Hallinan']",39,Male,Black,2018-02-21,Phoenix,AZ
+4639,"['Glenn', 'Tyndell']",37,Male,Black,2018-02-21,Fort Washington,MD
+4640,"['Lee', 'Edward', 'Bonner']",37,Male,Black,2018-02-21,Jackson,MS
+4641,"['Lawrence', 'Shaw']",45,Male,Black,2018-02-19,Denton,TX
+4648,"['Trey', ""Ta'Quan"", 'Pringle', 'Sr.']",24,Male,Black,2018-02-17,Seabrook,SC
+4658,"['Jimmy', 'Terry']",30,Male,Black,2018-02-14,Merrillville,IN
+4664,"['Ronell', 'Foster']",32,Male,Black,2018-02-13,Vallejo,CA
+4666,"['Robert', 'Young']",29,Male,Black,2018-02-12,Homestead,FL
+4669,"['Mark', 'Daniels']",39,Male,Black,2018-02-11,Pittsburgh,PA
+4673,"['Sidney', 'T.', 'Richardson', 'IV']",48,Male,Black,2018-02-10,Tampa,FL
+4677,"['David', 'Darden']",36,Male,Black,2018-02-09,Atlanta,GA
+4678,"['Tierre', 'Guthrie']",39,Male,Black,2018-02-09,Locust Grove,GA
+4688,"['Anthony', 'Jacob', 'Weber']",16,Male,Black,2018-02-04,Los Angeles ,CA
+4695,"['Daniel', 'O.', 'El']",33,Male,Black,2018-02-01,Peoria,IL
+4696,"['Anthony', 'Joe', 'Williams']",37,Male,Black,2018-02-01,Houston,TX
+4699,"['Albert', 'Morton', 'Jr.']",31,Male,Black,2018-02-01,Harrisburg,PA
+4707,"['Khalil', 'Lawal']",31,Male,Black,2018-01-29,Philadelphia,PA
+4708,"['Michael', 'Hansford']",52,Male,Black,2018-01-29,Bronx,NY
+4710,"['Billy', 'Lewis', 'Rucker']",33,Male,Black,2018-01-28,Baltimore,MD
+4713,"['William', 'Pollard']",45,Male,Black,2018-01-27,Walton,IN
+4715,"['Crystaline', 'Barnes']",21,Female,Black,2018-01-27,Jackson,MS
+4719,"['Nathaniel', 'T.', 'Edwards']",43,Male,Black,2018-01-26,Rock Falls,IL
+4726,"['Chris', 'McKinney']",39,Male,Black,2018-01-24,Gadsden,AL
+4727,"['Corey', 'Mobley']",38,Male,Black,2018-01-23,Bradenton,FL
+4730,"['Ricky', 'Jerome', 'Boyd']",20,Male,Black,2018-01-23,Savannah,GA
+4745,"['Arther', 'McAfee', 'Jr.']",61,Male,Black,2018-01-20,Hallsville,TX
+4746,"['Kevin', 'Sturgis']",31,Male,Black,2018-01-18,Harrisburg,PA
+4748,"['Geraldine', 'Townsend']",72,Female,Black,2018-01-17,Bartlesville,OK
+4750,"['Donte', 'Shannon']",26,Male,Black,2018-01-17,Racine,WI
+4751,"['Bryan', 'Johnson', 'Gregory']",33,Male,Black,2018-01-17,Memphis,TN
+4752,"['Jihad', 'Merrick']",29,Male,Black,2018-01-17,Floyd,IA
+4756,"['Warren', 'Ragudo']",34,Male,Black,2018-01-16,Daly City,CA
+4759,"['James', 'Hawkins']",35,Male,Black,2018-01-15,Charlotte,NC
+4762,"['Thomas', 'Yatsko']",21,Male,Black,2018-01-13,Cleveland,OH
+4763,"['Amanuel', 'Dagebo']",22,Male,Black,2018-01-12,Columbus,OH
+4765,"['Terry', 'Amons']",43,Male,Black,2018-01-12,Pittsburg,CA
+4773,"['Jonathan', 'Bennett']",23,Male,Black,2018-01-11,Charlotte,NC
+4774,"['Shalun', 'Dique', 'Smith']",21,Male,Black,2018-01-10,Palmdale,CA
+4776,"['Travis', 'Griffin']",20,Male,Black,2018-01-08,Kansas City,MO
+4783,"['Charles', 'Smith', 'Jr.']",17,Male,Black,2018-01-07,North Little Rock,AR
+4785,"['Richard', 'R.', 'Towler']",54,Male,Black,2018-01-07,Danville,VA
+4786,"['Trayvon', 'Mitchell']",38,Male,Black,2018-01-07,Fort Lauderdale,FL
+4791,"['John', 'Bailon']",40,Male,Black,2018-01-06,Los Lunas,NM
+4798,"['Ledarren', 'Mixon']",28,Male,Black,2018-01-05,Whitehall,OH
+4801,"['Shaleem', 'Tindle']",28,Male,Black,2018-01-03,Oakland,CA
+4814,"['Jarvis', 'Lykes']",35,Male,Black,2017-12-29,Columbus,GA
+4817,"['Isaiah', 'Christian', 'Green']",21,Male,Black,2017-12-28,Dover,PA
+4818,"['Corey', 'Bailey']",30,Male,Black,2017-12-28,Elkhart,IN
+4821,"['Dennis', 'Plowden']",25,Male,Black,2017-12-27,Philadelphia,PA
+4827,"['Jesse', 'Scarsbrook']",28,Male,Black,2017-12-26,Lawrence,IN
+4852,"['Shaquille', 'Rogers']",24,Male,Black,2017-12-19,The Colony,TX
+4853,"['Todd', 'A.', 'Stone']",48,Male,Black,2017-12-18,Oak Park,MI
+4854,"['Willie', 'Floyd', 'McCord']",52,Male,Black,2017-12-17,Bremerton,WA
+4861,"['Zoe', 'Dowdell']",20,Male,Black,2017-12-14,New Britain,CT
+4868,"['Ira', 'Crawford']",26,Male,Black,2017-12-10,Mobile,AL
+4878,"['Frederick', 'Douglas', 'Wilburn', 'Jr.']",34,Male,Black,2017-12-07,Tucson ,AZ
+4880,"['David', 'Facen']",54,Male,Black,2017-12-06,Miami,FL
+4883,"['Jean', 'Pedro', 'Pierre']",42,Male,Black,2017-12-06,Lauderdale Lakes,FL
+4885,"['Johnny', 'D.', 'Carter']",24,Male,Black,2017-12-05,Bassett,VA
+4892,"['Rufus', 'Cedric', 'Baker']",32,Male,Black,2017-12-01,Hendersonville,NC
+4893,"['Keita', ""O'Neil""]",42,Male,Black,2017-12-01,San Francisco,CA
+4897,"['Aquoness', 'Cathery']",24,Male,Black,2017-11-30,Chicago,IL
+4909,"['Name', 'withheld', 'by', 'police']",26,Male,Black,2017-11-25,Detroit,MI
+4915,"['Rehyen', 'Bost-McMurray']",17,Male,Black,2017-11-23,St. Louis,MO
+4916,"['Jackie', 'Germaine', 'Ragland']",32,Male,Black,2017-11-23,Pell City,AL
+4923,"['Lawrence', 'Hawkins']",56,Male,Black,2017-11-18,Prichard,AL
+4926,"['Shady', 'Bell', 'Jr.']",46,Male,Black,2017-11-17,West Monroe,LA
+4929,"['Chester', 'Randolph', 'Ward']",68,Male,Black,2017-11-16,Brazoria,TX
+4939,"['Keian', 'Jones']",51,Male,Black,2017-11-14,Stockton,CA
+4940,"['Cornell', 'Lockhart']",67,Male,Black,2017-11-13,Bronx,NY
+4941,"['Calvin', 'Toney']",24,Male,Black,2017-11-13,Baton Rouge,LA
+4944,"['Phillip', 'Pitts']",41,Male,Black,2017-11-11,Las Vegas,NV
+4947,"['Thomas', 'Aikens']",43,Male,Black,2017-11-10,Phoenix,AZ
+4948,"['John', 'Bazemore', 'III']",25,Male,Black,2017-11-10,Denver,CO
+4953,"['Paul', 'Jones', 'III']",25,Male,Black,2017-11-09,Salisbury,NC
+4963,"['Jarrett', 'Blakely', 'Varnado']",35,Male,Black,2017-11-07,Las Vegas,NV
+4967,"['Eddie', 'Patterson']",49,Male,Black,2017-11-05,Rockford,IL
+4970,"['Raymond', 'Davis']",24,Male,Black,2017-11-04,Columbus,MS
+4973,"['Augustus', 'Crawford']",20,Male,Black,2017-11-04,Bakersfield,CA
+4986,"['Vincent', 'Jewan', 'Hall']",22,Male,Black,2017-10-31,Arlington,TX
+4988,"['Luvelle', 'Kennon']",27,Male,Black,2017-10-31,Riverside,CA
+4991,"['Dante', 'Holden']",19,Male,Black,2017-10-30,Newark,NJ
+4993,"['Tymyr', 'Wilson']",21,Male,Black,2017-10-30,Newark,NJ
+4995,"['Kalin', 'Jackson']",23,Male,Black,2017-10-29,King of Prussi,PA
+4996,"['Eric', 'Higgs']",46,Male,Black,2017-10-29,Senatobia,MS
+5002,"['Jerry', 'Richardson']",47,Male,Black,2017-10-27,Indiantown,FL
+5005,"['Timothy', 'Earl', 'Jackson']",33,Male,Black,2017-10-25,St. Petersburg,FL
+5006,"['Antonio', 'Levison']",33,Male,Black,2017-10-25,Cleveland,OH
+5013,"['Darius', 'Miller', 'Jr.']",20,Male,Black,2017-10-23,Baltimore,MD
+5020,"['Jamarco', 'McShann']",23,Male,Black,2017-10-20,Moraine,OH
+5021,"['Dewboy', 'Lister']",55,Male,Black,2017-10-20,Corpus Christi,TX
+5023,"['Armando', 'Frank']",42,Male,Black,2017-10-20,Mansura,LA
+5030,"['DeAndre', 'Bethea']",24,Male,Black,2017-10-17,Hampton,VA
+5032,"['Eric', 'Garrison']",20,Male,Black,2017-10-16,Baltimore,MD
+5039,"['J.C.', 'Hawkins', 'Jr.']",42,Male,Black,2017-10-13,Charlottesville,VA
+5040,"['John', 'Robert', 'Payne']",35,Male,Black,2017-10-12,Birmingham,AL
+5050,"['Cariann', 'Denise', 'Hithon']",22,Female,Black,2017-10-08,Miami Beach,FL
+5051,"['Corey', 'Antonio', 'Boykin', 'Jr.']",24,Male,Black,2017-10-08,Louisville ,KY
+5068,"['Jomekia', 'Turner']",37,Male,Black,2017-10-04,Thomasville,GA
+5070,"['Sandra', 'Guardiola', 'aka', 'Sandy', 'Guardiola']",48,Female,Black,2017-10-04,Canandaigua,NY
+5072,"['Marquinton', 'T.', 'Brooks']",22,Male,Black,2017-10-02,West Monroe,LA
+5079,"['Marquis', '""Bubba""', 'Jones']",27,Male,Black,2017-10-01,Burlington,IA
+5080,"['Tyrell', 'Dewayne', 'Pinkston']",28,Male,Black,2017-09-30,Palatka,FL
+5083,"['Stephen', 'Gayle']",40,Male,Black,2017-09-28,Temple,TX
+5084,"['Dominique', 'Tyrell', 'White']",30,Male,Black,2017-09-28,Topeka,KS
+5085,"['Name', 'withheld', 'by', 'police']",40,Male,Black,2017-09-28,Oakland,CA
+5086,"['Demilo', 'Trayvon', 'Hodge']",45,Male,Black,2017-09-27,Berkeley,CA
+5092,"['Anthony', 'Robinson']",32,Male,Black,2017-09-25,Palmetto,FL
+5094,"['Damian', 'Murray']",46,Male,Black,2017-09-24,San Francisco,CA
+5107,"['Edward', '""Eddie""', 'Russell', 'Jr.']",25,Male,Black,2017-09-20,Peoria,IL
+5108,"['Haraesheo', 'Rice']",31,Male,Black,2017-09-20,Huntsville,AL
+5116,"['Brian', 'Ziro']",21,Male,Black,2017-09-17,West Milford,WV
+5133,"['Ervin', 'Eugene', 'Sweat', 'Jr.']",26,Male,Black,2017-09-09,Arcata,CA
+5136,"['Eric', 'Arnold']",41,Male,Black,2017-09-07,Sacramento,CA
+5137,"['Miguel', 'Richards']",31,Male,Black,2017-09-06,Bronx,NY
+5142,"['Name', 'withheld', 'by', 'police']",25,Male,Black,2017-09-04,Chicago,IL
+5148,"['Jarvis', 'Hayes']",31,Male,Black,2017-09-03,Myrtle Beach,SC
+5149,"['Antwon', '""Blind', 'Mack""', 'Springer']",37,Male,Black,2017-09-03,Milwaukee,WI
+5157,"['Aaron', 'Brandon']",17,Male,Black,2017-08-29,Hazel Crest,IL
+5160,"['Ricky', 'Ard']",55,Male,Black,2017-08-29,Evansville,IN
+5162,"['William', 'Matthew', 'Holmes']",24,Male,Black,2017-08-28,Moundridge,KS
+5163,"['Anthony', 'Antonio', 'Ford']",27,Male,Black,2017-08-28,Miami,FL
+5168,"['Demond', 'Grimes']",15,Male,Black,2017-08-26,Detroit,MI
+5170,"['Michael', 'Malik', 'Kawon', 'Lee']",18,Male,Black,2017-08-26,Pine Bluff,AR
+5171,"['Charles', 'David', 'Robinson']",47,Male,Black,2017-08-25,Woodville,GA
+5173,"['Devin', 'Howell']",30,Male,Black,2017-08-25,Marietta,GA
+5176,"['Scott', 'Mayfield']",24,Male,Black,2017-08-24,Orange,NJ
+5184,"['Kenny', '""Kiwi""', 'Herring']",30,Transgender,Black,2017-08-22,Saint Louis,MO
+5185,"['Nathaniel', 'Richmond']",51,Male,Black,2017-08-21,Steubenville,OH
+5190,"['Keshawn', 'Wilson']",32,Male,Black,2017-08-20,Brick,NJ
+5196,"['Derrick', 'Rashard', 'Brabham']",25,Male,Black,2017-08-18,Jacksonville,FL
+5201,"['Kenneth', 'Lewis']",34,Male,Black,2017-08-16,Los Angeles ,CA
+5203,"['Herbert', 'Gilbert']",37,Male,Black,2017-08-15,Thomasville,GA
+5206,"['Patrick', 'Harmon']",50,Male,Black,2017-08-13,Salt Lake City,UT
+5207,"['Hussein', 'D.', 'Hassan']",46,Male,Black,2017-08-13,Kennewick,WA
+5214,"['Tyrease', 'Carlyle']",31,Male,Black,2017-08-11,Philadelphia,PA
+5217,"['Eugene', 'Nelson']",20,Male,Black,2017-08-09,Kent,WA
+5219,"['Darreon', 'J.', 'Neal']",17,Male,Black,2017-08-08,Dolton,IL
+5224,"['Danatae', 'Franklin']",28,Male,Black,2017-08-06,Kansas City,MO
+5227,"['Thomas', 'Williams']",34,Male,Black,2017-08-05,Fort Lauderdale,FL
+5229,"['Aaron', 'Payne']",33,Male,Black,2017-08-04,Myrtle Beach,SC
+5234,"['James', 'Lacy']",47,Male,Black,2017-08-04,San Diego,CA
+5238,"['Preston', 'Thornton']",29,Male,Black,2017-08-02,Coushatta,LA
+5240,"['Quintas', 'Harris']",27,Male,Black,2017-08-02,Decatur,GA
+5241,"['Kemonte', 'Cobbs']",15,Male,Black,2017-08-02,Gary,IN
+5245,"['Kerry', 'Demars', 'Bradley']",37,Male,Black,2017-08-01,Waco,TX
+5246,"['Christopher', 'E.', 'Clapp']",35,Male,Black,2017-08-01,Catonsville,MD
+5249,"['Isaiah', 'Tucker']",28,Male,Black,2017-07-31,Oshkosh,WI
+5251,"['Dwayne', 'Jeune']",32,Male,Black,2017-07-31,Brooklyn,NY
+5253,"['Jashod', 'Carter']",34,Male,Black,2017-07-29,Norco,CA
+5256,"['Rodney', 'E.', 'Jacobs']",31,Male,Black,2017-07-28,Kansas City,MO
+5259,"['Deltra', 'Henderson']",39,Male,Black,2017-07-27,Homer,LA
+5265,"['Kesharn', 'K.', 'Burney']",25,Male,Black,2017-07-26,Dayton,OH
+5268,"['Aries', 'Clark']",16,Male,Black,2017-07-25,Marion,AR
+5281,"['Isaiah', 'Perkins']",27,Male,Black,2017-07-20,St. Louis,MO
+5289,"['India', 'Nelson']",25,Female,Black,2017-07-17,Norfolk,VA
+5295,"['Vaughn', 'Shaw']",23,Male,Black,2017-07-15,Moreno Valley,CA
+5305,"['Antonio', 'Garcia', 'Jr.']",47,Male,Black,2017-07-11,Leavenworth,KS
+5314,"['Michael', 'T.', 'Ward']",27,Male,Black,2017-07-09,Salisbury,MD
+5315,"['Edward', 'Earl', 'Taylor']",54,Male,Black,2017-07-09,Akron,OH
+5318,"['Cardell', 'Vance', 'III']",23,Male,Black,2017-07-08,Crescent City,FL
+5321,"['Kareem', 'Ali', 'Nadir', 'Jones']",30,Male,Black,2017-07-07,Franklinton,OH
+5322,"['Eurie', 'Lee', 'Martin']",58,Male,Black,2017-07-07,Deepstep,GA
+5323,"['Brian', 'Easley']",33,Male,Black,2017-07-07,Marietta,GA
+5326,"['DeJuan', 'Guillory']",27,Male,Black,2017-07-06,Mamou,LA
+5327,"['Alexander', 'Bonds']",34,Male,Black,2017-07-05,Bronx,NY
+5336,"['Dana', 'D.', 'Dubose']",36,Male,Black,2017-07-04,Vandalia,OH
+5340,"['Zepp', 'Crouchet']",42,Male,Black,2017-07-03,Antioch,CA
+5344,"['David', 'Leon', 'Bell']",30,Male,Black,2017-07-03,Brunswick,GA
+5347,"['Quintec', 'Locke']",37,Male,Black,2017-07-01,Chicago,IL
+5355,"['Aaron', 'Bailey']",45,Male,Black,2017-06-29,Indianapolis,IN
+5357,"['Joel', 'Gatu', 'Muturi']",23,Male,Black,2017-06-29,Marietta,GA
+5358,"['Rodney', 'L.', 'Cole']",37,Male,Black,2017-06-28,Nashville,TN
+5362,"['Lawrence', 'Heyward', 'Jr.']",56,Male,Black,2017-06-25,North Charleston,SC
+5365,"['Deveonte', 'Johnson']",24,Male,Black,2017-06-25,Oklahoma City ,OK
+5367,"['Giovonn', 'Joseph-McDade']",20,Male,Black,2017-06-24,Kent,WA
+5382,"['Charleena', 'Lyles']",30,Female,Black,2017-06-18,Seattle,WA
+5390,"['Joshua', 'Terrell', 'Crawford']",25,Male,Black,2017-06-16,Tuscaloosa,AL
+5397,"['Terry', 'Williams']",19,Male,Black,2017-06-13,Milwaukee,WI
+5399,"['Chazz', 'Brown']",33,Male,Black,2017-06-13,St. Louis,MO
+5401,"['Jordan', 'Frazier']",36,Male,Black,2017-06-13,Baton Rouge,LA
+5403,"['Avery', 'D.', 'Metrejean']",35,Male,Black,2017-06-12,Broussard,LA
+5410,"['Joshua', 'Anthony', 'Barre']",29,Male,Black,2017-06-09,Tulsa,OK
+5412,"['David', 'Thomas', 'Jones']",32,Male,Black,2017-06-08,Philadelphia,PA
+5425,"['Adrian', 'Maurice', 'Hardeman']",37,Male,Black,2017-06-05,Shiner,TX
+5429,"['John', 'Spaulding']",47,Male,Black,2017-06-05,Miami,FL
+5431,"['Juwan', 'Lumpkin']",21,Male,Black,2017-06-04,Detroit,MI
+5434,"['Charles', 'Darnell', 'Baker', 'Jr.']",29,Male,Black,2017-06-02,Abbeville,AL
+5435,"['Marc', 'Brandon', 'Davis']",34,Male,Black,2017-06-02,Petal,MS
+5438,"['Corsean', 'Lewis']",17,Male,Black,2017-06-02,Chicago,IL
+5449,"['Shaquian', 'Tyrone', 'Johnson']",22,Male,Black,2017-05-28,Cary,NC
+5454,"['Jamie', 'J.', 'Robinson']",33,Male,Black,2017-05-26,St. Louis,MO
+5456,"['Darius', 'Smith']",15,Male,Black,2017-05-26,Arcadia,CA
+5459,"['Adam', 'Trammell']",22,Male,Black,2017-05-25,West Milwaukee,WI
+5468,"['Maurice', 'Ifill']",43,Male,Black,2017-05-22,Wilmington,DE
+5469,"['Jimmie', 'Montel', 'Sanders']",33,Male,Black,2017-05-21,Appleton,WI
+5472,"['DeRicco', 'Devante', 'Holden']",24,Male,Black,2017-05-21,Converse,LA
+5475,"['Mark', 'Roshawn', 'Adkins']",54,Male,Black,2017-05-20,Lemon Grove,CA
+5477,"['Jayden', 'Young']",18,Male,Black,2017-05-19,Glendale,AZ
+5479,"['Deonte', 'Marces', 'Giles']",22,Male,Black,2017-05-18,Columbus,GA
+5480,"['Rashad', 'S.', 'Wells', 'Jr.']",17,Male,Black,2017-05-17,Chicago,IL
+5484,"['Tristan', 'Long']",25,Male,Black,2017-05-16,Tempe,AZ
+5485,"['Jonie', 'Block']",27,Female,Black,2017-05-15,Phoenix,AZ
+5487,"['Jaison', 'Fitzgerald']",29,Male,Black,2017-05-15,Richmond,VA
+5491,"['Tashii', 'S.', 'Brown']",40,Male,Black,2017-05-14,Las Vegas,NV
+5495,"['Clarence', 'E.', 'Coats', 'Jr.']",41,Male,Black,2017-05-13,Columbia,MO
+5497,"['Tywon', 'Salters']",21,Male,Black,2017-05-13,Geneva,IL
+5500,"['Ronald', 'Singletary']",51,Male,Black,2017-05-12,Philadelphia,PA
+5505,"['Terrell', 'Kyreem', 'Johnson']",24,Male,Black,2017-05-10,Portland,OR
+5506,"['Robin', 'White']",50,Female,Black,2017-05-10,St. Louis,MO
+5512,"['Terry', 'Percy', 'Campbell']",25,Male,Black,2017-05-09,Jacksonville,FL
+5514,"['Mikel', 'Laney', 'Mcintyre']",32,Male,Black,2017-05-08,Rancho Cordova,CA
+5516,"['Cedric', 'Jamal', 'Mifflin']",27,Male,Black,2017-05-07,Phenix City,AL
+5517,"['Landon', 'Nobles']",24,Male,Black,2017-05-07,Austin,TX
+5522,"['Tizaya', 'Jordan-Robinson']",25,Male,Black,2017-05-05,Braintree,MA
+5527,"['Malik', 'Carey']",18,Male,Black,2017-05-03,Grand Rapids,MI
+5530,"['Rodney', 'L.', 'Henderson']",48,Male,Black,2017-05-02,Irving,TX
+5535,"['James', 'Edward', 'Ray']",46,Male,Black,2017-04-30,Detroit,MI
+5536,"['Samir', 'Nicholson']",24,Male,Black,2017-04-29,East Orange,NJ
+5538,"['Caleb', '""CJ""', 'Jackson', 'Jr.']",35,Male,Black,2017-04-29,Newport News,VA
+5540,"['Jordan', 'Edwards']",15,Male,Black,2017-04-29,Balch Springs,TX
+5541,"['Avery', 'Richard']",32,Male,Black,2017-04-28,Atlanta,GA
+5543,"['Burgon', 'Sealy', 'Jr.']",26,Male,Black,2017-04-27,Bear,DE
+5547,"['Selwyn', 'Aubrey', 'Hall']",57,Male,Black,2017-04-26,Jacksonville,FL
+5549,"['Hakim', 'A.', 'McNair']",23,Male,Black,2017-04-25,Newark,NJ
+5553,"['Gavin', 'Williams']",27,Male,Black,2017-04-25,Lizella,GA
+5554,"['Daezion', 'Turner']",15,Male,Black,2017-04-24,Killeen,TX
+5555,"['Kendell', 'Wilson']",16,Male,Black,2017-04-24,Houston,TX
+5560,"['William', 'D.', 'Spates']",39,Male,Black,2017-04-22,Portage,IN
+5568,"['Damarius', 'Butts']",19,Male,Black,2017-04-20,Seattle,WA
+5570,"['Keith', 'Price']",21,Male,Black,2017-04-19,Wilmington,DE
+5574,"['Roderick', 'Ronall', 'Taylor']",42,Male,Black,2017-04-15,Houston,TX
+5576,"['Olugbalah', 'Ridley']",33,Male,Black,2017-04-15,West Memphis,AR
+5583,"['Zelalem', 'Eshetu', 'Ewnetu']",28,Male,Black,2017-04-12,Los Angeles ,CA
+5584,"['Kenneth', 'Johnson']",25,Male,Black,2017-04-12,Reading,PA
+5587,"['Jarrad', 'Hill']",39,Male,Black,2017-04-10,Houston,TX
+5593,"['Kenneth', 'Francis']",37,Male,Black,2017-04-06,Newark,NJ
+5594,"['Christopher', 'Wade']",39,Male,Black,2017-04-06,Westerville,OH
+5597,"['Richard', 'Xavier', 'Summers']",49,Male,Black,2017-04-06,Largo,FL
+5611,"['Leroy', 'Brown', 'Jr.']",28,Male,Black,2017-03-29,New Castle,DE
+5624,"['Reno', 'Joseph', 'Owens', 'Jr.']",39,Male,Black,2017-03-24,Baltimore,MD
+5629,"['Eddie', 'Davis']",42,Male,Black,2017-03-23,Sheridan,AR
+5631,"['Don', 'Johnson']",27,Male,Black,2017-03-22,Crowley,LA
+5635,"['Clarence', 'Duane', 'Huderle']",73,Male,Black,2017-03-20,Warren,MN
+5639,"['Alteria', 'Woods']",21,Female,Black,2017-03-19,Vero Beach,FL
+5641,"['Trevor', 'Allen', 'Brice', 'Gingras']",19,Male,Black,2017-03-19,Cape Canaveral,FL
+5648,"['Desmond', 'Phillips']",25,Male,Black,2017-03-17,Chico,CA
+5652,"['Patrick', 'Earl', 'Gatson']",32,Male,Black,2017-03-16,Fayetteville,NC
+5653,"['Rodney', 'James', 'Hess']",36,Male,Black,2017-03-16,Alamo,TN
+5655,"['Frederick', 'Ricardo', 'Brown']",34,Male,Black,2017-03-16,Warren,MI
+5656,"['Jermaine', 'Claybrooks']",32,Male,Black,2017-03-16,Milwaukee,WI
+5657,"['Cordale', 'Quinn', 'Handy']",29,Male,Black,2017-03-15,Saint Paul,MN
+5665,"['Rashad', 'Daquan', 'Opher']",20,Male,Black,2017-03-13,Gwynn Oak,MD
+5666,"['Luke', 'O.', 'Stewart']",23,Male,Black,2017-03-13,Euclid,OH
+5670,"['Sherida', 'Davis']",38,Female,Black,2017-03-11,Milwaukee,WI
+5671,"['Brandon', 'Wiley']",30,Male,Black,2017-03-11,Baton Rouge,LA
+5680,"['Dennis', 'Todd', 'Rogers']",41,Male,Black,2017-03-07,Ladera Heights,CA
+5692,"['Epthen', 'Lamont', 'Johnson']",40,Male,Black,2017-03-01,Lufkin,TX
+5693,"['Earl', 'Donnell', 'Riley']",25,Male,Black,2017-02-28,Houston,TX
+5695,"['Christopher', 'Redding', 'Jr.']",20,Male,Black,2017-02-28,Orlando,FL
+5702,"['Lorenzo', 'Antoine', 'Cruz']",23,Male,Black,2017-02-25,Rocklin,CA
+5707,"['Gregory', 'Lamont', 'Childress']",44,Male,Black,2017-02-24,Little Rock,AR
+5710,"['Timothy', 'Lionel', 'Williams']",47,Male,Black,2017-02-23,Washington,DC
+5711,"['Steven', 'Valenzuela']",24,Male,Black,2017-02-23,Reno,NV
+5715,"['Medger', 'Blake']",41,Male,Black,2017-02-22,Conroe,TX
+5716,"['Morgan', 'Rankins']",30,Female,Black,2017-02-22,Austin,TX
+5722,"['Don', 'Clark']",63,Male,Black,2017-02-21,St. Louis,MO
+5727,"['Christopher', 'Carter']",27,Male,Black,2017-02-19,Kent,OH
+5730,"['Keo', 'Crockett']",46,Male,Black,2017-02-18,Efland,NC
+5731,"['Chance', 'David', 'Baker']",22,Male,Black,2017-02-18,Portland,ME
+5732,"['Jean', 'R.', 'Valescot']",35,Male,Black,2017-02-17,Big Lake,AK
+5738,"['Kadeem', 'Torres']",17,Male,Black,2017-02-16,Brooklyn,NY
+5740,"['Jimmy', 'Briggs']",21,Male,Black,2017-02-16,Gardena,CA
+5742,"['Kenneth', 'Lee', 'Bailey', 'Jr.']",24,Male,Black,2017-02-15,Durham,NC
+5747,"['Raynard', 'Burton']",19,Male,Black,2017-02-13,Detroit,MI
+5752,"['Willard', 'Eugene', 'Scott', 'Jr.']",31,Male,Black,2017-02-12,Durham,NC
+5754,"['Alonzo', 'E.', 'Ashley', 'Jr.']",27,Male,Black,2017-02-11,Kansas City,MO
+5758,"['Darryl', 'L.', 'Fuqua']",23,Male,Black,2017-02-10,Bridgeton,NJ
+5762,"['Carlos', 'Keith', 'Blackman']",25,Male,Black,2017-02-10,Greensboro,NC
+5763,"['Jocques', 'Scott', 'Clemmons']",31,Male,Black,2017-02-10,Nashville,TN
+5766,"['Quanice', 'Derrick', 'Hayes']",17,Male,Black,2017-02-09,Portland,OR
+5771,"['Chad', 'Robertson']",25,Male,Black,2017-02-08,Chicago,IL
+5777,"['Curtis', 'Jamal', 'Deal']",18,Male,Black,2017-02-07,Baltimore,MD
+5778,"['Cole', 'Wooley']",50,Male,Black,2017-02-06,Commerce City,CO
+5780,"['Jerome', 'Keith', 'Allen']",22,Male,Black,2017-02-06,Jacksonville,FL
+5781,"['Nana', 'Adomako']",45,Male,Black,2017-02-05,Fremont,CA
+5783,"['Shelly', 'Porter', 'III']",41,Male,Black,2017-02-05,Englewood,OH
+5786,"['Johnnie', 'J.', 'Harris', 'Jr.']",68,Male,Black,2017-02-04,Kansas City,MO
+5792,"['Jamake', 'Cason', 'Thomas']",22,Male,Black,2017-02-03,Lumberton,NC
+5797,"['Tavis', 'Crane']",23,Male,Black,2017-02-01,Arlington,TX
+5798,"['Marquez', 'Warren']",19,Male,Black,2017-02-01,Alameda,CA
+5799,"['Michael', 'Russo']",31,Male,Black,2017-02-01,Highland,CA
+5800,"['Solomon', 'Picart']",37,Male,Black,2017-01-31,Los Angeles ,CA
+5803,"['Marvin', 'Washington']",50,Male,Black,2017-01-30,Kiowa,OK
+5809,"[""Mi'Chance"", 'Dunlap-Gittens']",17,Male,Black,2017-01-28,Des Moines,WA
+5814,"['Deaundre', 'Phillips']",24,Male,Black,2017-01-26,Atlanta,GA
+5817,"['Kevin', 'Darnell', 'Washington']",54,Male,Black,2017-01-25,Southaven,MS
+5822,"['Arties', 'Manning', 'III']",26,Male,Black,2017-01-24,New Orleans,LA
+5826,"['Sabin', 'Marcus', 'Jones']",45,Male,Black,2017-01-24,South Hill,VA
+5834,"['Armond', 'Jairon', 'Brown']",25,Male,Black,2017-01-23,Kenner,LA
+5837,"['Christopher', 'Mark', 'Thompkins']",57,Male,Black,2017-01-22,Larimer,PA
+5838,"['Ronnie', 'Lee', 'Shorter']",44,Male,Black,2017-01-21,Greenville,MS
+5840,"['Joshua', 'D.', 'Jones']",20,Male,Black,2017-01-20,Chicago,IL
+5849,"['Marquis', 'Thomas']",19,Male,Black,2017-01-18,Gary,IN
+5851,"['David', 'Stroughter']",50,Male,Black,2017-01-18,Los Angeles ,CA
+5855,"['Mohammad', 'Azim', 'Doudzai']",32,Male,Black,2017-01-16,Herndon,VA
+5860,"['Herbert', 'Johnson']",34,Male,Black,2017-01-15,Chicago,IL
+5863,"['Jahlire', 'Nicholson']",28,Male,Black,2017-01-14,Jamaica,NY
+5873,"['Darrion', 'M.', 'Barnhill']",23,Male,Black,2017-01-10,Reagan,TN
+5874,"['JR', 'Williams']",38,Male,Black,2017-01-09,Phoenix,AZ
+5875,"['Davion', 'Henderson']",21,Male,Black,2017-01-09,St. Louis,MO
+5884,"['Sean', 'Moore']",43,Male,Black,2017-01-06,San Francisco,CA
+5885,"['Jamal', 'Parks']",32,Male,Black,2017-01-06,Deerfield,IL
+5888,"['Ruben', 'Lamont', 'Randolph']",51,Male,Black,2017-01-04,Pomona,CA
+5889,"['Muhammad', 'Abdul', 'Muhaymin']",43,Male,Black,2017-01-04,Phoenix,AZ
+5895,"['James', 'Owens']",63,Male,Black,2017-01-03,Brooklyn,NY
+5898,"['James', 'E.', 'Lewis']",44,Male,Black,2017-01-01,Springfield,MO
+5899,"['Mark', 'Guirguis']",21,Male,Black,2017-01-01,Allen,TX
+5900,"['Trevon', 'Johnson']",17,Male,Black,2017-01-01,Villa Park,IL
+5906,"['Jamal', 'Robbins']",21,Male,Black,2016-12-30,Miami,FL
+5910,"['James', 'Rich', 'II']",52,Male,Black,2016-12-29,Chestertown,MD
+5921,"['Gerald', 'Javon', 'Hall']",29,Male,Black,2016-12-25,Washington,DC
+5929,"['Terrence', 'Thomas', 'Jr']",19,Male,Black,2016-12-22,Capitol Heights,MD
+5933,"['Anthony', 'Lovell', 'Eddington']",24,Male,Black,2016-12-21,Coalinga,CA
+5943,"['Ryan', 'Joseph']",20,Male,Black,2016-12-18,Los Angeles ,CA
+5950,"['Marlon', 'Lewis']",37,Male,Black,2016-12-15,Badin,NC
+5951,"['Earl', 'Labon', 'Eubanks', 'Jr.']",32,Male,Black,2016-12-13,Hampton,GA
+5952,"['Lavar', 'Montray', 'Douglas']",18,Male,Black,2016-12-13,Baltimore,MD
+5955,"['Kenneth', 'Robledo']",28,Male,Black,2016-12-12,Philadelphia,PA
+5962,"['Waltki', 'Cermoun', 'Williams']",35,Male,Black,2016-12-10,Sumter,SC
+5970,"['Mark', 'Anthony', 'Hicks']",31,Male,Black,2016-12-07,Fayetteville,NC
+5971,"['Redrick', 'Jevon', 'Batiste']",37,Male,Black,2016-12-07,Houston,TX
+5978,"['Norman', 'Gary']",29,Male,Black,2016-12-04,Elkhart,IN
+5984,"['Paul', 'Mebane']",28,Male,Black,2016-12-02,Brandon,FL
+5987,"['Bruce', 'R.', 'Johnson', 'II']",38,Male,Black,2016-12-01,Tacoma,WA
+5990,"['David', 'K.', 'Crosby-Dowdy']",25,Male,Black,2016-11-30,Kansas City,MO
+5995,"['Abdul', 'Razak', 'Ali', 'Artan']",18,Male,Black,2016-11-28,Columbus,OH
+5996,"['Irecas', 'Rayshion', '""Suga', 'Ray""', 'Valentine']",41,Male,Black,2016-11-28,Hickory,NC
+5998,"['Jason', 'Stringer']",35,Male,Black,2016-11-28,Cahokia,IL
+6001,"['Richard', 'Grimes']",33,Male,Black,2016-11-27,Chicago,IL
+6002,"['Terrell', 'Walker']",48,Male,Black,2016-11-27,Baton Rouge,LA
+6005,"['Cleotha', 'Mitchell']",37,Male,Black,2016-11-25,Chicago,IL
+6006,"['Jerome', 'Chris', 'Harmon']",23,Male,Black,2016-11-25,Hattiesburg,MS
+6010,"['Kajuan', 'Raye']",19,Male,Black,2016-11-23,Chicago,IL
+6012,"['Talif', 'Scudder']",23,Male,Black,2016-11-22,Newark,NJ
+6013,"['Ivory', 'C.', 'Pantallion', 'III']",36,Male,Black,2016-11-22,Baytown,TX
+6016,"['Elijah', 'Cobb']",17,Male,Black,2016-11-22,Shenandoah,TX
+6017,"['Frank', 'Clark']",34,Male,Black,2016-11-22,Durham,NC
+6019,"['George', 'Bush', 'III']",19,Male,Black,2016-11-21,St. Louis,MO
+6026,"['Erickson', 'Gomez', 'Brito']",21,Male,Black,2016-11-19,Brooklyn,NY
+6027,"['Samson', 'Fleurant']",25,Male,Black,2016-11-18,Port St. Lucie,FL
+6029,"['Gabriel', 'Parker']",48,Male,Black,2016-11-18,Casa Grande,AZ
+6030,"['Dontrell', 'Montese', 'Carter']",25,Male,Black,2016-11-18,Ludowici,GA
+6031,"['Darius', 'Jones']",26,Male,Black,2016-11-18,Chicago,IL
+6037,"['Rasheem', 'Singletary']",25,Male,Black,2016-11-15,York,PA
+6053,"['Ritchie', 'Lee', 'Harbison']",62,Male,Black,2016-11-08,Hendersonville,NC
+6056,"['Darryl', 'Chisholm']",31,Male,Black,2016-11-07,Philadelphia,PA
+6067,"['Joshua', 'Beal']",25,Male,Black,2016-11-05,Chicago,IL
+6073,"['Ferguson', 'Claude', 'Laurent', 'Jr.']",23,Male,Black,2016-11-03,Salisbury,NC
+6078,"['Keenan', 'Bradley']",21,Male,Black,2016-11-01,Stockton,CA
+6080,"['Michelle', 'Lee', 'Shirley']",39,Female,Black,2016-10-31,Torrence,CA
+6085,"['Terrence', 'Coleman']",31,Male,Black,2016-10-30,Boston,MA
+6089,"['Jason', 'King']",38,Male,Black,2016-10-28,Sacramento,CA
+6093,"['Lamont', 'Perry']",32,Male,Black,2016-10-27,Wadesboro,NC
+6094,"['Thad', 'Hale']",33,Male,Black,2016-10-27,San Antonio,TX
+6096,"['Malcolm', 'Loren', 'Hickson']",25,Male,Black,2016-10-26,Carrollton,TX
+6100,"['Roy', 'Lee', 'Richards']",46,Male,Black,2016-10-25,Little Rock,AR
+6103,"['Aaron', 'Ballard']",19,Male,Black,2016-10-24,St. Louis,MO
+6105,"['Demetrious', 'Mac', 'Moore']",40,Male,Black,2016-10-23,Colorado Springs,CO
+6114,"['Darius', 'Wimberly']",28,Male,Black,2016-10-18,Benton Harbor,MI
+6117,"['Deborah', 'Danner']",66,Female,Black,2016-10-18,New York,NY
+6131,"['Kirk', 'Figueroa']",33,Male,Black,2016-10-12,Boston,MA
+6139,"['Deric', 'Brown']",41,Male,Black,2016-10-09,Syracuse,NY
+6146,"['Larry', 'Daniel', 'Matthews']",57,Male,Black,2016-10-07,Macon,GA
+6148,"['Christopher', 'Darnell', 'Shackleford']",28,Male,Black,2016-10-07,Alexandria,LA
+6162,"['Donte', 'Jones']",36,Male,Black,2016-10-02,Markham,IL
+6164,"['Carnell', 'Snell', 'Jr']",18,Male,Black,2016-10-01,Los Angeles ,CA
+6166,"['Reginald', 'Thomas', 'Jr.']",36,Male,Black,2016-09-30,Pasadena,CA
+6167,"['Najier', 'Salaam']",18,Male,Black,2016-09-30,Newark,NJ
+6168,"['George', 'Richards-Meyers']",18,Male,Black,2016-09-30,Newark,NJ
+6170,"['Jacquarius', 'Robinson']",20,Male,Black,2016-09-30,Columbus,OH
+6171,"['Douglas', 'Rainey']",32,Male,Black,2016-09-30,Campobello,SC
+6174,"['Christopher', 'Sowell']",32,Male,Black,2016-09-28,Philadelphia,PA
+6176,"['Alfred', 'Olango']",38,Male,Black,2016-09-27,El Cajon,CA
+6182,"['Oddis', 'Colvin']",33,Male,Black,2016-09-23,Pikesville,MD
+6188,"['Keith', 'Lamont', 'Scott']",43,Male,Black,2016-09-20,Charlotte,NC
+6195,"['Philip', 'Hasan']",61,Male,Black,2016-09-18,Akron,OH
+6198,"['Dahir', 'Aidan']",22,Male,Black,2016-09-17,St. Cloud,MN
+6199,"['Nicholas', 'Glenn']",25,Male,Black,2016-09-17,Philadelphia,PA
+6201,"['Tawon', 'Boyd']",21,Male,Black,2016-09-17,Middle River,MD
+6205,"['Terence', 'Crutcher']",40,Male,Black,2016-09-16,Tulsa,OK
+6209,"['Tyre', 'King']",13,Male,Black,2016-09-14,Columbus,OH
+6210,"['Markell', 'Lamarr', 'Bivins']",25,Male,Black,2016-09-12,Cedar Rapids,IA
+6213,"['Terrence', 'Sterling']",31,Male,Black,2016-09-11,Washington,DC
+6217,"['Gregory', 'Frazier']",55,Male,Black,2016-09-09,Pompano Beach,FL
+6223,"['Robert', 'Lee', 'Brown']",55,Male,Black,2016-09-07,Albany,GA
+6224,"['Sadiq', 'Bishara-Abaker', 'Idris']",25,Male,Black,2016-09-07,Wyoming,MI
+6229,"['Dylan', 'Papa']",25,Male,Black,2016-09-06,Phoenix,AZ
+6230,"['Moses', 'Ruben']",36,Male,Black,2016-09-05,Ennis,TX
+6234,"['Jerome', 'Damon']",25,Male,Black,2016-09-03,Atlantic City,NJ
+6239,"['Michael', 'Thompson', 'Jr.']",38,Male,Black,2016-09-02,St. Louis,MO
+6250,"['Levonia', 'Riggins']",22,Male,Black,2016-08-30,Tampa,FL
+6255,"['Jaqwan', 'Julius', 'Terry']",24,Male,Black,2016-08-29,Raleigh,NC
+6260,"['Alfred', 'Toe']",34,Male,Black,2016-08-27,Trenton,NJ
+6262,"['Donta', 'Taylor']",31,Male,Black,2016-08-25,Compton,CA
+6270,"['Kelley', 'Brandon', 'Forte']",34,Male,Black,2016-08-22,Hamilton,OH
+6272,"['Brandon', 'Coles']",25,Male,Black,2016-08-21,Dinwiddie,VA
+6273,"['Bernie', 'Porche']",37,Male,Black,2016-08-21,New Orleans,LA
+6288,"['Omer', 'Ismail', 'Ali']",27,Male,Black,2016-08-17,Kelso,WA
+6293,"['Colby', 'Friday']",30,Male,Black,2016-08-16,Stockton,CA
+6294,"['Kenney', 'Watkins']",18,Male,Black,2016-08-16,Los Angeles ,CA
+6301,"['Kendrick', 'Brown']",18,Male,Black,2016-08-13,Monticello,AR
+6302,"['Sylville', 'Smith']",23,Male,Black,2016-08-13,Milwaukee,WI
+6318,"['Darnell', 'Wicker']",57,Male,Black,2016-08-08,Louisville ,KY
+6320,"['Earl', '""Shaleek""', 'Pinckney']",20,Male,Black,2016-08-07,Harrisburg,PA
+6321,"['Jawari', 'Porter']",25,Male,Black,2016-08-07,Cincinnati,OH
+6323,"['Jamarion', 'Rashad', 'Robinson']",26,Male,Black,2016-08-05,East Point,GA
+6331,"['Demarco', 'Newman']",43,Male,Black,2016-08-02,Palm Bay,FL
+6337,"['Korryn', 'Gaines']",23,Female,Black,2016-08-01,Randallstown,MD
+6338,"['Richard', 'Gene', 'Swihart']",32,Male,Black,2016-08-01,Santa Ana,CA
+6342,"['Limichael', 'Shine']",18,Male,Black,2016-07-31,Manchester Township,NJ
+6348,"['Paul', ""O'Neal""]",18,Male,Black,2016-07-28,Chicago,IL
+6349,"['Jeffrey', 'Smith']",47,Male,Black,2016-07-28,La Quinta,CA
+6351,"['Donnell', 'Thompson', 'Jr.']",27,Male,Black,2016-07-28,Compton,CA
+6352,"['Devon', 'Martes']",17,Male,Black,2016-07-27,Metairie,LA
+6356,"['Dalvin', 'Hollins']",19,Male,Black,2016-07-27,Tempe,AZ
+6362,"['Jeff', 'Cornell', 'Tyson']",32,Male,Black,2016-07-25,Indianapolis,IN
+6364,"['Richard', 'Risher', 'Jr.']",18,Male,Black,2016-07-25,Los Angeles ,CA
+6367,"['Austin', 'Jerry', 'Lee', 'Howard', 'Jr.']",49,Male,Black,2016-07-23,Milwaukee,WI
+6368,"['Bernard', 'Wells', 'III']",31,Male,Black,2016-07-23,Chino,CA
+6372,"['Derek', 'Love']",50,Male,Black,2016-07-21,Chicago,IL
+6377,"['Jermaine', 'Johnson']",42,Male,Black,2016-07-17,Brooklyn,NY
+6379,"['Gavin', 'Eugene', 'Long']",29,Male,Black,2016-07-17,Baton Rouge,LA
+6385,"['Dayten', 'Ernest', 'Harper']",33,Male,Black,2016-07-14,Baltimore,MD
+6386,"['Isaiah', 'Soehngen']",18,Male,Black,2016-07-14,Marion,IN
+6388,"['DeAngelo', 'W.', 'Webb']",35,Male,Black,2016-07-13,Oklahoma City ,OK
+6392,"['Joseph', 'Mann']",50,Male,Black,2016-07-11,Sacramento,CA
+6395,"['Jason', 'Brooks']",41,Male,Black,2016-07-11,East St Louis,IL
+6396,"['Orville', 'Edwards']",39,Male,Black,2016-07-11,Brooklyn,NY
+6397,"['Alva', 'Braziel']",38,Male,Black,2016-07-10,Houston,TX
+6398,"['Andre', 'Johnson']",40,Male,Black,2016-07-09,Broken Bow,OK
+6399,"['Tyler', 'Gebhard']",20,Male,Black,2016-07-09,Lakeshire,MO
+6401,"['Micah', 'Xavier', 'Johnson']",25,Male,Black,2016-07-07,Dallas,TX
+6402,"['Earnest', 'Fells']",63,Male,Black,2016-07-07,Selma,AL
+6406,"['Kenyatta', 'Lee', 'Moorehead']",36,Male,Black,2016-07-06,Raymond,MS
+6408,"['Philando', 'Castile']",32,Male,Black,2016-07-06,Falcon Heights,MN
+6411,"['Alton', 'Sterling']",37,Male,Black,2016-07-05,Baton Rouge,LA
+6413,"['Dannie', 'Lee', 'Whitmore']",29,Unknown,Black,2016-07-04,Rosser,TX
+6414,"['Delrawn', 'Small']",37,Male,Black,2016-07-04,Brooklyn,NY
+6416,"['Sidney', 'Washington', 'Jr.']",21,Male,Black,2016-07-04,Washington,DC
+6421,"['Jai', '""Jerry""', 'Williams']",35,Male,Black,2016-07-02,Asheville,NC
+6426,"['Ronald', 'Arrington']",22,Male,Black,2016-07-01,Chicago,IL
+6428,"['Jimmy', 'Malone']",26,Male,Black,2016-07-01,Chicago,IL
+6430,"['Kawme', 'Patrick']",25,Male,Black,2016-06-30,Columbus,OH
+6433,"['Tyrone', 'Reado']",50,Male,Black,2016-06-29,Monroe,LA
+6435,"['Lafayette', 'Evans']",37,Male,Black,2016-06-29,Fort Madison,IA
+6441,"['Sherman', 'Evans']",63,Male,Black,2016-06-27,Washington,DC
+6443,"['Germichael', 'Kennedy']",22,Male,Black,2016-06-26,Lincoln,NE
+6446,"['Donte', 'Johnson']",30,Male,Black,2016-06-26,Dolton,IL
+6451,"['Ismael', 'Miranda']",36,Male,Black,2016-06-24,Paterson,NJ
+6456,"['Angelo', 'Brown']",35,Male,Black,2016-06-23,Belleville,IL
+6457,"['Jay', 'Anderson']",25,Male,Black,2016-06-23,Wauwatosa,WI
+6461,"['Quencezola', 'Splunge']",44,Male,Black,2016-06-22,Walls,MS
+6462,"['Deravis', 'Rogers']",22,Male,Black,2016-06-22,Atlanta,GA
+6463,"['Antonio', 'Richardson']",46,Male,Black,2016-06-22,Flint,MI
+6464,"['Isaiah', 'Core', 'III']",20,Male,Black,2016-06-22,Birmingham,AL
+6470,"['Raphael', 'M.', 'Bostick']",23,Male,Black,2016-06-20,Hardeeville,SC
+6471,"['Terry', 'Maddox', 'aka', 'Gary', 'Porter']",41,Male,Black,2016-06-19,Syracuse,NY
+6472,"['Rashaun', 'Lloyd']",25,Male,Black,2016-06-19,Bronx,NY
+6473,"['Anthony', 'Ford']",30,Male,Black,2016-06-19,Fort Walton Beach,FL
+6474,"['Clarence', 'Mahogany', 'X.', 'Howard']",22,Male,Black,2016-06-19,Palm Bay,FL
+6477,"['Antwun', 'Shumpert']",37,Male,Black,2016-06-18,Tupelo,MS
+6485,"['Mohammad', 'Sadegh', 'Moghaddam']",54,Male,Black,2016-06-14,Amarillo,TX
+6488,"['Frank', 'Anthony', 'Kelley']",38,Male,Black,2016-06-13,Grand Rapids,MI
+6492,"['Michael', 'Moore']",18,Male,Black,2016-06-13,Mobile,AL
+6494,"['John', 'Williams']",61,Male,Black,2016-06-12,Glasgow,KY
+6496,"['Lyndarius', 'Witherspoon']",27,Male,Black,2016-06-11,Tupelo,MS
+6499,"['Keith', 'Bursey']",31,Male,Black,2016-06-10,Los Angeles ,CA
+6503,"['Lorez', 'Rayfond', 'Chambers']",43,Male,Black,2016-06-09,Oklahoma City ,OK
+6506,"['John', 'Michael', 'Brisco']",52,Male,Black,2016-06-09,Port Arthur,TX
+6510,"['Willis', 'Walker', 'Jr.']",49,Male,Black,2016-06-07,Culpeper,VA
+6514,"['Henry', 'Green']",23,Male,Black,2016-06-06,Columbus,OH
+6517,"['Demarco', 'Rhymes']",35,Male,Black,2016-06-04,Eufaula,AL
+6523,"['Willie', 'Demetrius', '""Meat-Meat""', 'James']",43,Male,Black,2016-06-02,Norfolk,VA
+6524,"['Rodney', 'Rodriguez', 'Smith']",18,Male,Black,2016-06-02,Charlotte,NC
+6526,"['Michael', 'Johnson']",21,Male,Black,2016-06-01,Newnan,GA
+6529,"['Osee', 'Calix']",33,Male,Black,2016-05-30,Tucson ,AZ
+6536,"['Ollie', 'Lee', 'Brooks']",64,Male,Black,2016-05-28,Tulsa,OK
+6539,"['Dennis', 'Hudson']",50,Male,Black,2016-05-28,Eastaboga,AL
+6545,"['Devonte', 'Gates']",21,Male,Black,2016-05-26,Washington Park,IL
+6549,"['Doll', 'Pierre', 'Louis']",24,Male,Black,2016-05-25,Miami Gardens,FL
+6554,"['Vernell', 'Bing', 'Jr']",22,Male,Black,2016-05-22,Jacksonville,FL
+6556,"['Michael', 'Eugene', 'Wilson', 'Jr.']",27,Male,Black,2016-05-22,Hallandale Beach,FL
+6561,"['Joshua', 'S.', 'Beebee']",31,Male,Black,2016-05-20,Omaha ,NE
+6565,"['Kentrill', 'William', 'Carraway']",22,Male,Black,2016-05-19,Miami,FL
+6566,"['Jessica', 'Williams']",29,Female,Black,2016-05-19,San Francisco,CA
+6572,"['Jabril', 'Robinson']",23,Male,Black,2016-05-16,Riverdale,GA
+6581,"['Sean', 'Ryan', 'Mondragon']",24,Male,Black,2016-05-11,Evans,CO
+6586,"['Arthur', 'DaRosa']",28,Male,Black,2016-05-10,Taunton,MA
+6588,"['Arthur', 'R.', 'Williams', 'Jr.']",33,Male,Black,2016-05-09,El Paso,TX
+6590,"['Jaffort', 'Demont', 'Smith']",33,Male,Black,2016-05-09,St. Paul,MN
+6593,"['Lionel', 'Gibson']",21,Male,Black,2016-05-08,Long Beach,CA
+6596,"['Alton', 'Witchard']",37,Male,Black,2016-05-07,Saint Petersburg,FL
+6598,"['Ronald', 'D.', 'Williams', 'Jr.']",23,Male,Black,2016-05-06,Weirton,WV
+6599,"['Deresha', 'Armstrong']",26,Female,Black,2016-05-05,Orlando,FL
+6601,"['Burt', 'T.', 'Johnson']",38,Male,Black,2016-05-05,Milwaukee,WI
+6607,"['Reginald', 'Darnell', 'Dogan']",52,Male,Black,2016-05-02,Taylors ,SC
+6608,"['Benston', 'Calvin', 'Clinkscales']",26,Male,Black,2016-05-01,Anderson,SC
+6609,"['Charlin', 'Charles']",25,Male,Black,2016-05-01,Orlando,FL
+6618,"['Ashtain', 'Barnes']",24,Male,Black,2016-04-28,Houston,TX
+6624,"['Joshua', 'Brooks']",26,Male,Black,2016-04-26,Chesapeake,VA
+6630,"['Willie', 'Tillman']",33,Male,Black,2016-04-23,Fayetteville,AR
+6631,"['Demarcus', 'Semer']",21,Male,Black,2016-04-23,Fort Pierce,FL
+6634,"['Orlando', 'Collins']",28,Male,Black,2016-04-23,Topeka,KS
+6643,"['Jorevis', 'Scruggs']",15,Male,Black,2016-04-19,St. Louis,MO
+6644,"['Rico', 'Johnson']",28,Male,Black,2016-04-18,Greenbelt,MD
+6645,"['Demetrius', 'Dorsey']",18,Male,Black,2016-04-18,Mableton,GA
+6646,"['Richard', 'Bard', 'Jr.']",31,Male,Black,2016-04-17,Vineland,NJ
+6647,"['Edson', 'Thevenin']",37,Male,Black,2016-04-17,Troy,NY
+6648,"['Kisha', 'Arrone']",35,Female,Black,2016-04-17,Dayton,OH
+6649,"['George', 'Tillman']",32,Male,Black,2016-04-17,New York,NY
+6654,"['Robert', 'Howard']",44,Male,Black,2016-04-15,Baltimore,MD
+6659,"['Rodney', 'Watts']",35,Male,Black,2016-04-13,Stockton,CA
+6663,"['Pierre', 'Loury']",16,Male,Black,2016-04-11,Chicago,IL
+6669,"['Quron', 'Williams']",19,Male,Black,2016-04-09,Philadelphia,PA
+6670,"['Diahlo', 'Grant']",27,Male,Black,2016-04-09,New Brunswick,NJ
+6671,"['Lamont', 'Gulley']",43,Male,Black,2016-04-08,Kentwood,MI
+6672,"['Dazion', 'Flenaugh']",40,Male,Black,2016-04-08,Sacramento,CA
+6677,"['Laronda', 'Sweatt']",40,Female,Black,2016-04-06,Gallatin,TN
+6681,"['Kevin', 'Hicks']",44,Male,Black,2016-04-05,Indianapolis,IN
+6687,"['Cameron', 'Gover']",30,Male,Black,2016-04-02,Indianapolis,IN
+6690,"['James', 'Brown', 'III']",34,Male,Black,2016-03-31,Richmond,VA
+6691,"['James', 'Craig', 'Simpson']",31,Male,Black,2016-03-31,Las Vegas,NV
+6692,"['Kimani', 'Johnson']",18,Male,Black,2016-03-31,Baltimore,MD
+6693,"['Matthew', 'Wood']",43,Male,Black,2016-03-31,Baltimore,MD
+6701,"['Deriante', 'Deon', 'Miller']",18,Male,Black,2016-03-27,Kinston,NC
+6710,"['Jermon', 'Seals']",22,Male,Black,2016-03-24,Blue Springs,MO
+6715,"['Dominique', '""Nonny""', 'Silva']",24,Male,Black,2016-03-24,Pawtucket,RI
+6716,"['Alexio', 'Allen']",30,Male,Black,2016-03-23,Memphis,TN
+6725,"['Robert', 'Dentmond']",16,Male,Black,2016-03-20,Gainesville,FL
+6729,"['India', 'M.', 'Beaty']",25,Female,Black,2016-03-19,Norfolk,VA
+6731,"['Torrey', 'Lamar', 'Robinson']",35,Male,Black,2016-03-19,Port Richey,FL
+6732,"['Thurman', 'Reynolds']",21,Male,Black,2016-03-19,Park Forest,IL
+6736,"['Scott', 'Bennett']",29,Male,Black,2016-03-17,Houston,TX
+6739,"['Christopher', 'Nelms']",30,Male,Black,2016-03-17,Houston,TX
+6747,"['Lamar', 'Harris']",29,Male,Black,2016-03-14,Chicago,IL
+6749,"['Keith', 'Montgomery', 'Jr.']",24,Male,Black,2016-03-13,Chester,PA
+6750,"['Jacai', 'Colson']",28,Male,Black,2016-03-13,Landover,MD
+6756,"['Peter', 'William', 'Gaines']",37,Male,Black,2016-03-12,Houston,TX
+6759,"['Marco', 'Antonio', 'Loud']",20,Male,Black,2016-03-12,Houston,TX
+6762,"['Tyre', 'Privott']",25,Male,Black,2016-03-11,Norfolk,VA
+6767,"['Arteair', 'Porter']",22,Male,Black,2016-03-10,Reno,NV
+6790,"['Akiel', 'Rakim', 'Lakeith', 'Denkins']",24,Male,Black,2016-02-29,Raleigh,NC
+6795,"['Kionte', 'DeShaun', 'Spencer']",18,Male,Black,2016-02-26,Cave Spring,VA
+6796,"['Greg', 'Gunn']",56,Male,Black,2016-02-25,Montgomery,AL
+6798,"['Cedric', 'Larry', 'Ford']",38,Male,Black,2016-02-25,Hesston,KS
+6801,"['Christopher', 'J.', 'Davis']",21,Male,Black,2016-02-24,East Troy,WI
+6808,"['Travis', 'Stevenson']",48,Male,Black,2016-02-23,Baton Rouge,LA
+6810,"['Thomas', 'Lane']",37,Male,Black,2016-02-22,West Haven,CT
+6816,"['Kisha', 'Michael']",31,Female,Black,2016-02-21,Inglewood,CA
+6817,"['Marquintan', 'Sandlin']",32,Male,Black,2016-02-21,Inglewood,CA
+6818,"['Che', 'Andre', 'Taylor']",46,Male,Black,2016-02-21,Seattle,WA
+6822,"['Marcos', 'Perea']",41,Male,Black,2016-02-20,Lakewood,WA
+6830,"['Paul', 'Gaston']",37,Male,Black,2016-02-17,Cincinnati,OH
+6840,"['Calin', 'Devante', 'Roquemore']",24,Male,Black,2016-02-13,Beckville,TX
+6841,"['Dyzhawn', 'L.', 'Perkins']",19,Male,Black,2016-02-13,Arvonia,VA
+6842,"['Ali', 'Eisa', 'Abdalla', 'Yahia']",29,Male,Black,2016-02-13,Urbandale,IA
+6843,"['Calvin', 'Smith']",22,Male,Black,2016-02-13,Baton Rouge,LA
+6844,"['Peter', 'Fanfan']",29,Male,Black,2016-02-12,Boston,MA
+6845,"['Jerand', 'Ross']",24,Male,Black,2016-02-12,Riverdale,GA
+6846,"['Sahlah', 'Ridgeway']",32,Female,Black,2016-02-12,Syracuse,NY
+6848,"['Johnathan', 'Fowler']",32,Male,Black,2016-02-12,College Park,GA
+6849,"['Mohamed', 'Barry']",30,Male,Black,2016-02-11,Columbus,OH
+6861,"['David', 'Joseph']",17,Male,Black,2016-02-08,Austin,TX
+6862,"['Shalamar', 'Longer']",33,Male,Black,2016-02-08,Chester,PA
+6863,"['Eric', 'Harris']",22,Male,Black,2016-02-08,New Orleans,LA
+6865,"['Marese', 'Vince', 'Collins']",23,Male,Black,2016-02-07,Columbus,OH
+6872,"['Wendell', 'Celestine', 'Jr.']",37,Male,Black,2016-02-05,Antioch,CA
+6875,"['Antronie', 'Scott']",36,Male,Black,2016-02-04,San Antonio,TX
+6885,"['Peter', 'John']",36,Male,Black,2016-02-01,Washington,DC
+6889,"['Bruce', 'Kelley', 'Jr.']",37,Male,Black,2016-01-31,Pittsburgh,PA
+6893,"['Charles', 'M.', 'Smith']",29,Male,Black,2016-01-30,Chicago,IL
+6896,"['Randolph', 'McClain']",33,Male,Black,2016-01-29,Lynn,MA
+6898,"['Christopher', 'Michael', 'Dew']",29,Male,Black,2016-01-29,Irving,TX
+6901,"['Christopher', 'Kalonji']",19,Male,Black,2016-01-28,Oak Grove,OR
+6905,"['Johnathan', 'Bratcher']",32,Male,Black,2016-01-27,Memphis,TN
+6909,"['Janet', 'Wilson']",31,Female,Black,2016-01-27,Dearborn,MI
+6916,"['Cedric', 'Lamont', 'Norris']",39,Male,Black,2016-01-21,Eufaula,OK
+6919,"['Timothy', 'R.', 'Albert']",40,Male,Black,2016-01-20,Port Barre,LA
+6932,"['Crayton', 'West']",52,Male,Black,2016-01-17,St. Louis,MO
+6938,"['Henry', 'Bennett']",19,Male,Black,2016-01-16,Belle Glade,FL
+6941,"['Rakeem', 'Bentley']",24,Male,Black,2016-01-15,Southfield,MI
+6964,"['Carlton', 'Antonio', 'Murphy']",33,Male,Black,2016-01-05,Charlotte,NC
+6966,"['Eric', 'John', 'Senegal']",27,Male,Black,2016-01-04,Ragley,LA
+6967,"['Rodney', 'Turner']",22,Male,Black,2016-01-04,Oklahoma City ,OK
+6968,"['Germonta', 'Wallace']",30,Male,Black,2016-01-03,Charlotte,NC
+6973,"['Keith', 'Childress']",23,Male,Black,2015-12-31,Las Vegas,NV
+6983,"['Quintonio', 'Legrier']",19,Male,Black,2015-12-26,Chicago,IL
+6985,"['Bettie', 'Jones']",55,Female,Black,2015-12-26,Chicago,IL
+6990,"['Daquan', 'Antonio', 'Westbrook']",18,Male,Black,2015-12-24,Charlotte,NC
+6991,"['Terrozza', 'Tyree', 'Griffin']",24,Male,Black,2015-12-24,Lansing,MI
+6993,"['Kevin', 'Matthews']",35,Male,Black,2015-12-23,Dearborn,MI
+7000,"['Bobby', 'Daniels']",48,Male,Black,2015-12-21,Douglasville,GA
+7001,"['Michael', 'Noel']",32,Male,Black,2015-12-21,St Martinville,LA
+7002,"['Chan', 'Leith']",25,Male,Black,2015-12-21,Denver,CO
+7008,"['Lionel', 'Waters']",35,Male,Black,2015-12-20,Harrington,DE
+7009,"['Leroy', 'Browning']",30,Male,Black,2015-12-20,Palmdale,CA
+7011,"['Trevon', 'Scruggs']",24,Male,Black,2015-12-19,Concord,VA
+7019,"['Ronnie', 'Dubose', 'Carr']",51,Male,Black,2015-12-15,Dallas,NC
+7023,"['Calvin', 'McKinnis']",33,Male,Black,2015-12-14,New Orleans,LA
+7033,"['Nicholas', 'Robertson']",28,Male,Black,2015-12-12,Lynwood,CA
+7035,"['Javario', 'Shante', 'Eagle']",24,Male,Black,2015-12-12,Chattanooga,TN
+7039,"['Christopher', 'Goodlow']",25,Male,Black,2015-12-12,Indianapolis,IN
+7042,"['Charles', 'Rosemond', 'Sr']",55,Male,Black,2015-12-10,Taylors ,SC
+7047,"['Dimitrie', 'Penny']",32,Male,Black,2015-12-09,Tallahassee,FL
+7049,"['Derek', 'Stokes']",33,Male,Black,2015-12-08,Cleveland,OH
+7050,"['Miguel', 'Espinal']",36,Male,Black,2015-12-08,Yonkers,NY
+7051,"['Devon', 'Holder']",30,Male,Black,2015-12-07,New York,NY
+7052,"['Carlumandarlo', 'Zaramo']",46,Male,Black,2015-12-06,Richmond Heights,OH
+7060,"['Raymone', 'Davis']",21,Male,Black,2015-12-04,Pittsburgh,PA
+7065,"['Mario', 'Woods']",26,Male,Black,2015-12-02,San Francisco,CA
+7072,"['Darius', 'Smith']",18,Male,Black,2015-11-30,Atlanta,GA
+7087,"['Freddy', 'Baez']",24,Male,Black,2015-11-24,Camden,NJ
+7098,"['Nathaniel', 'Pickett']",29,Male,Black,2015-11-20,Barstow,CA
+7100,"['Randy', 'Allen', 'Smith']",34,Male,Black,2015-11-19,Bradenton,FL
+7101,"['Steve', 'Dormil']",27,Male,Black,2015-11-19,Fort Pierce,FL
+7102,"['Darick', 'Napper']",34,Male,Black,2015-11-19,Washington,DC
+7103,"['Cornelius', 'Brown']",25,Male,Black,2015-11-18,Opa-locka,FL
+7104,"['Marcus', 'Deon', 'Meridy']",44,Male,Black,2015-11-18,Benton Harbor,MI
+7105,"['Tiara', 'Thomas']",30,Female,Black,2015-11-18,Portage,IN
+7107,"['Yohans', 'Leon']",28,Male,Black,2015-11-17,Miami,FL
+7109,"['Demetrius', 'Shelley', 'Bryant']",21,Male,Black,2015-11-17,Cayce,SC
+7111,"['Jeray', 'Chatham']",30,Male,Black,2015-11-17,Houston,TX
+7114,"['Jamar', 'Clark']",24,Male,Black,2015-11-15,Minneapolis,MN
+7116,"['Shane', 'Tyler', 'Whitehead']",16,Male,Black,2015-11-15,Philadelphia,PA
+7117,"['Richard', 'Perkins']",39,Male,Black,2015-11-15,Oakland,CA
+7119,"['Rashad', 'Bugg-Bey']",25,Male,Black,2015-11-14,Washington,DC
+7127,"['Ryan', 'Quinn', 'Martin']",32,Male,Black,2015-11-11,Baltimore,MD
+7132,"['Antonio', 'Henry']",22,Male,Black,2015-11-09,Oveido,FL
+7136,"['Adarius', 'Brown']",22,Male,Black,2015-11-09,Oveido,FL
+7137,"['Delvin', 'Tyrell', 'Simmons']",20,Male,Black,2015-11-09,Spartanburg,SC
+7148,"['John', 'Edward', 'Allen']",57,Male,Black,2015-11-04,Houston,TX
+7152,"['James', 'Covington', 'Jr.']",62,Male,Black,2015-11-02,Washington,DC
+7156,"['Alonzo', 'Smith']",27,Male,Black,2015-11-01,Washington,DC
+7157,"['Bennie', 'Lee', 'Tignor']",56,Male,Black,2015-10-31,Opelika,AL
+7160,"['Tony', 'Berry']",25,Male,Black,2015-10-30,Houston,TX
+7162,"['Brian', 'Crawford']",20,Male,Black,2015-10-30,Houston,TX
+7166,"['Deaunte', 'Lamar', 'Bell']",25,Male,Black,2015-10-29,Columbus,OH
+7170,"['Anthony', 'Ashford']",29,Male,Black,2015-10-28,San Diego,CA
+7171,"['Jerry', 'Michael', 'Graham', 'Jr.']",34,Male,Black,2015-10-28,Jacksonville,FL
+7172,"['Tyrie', 'Cuyler']",25,Male,Black,2015-10-27,Savannah,GA
+7174,"['Kevin', 'T.', 'Brunson']",45,Male,Black,2015-10-26,Frederick,MD
+7175,"['Marquesha', 'McMillan']",21,Female,Black,2015-10-26,Washington,DC
+7178,"['Rolly', 'Thomas']",34,Male,Black,2015-10-24,Cape Coral,FL
+7184,"['Dominic', 'Hutchinson']",30,Male,Black,2015-10-24,Cathedral City,CA
+7185,"['Charles', 'A.', 'Pettit']",18,Male,Black,2015-10-23,Midwest City,OK
+7186,"['Adriene', 'Jamarr', 'Ludd']",36,Male,Black,2015-10-22,Carmichael,CA
+7187,"['Lawrence', 'Green']",38,Male,Black,2015-10-22,Shreveport,LA
+7195,"['Lamontez', 'Jones']",39,Male,Black,2015-10-20,San Diego,CA
+7199,"['Dion', 'Lamont', 'Ramirez']",53,Male,Black,2015-10-19,Los Angeles ,CA
+7203,"['Corey', 'Jones']",31,Male,Black,2015-10-18,Palm Beach,FL
+7204,"['Rayshaun', 'Cole']",30,Male,Black,2015-10-17,Chula Vista,CA
+7205,"['Paterson', 'Brown', 'Jr.']",18,Male,Black,2015-10-17,Richmond,VA
+7207,"['Dequan', 'L.', 'Williams']",28,Male,Black,2015-10-17,York,PA
+7211,"['Ricky', 'Javenta', 'Ball']",33,Male,Black,2015-10-16,Columbus,MS
+7213,"['Martin', 'Ryans']",20,Male,Black,2015-10-15,Houston,TX
+7218,"['Kaleb', 'Alexander']",25,Male,Black,2015-10-15,Columbus,OH
+7221,"['Leslie', 'Portis']",57,Male,Black,2015-10-14,Evergreen,AL
+7226,"['Jason', 'Day']",40,Male,Black,2015-10-12,Lawton,OK
+7230,"['Bernard', 'Brandon', 'Powers']",23,Male,Black,2015-10-11,Taylors ,SC
+7245,"['Jeffery', 'McCallum']",31,Male,Black,2015-10-04,Chicago,IL
+7251,"['Brandon', 'Johnson']",28,Male,Black,2015-09-30,Beckley,WV
+7254,"['Junior', 'Prosper']",31,Male,Black,2015-09-28,North Miami,FL
+7260,"['Anthony', 'McKinney']",46,Male,Black,2015-09-26,Baton Rouge,LA
+7261,"['James', 'Anderson']",33,Male,Black,2015-09-25,Chicago,IL
+7266,"['Ernesto', 'Medina', 'López']",42,Male,Black,2015-09-24,Miami,FL
+7269,"['Robert', 'Richard', 'Berger']",48,Male,Black,2015-09-23,Salt Lake City,UT
+7270,"['Jeremy', 'McDole']",28,Male,Black,2015-09-23,Wilmington,DE
+7272,"['Keith', 'Harrison', 'McLeod']",19,Male,Black,2015-09-23,Reisterstown,MD
+7274,"['Dante', 'Osborne']",32,Male,Black,2015-09-22,Haywood,CA
+7294,"['Bobby', 'R.', 'Anderson']",27,Male,Black,2015-09-15,Alexandria,LA
+7295,"['Tyrone', 'Bass']",21,Male,Black,2015-09-15,Chalmette,LA
+7299,"['Joseph', 'Thomas', 'Johnson-Shanks']",25,Male,Black,2015-09-14,Eddyville,KY
+7302,"['Clifford', 'Butler', 'Jr.']",67,Male,Black,2015-09-13,Pond Creek,OK
+7309,"['Brandon', 'Foy']",29,Male,Black,2015-09-10,Indianapolis,IN
+7313,"['Tyrone', 'L.', 'Holman']",37,Male,Black,2015-09-09,Kansas City,MO
+7320,"['Wayne', 'Wheeler']",41,Male,Black,2015-09-07,Detroit,MI
+7324,"['Lavante', 'Biggs']",21,Male,Black,2015-09-05,Durham,NC
+7325,"['India', 'Kager']",28,Female,Black,2015-09-05,Virginia Beach,VA
+7328,"['Angelo', 'Delano', 'Perry']",35,Male,Black,2015-09-05,Virginia Beach,VA
+7336,"['Cedric', 'Maurice', 'Williams']",33,Male,Black,2015-09-01,Bluefield,WV
+7340,"['James', 'Carney', 'III']",48,Male,Black,2015-08-31,Cincinnati,OH
+7344,"['James', 'Brown', 'III']",25,Male,Black,2015-08-29,North Las Vegas,NV
+7350,"['Felix', 'Kumi']",61,Male,Black,2015-08-28,Mt. Vernon,NY
+7352,"['Bertrand', 'Davis']",42,Male,Black,2015-08-27,Dallas,TX
+7354,"['Yonas', 'Alehegne']",30,Male,Black,2015-08-27,Oakland,CA
+7361,"['Curtis', 'Smith']",34,Male,Black,2015-08-25,West Chester,PA
+7363,"['Bobby', 'Norris']",53,Male,Black,2015-08-23,Archdale,NC
+7370,"['Thaddeus', 'Faison']",39,Male,Black,2015-08-22,Troy,NY
+7381,"['Deviere', 'Ransom']",24,Male,Black,2015-08-19,Bloomfield Hills,MI
+7383,"['Mansur', 'Ball-Bey']",18,Male,Black,2015-08-19,St. Louis,MO
+7385,"['Frederick', 'Roy']",35,Male,Black,2015-08-17,Houston,TX
+7390,"['Allen', 'Baker', 'III']",23,Male,Black,2015-08-15,Sunnyvale,CA
+7392,"['Benjamin', 'Ashley']",34,Male,Black,2015-08-15,Inyokern,CA
+7395,"['Asshams', 'Manley']",30,Male,Black,2015-08-14,Spauldings,MD
+7397,"['Garland', 'Tyree']",38,Male,Black,2015-08-14,New York,NY
+7399,"['Redel', 'Jones']",30,Female,Black,2015-08-12,Los Angeles ,CA
+7400,"['Nathaniel', 'Wilks']",27,Male,Black,2015-08-12,Oakland,CA
+7401,"['Reginald', 'Marshall']",27,Male,Black,2015-08-12,Toledo,OH
+7409,"['Andre', 'Green']",15,Male,Black,2015-08-09,Indianapolis,IN
+7411,"['Shamir', 'Palmer']",24,Male,Black,2015-08-08,Summerville,SC
+7418,"['Derrick', 'Hunt']",28,Male,Black,2015-08-07,Long Beach,CA
+7419,"['Christian', 'Taylor']",19,Male,Black,2015-08-07,Arlington,TX
+7421,"['Tsombe', 'Clark']",25,Male,Black,2015-08-07,Greenville,NC
+7422,"['Max', 'Gracia']",22,Male,Black,2015-08-06,Orlando,FL
+7423,"['Troy', 'Robinson']",32,Male,Black,2015-08-06,Decatur,GA
+7425,"['Charles', 'Bertram']",22,Male,Black,2015-08-06,El Paso,TX
+7430,"['Keshawn', 'Hargrove']",20,Male,Black,2015-08-05,Richmond,VA
+7431,"['Raymond', 'Hodge']",39,Male,Black,2015-08-05,Kahului,HI
+7432,"['Darius', 'Graves']",31,Male,Black,2015-08-04,Rantoul,IL
+7434,"['Antonio', 'Clements']",49,Male,Black,2015-08-03,Oakland,CA
+7450,"['Lawrence', 'Blackburn']",37,Male,Black,2015-07-29,Baton Rouge,LA
+7458,"['Khari', 'Westly']",33,Male,Black,2015-07-26,Shreveport,LA
+7459,"['Brian', 'Day']",36,Male,Black,2015-07-25,Las Vegas,NV
+7462,"['Earl', 'Jackson']",59,Male,Black,2015-07-25,Micanopy,FL
+7468,"['Dontae', 'Martin']",34,Male,Black,2015-07-23,Dayton,OH
+7470,"['Andre', 'Williams']",26,Male,Black,2015-07-22,Oklahoma City ,OK
+7472,"['Devon', 'Guisherd']",27,Male,Black,2015-07-22,Philadelphia,PA
+7481,"['Samuel', 'Dubose']",43,Male,Black,2015-07-19,Cincinnati,OH
+7487,"['Albert', 'Davis']",23,Male,Black,2015-07-17,Orlando,FL
+7488,"['Darrius', 'Stewart']",19,Male,Black,2015-07-17,Memphis,TN
+7495,"['Anthony', 'Smith']",25,Male,Black,2015-07-16,Moreno Valley,CA
+7497,"['Edward', 'Foster']",35,Male,Black,2015-07-16,Homestead,FL
+7501,"['Chacarion', 'Avant']",20,Male,Black,2015-07-14,Mascotte,FL
+7502,"['Frederick', 'Farmer']",20,Male,Black,2015-07-13,Stone Mountain,GA
+7510,"['Salvado', 'Ellswood']",36,Male,Black,2015-07-12,Plantation,FL
+7511,"['George', 'Mann']",53,Male,Black,2015-07-11,Stone Mountain,GA
+7514,"['Freddie', 'Blue']",20,Male,Black,2015-07-10,Covington,GA
+7515,"['Eugene', 'McSwain']",25,Male,Black,2015-07-10,Chicago,IL
+7518,"['Martice', 'Milliner']",27,Male,Black,2015-07-09,Chicago,IL
+7520,"['Javon', 'Hawkins']",21,Male,Black,2015-07-09,Kansas City,MO
+7523,"['Jonathan', 'Sanders']",39,Male,Black,2015-07-08,Stonewall,MS
+7527,"['Marcellus', 'Burley']",18,Male,Black,2015-07-07,Missouri City,TX
+7529,"['Tremaine', 'Dantzler']",37,Male,Black,2015-07-07,Atlantic City,NJ
+7535,"['Jason', 'Hendley']",29,Male,Black,2015-07-06,Los Angeles ,CA
+7544,"['Robert', 'Malone']",42,Male,Black,2015-07-04,Oklahoma City ,OK
+7545,"['Kawanza', 'Beaty']",23,Male,Black,2015-07-04,Newport News,VA
+7546,"['Maximo', 'Rabasa']",52,Male,Black,2015-07-04,Miami,FL
+7554,"['Victo', 'Larosa', 'III']",23,Male,Black,2015-07-02,Jacksonville,FL
+7558,"['Kevin', 'Judson']",24,Male,Black,2015-07-01,McMinnville,OR
+7565,"['Spencer', 'McCain']",41,Male,Black,2015-06-25,Owings Mills,MD
+7567,"['Damien', 'Harrell']",26,Male,Black,2015-06-24,Yorktown,VA
+7574,"['Tyrone', 'Harris']",20,Male,Black,2015-06-22,Pittsburgh,PA
+7578,"['Zamiel', 'Kivon', 'Crawford']",21,Male,Black,2015-06-20,McCalla,AL
+7579,"['Alfontish', 'Cockerham']",23,Male,Black,2015-06-20,Chicago,IL
+7580,"['Kevin', 'Bajoie']",32,Male,Black,2015-06-20,Baton Rouge,LA
+7582,"['Trepierre', 'Hummons']",21,Male,Black,2015-06-19,Cincinnati,OH
+7590,"['Kevin', 'Higgenbotham']",47,Male,Black,2015-06-15,Trenton,NJ
+7591,"['Kris', 'Jackson']",22,Male,Black,2015-06-15,South Lake Tahoe,CA
+7597,"['Deng', 'Manyoun']",35,Male,Black,2015-06-13,Louisville ,KY
+7601,"['Charles', 'Ziegler']",40,Male,Black,2015-06-11,Pompano Beach,FL
+7602,"['Fritz', 'Severe']",46,Male,Black,2015-06-11,Miami,FL
+7604,"['Isiah', 'Hampton']",19,Male,Black,2015-06-10,Bronx,NY
+7605,"['QuanDavier', 'Hicks']",22,Male,Black,2015-06-09,Cincinnati,OH
+7608,"['Ross', 'Anthony']",25,Male,Black,2015-06-09,Dallas,TX
+7620,"['Demouria', 'Hogg']",30,Male,Black,2015-06-06,Oakland,CA
+7621,"['Andrew', 'Ellerbe']",33,Male,Black,2015-06-05,Philadelphia,PA
+7629,"['Usaamah', 'Rahim']",26,Male,Black,2015-06-02,Roslindale,MA
+7633,"['Richard', 'Gregory', 'Davis']",50,Male,Black,2015-05-31,Rochester,NY
+7637,"['Kevin', 'K.', 'Allen']",36,Male,Black,2015-05-29,Lyndhurst,NJ
+7642,"['James', 'Edward', 'Strong', 'Jr.']",32,Male,Black,2015-05-28,Northglenn,CO
+7643,"['Kenneth', 'Joel', 'Dothard']",40,Male,Black,2015-05-28,Carrollton,GA
+7653,"['Dalton', 'Branch']",51,Male,Black,2015-05-26,New York,NY
+7654,"['Anthony', 'Dewayne', 'Briggs']",36,Male,Black,2015-05-25,Huntsville,AL
+7656,"['Caso', 'Jackson']",25,Male,Black,2015-05-23,Detroit,MI
+7660,"['Jerome', 'Thomas', 'Caldwell']",32,Male,Black,2015-05-21,Charleston,SC
+7664,"['Javoris', 'Reshaud', 'Washington']",29,Male,Black,2015-05-21,Fort Lauderdale,FL
+7665,"['Anthony', 'Quinn', 'Gomez', 'Jr.']",29,Male,Black,2015-05-20,Lancaster,PA
+7668,"['Chrislon', 'Talbott']",38,Male,Black,2015-05-20,Owensboro,KY
+7669,"['Marcus', 'D.', 'Wheeler']",26,Male,Black,2015-05-20,Omaha ,NE
+7676,"['Ronell', 'Wade']",45,Male,Black,2015-05-16,Harvey,IL
+7683,"[""D'Angelo"", 'Reyes', 'Stallworth']",28,Male,Black,2015-05-12,Jacksonville,FL
+7684,"['Dajuan', 'Graham']",40,Male,Black,2015-05-12,Silver Spring,MD
+7687,"['Kelvin', 'Antonie', 'Goldston']",30,Male,Black,2015-05-11,Fort Worth,TX
+7689,"['Lionel', 'Young']",34,Male,Black,2015-05-10,Landover,MD
+7690,"['Sam', 'Matthew', 'Holmes']",31,Male,Black,2015-05-08,Fridley,MN
+7693,"['Dedrick', 'Marshall']",48,Male,Black,2015-05-08,Harvey,LA
+7694,"['Nephi', 'Arriguin']",21,Male,Black,2015-05-07,Cerritos,CA
+7699,"['Brendon', 'Glenn']",29,Male,Black,2015-05-05,Los Angeles ,CA
+7702,"['Reginald', 'L.', 'Moore', 'Sr.']",44,Male,Black,2015-05-03,Greenville,MS
+7705,"['Elton', 'Simpson']",30,Male,Black,2015-05-03,Garland,TX
+7712,"['Alexia', 'Christian']",25,Female,Black,2015-04-29,Atlanta,GA
+7714,"['Jeffrey', 'O.', 'Adkins']",53,Male,Black,2015-04-29,Emporia,VA
+7717,"['Jared', 'Johnson']",21,Male,Black,2015-04-28,New Orleans,LA
+7720,"['Terrance', 'Kellom']",20,Male,Black,2015-04-27,Detroit,MI
+7726,"['David', 'Felix']",24,Male,Black,2015-04-25,New York,NY
+7729,"['Todd', 'Jamal', 'Dye']",20,Male,Black,2015-04-24,Trinidad,CO
+7736,"['William', 'Chapman']",18,Male,Black,2015-04-22,Portsmouth,VA
+7737,"['Reginald', 'McGregor']",31,Male,Black,2015-04-22,Fort Worth,TX
+7740,"['Daniel', 'Wolfe']",35,Male,Black,2015-04-21,Union,NJ
+7747,"['Freddie', 'Gray']",25,Male,Black,2015-04-19,Baltimore,MD
+7748,"['Norman', 'Cooper']",33,Male,Black,2015-04-19,San Antonio,TX
+7751,"['Thaddeus', 'McCarroll']",23,Male,Black,2015-04-17,Jennings,MO
+7752,"['Darrell', 'Lawrence', 'Brown']",31,Male,Black,2015-04-17,Hagerstown,MD
+7753,"['Jeffery', 'Kemp']",18,Male,Black,2015-04-17,Chicago,IL
+7758,"['Frank', 'Shephard', 'III']",41,Male,Black,2015-04-15,Houston,TX
+7759,"['Donte', 'Adaryll', 'Noble']",41,Male,Black,2015-04-15,Spartanburg,SC
+7762,"['Tevin', 'Barkley']",22,Male,Black,2015-04-15,Miami,FL
+7763,"['Colby', 'Robinson']",26,Male,Black,2015-04-14,Dallas,TX
+7768,"['Mack', 'Long']",36,Male,Black,2015-04-12,Indianapolis,IN
+7775,"['Don', 'Oneal', 'Smith', 'Jr.']",29,Male,Black,2015-04-09,Monon,IN
+7781,"['Dexter', 'Bethea']",42,Male,Black,2015-04-08,Valdosta,GA
+7786,"['Desmond', 'Willis']",25,Male,Black,2015-04-06,Harvey,LA
+7792,"['Paul', 'Anthony', 'Anderson']",31,Male,Black,2015-04-04,Anaheim,CA
+7793,"['Walter', 'Scott']",50,Male,Black,2015-04-04,North Charleston,SC
+7796,"['Justus', 'Howell']",17,Male,Black,2015-04-04,Zion,IL
+7798,"['Donald', '""Dontay""', 'Ivy']",39,Male,Black,2015-04-02,Albany,NY
+7799,"['Eric', 'Courtney', 'Harris']",44,Male,Black,2015-04-02,Tulsa,OK
+7801,"['Darrin', 'A.', 'Langford']",32,Male,Black,2015-04-02,Rock Island,IL
+7803,"['Robert', 'Washington']",37,Male,Black,2015-04-01,Hawthorne,CA
+7805,"['Phillip', 'White']",32,Male,Black,2015-03-31,Vineland,NJ
+7807,"['Maya', 'Hall']",27,Transgender,Black,2015-03-31,Fort George Meade,MD
+7808,"['Tyrail', 'Ezell']",31,Male,Black,2015-03-31,Nashville,TN
+7810,"['Dominick', 'R.', 'Wise']",30,Male,Black,2015-03-30,Culpeper,VA
+7813,"['Byron', 'Hebert']",29,Male,Black,2015-03-29,Elizabethtown,KY
+7815,"['Jason', 'Moland']",29,Male,Black,2015-03-29,Ceres,CA
+7816,"['Meagan', 'Hockaday']",26,Female,Black,2015-03-27,Oxnard,CA
+7818,"['Jamalis', 'Hall']",39,Male,Black,2015-03-27,Fort Pierce,FL
+7820,"['Douglas', 'Harris']",77,Male,Black,2015-03-27,Birmingham,AL
+7822,"['Angelo', 'West']",41,Male,Black,2015-03-27,Boston,MA
+7827,"['Jeremy', 'L.', 'Kelly']",27,Male,Black,2015-03-25,Johnsonville,SC
+7828,"['Nicholas', 'Thomas']",23,Male,Black,2015-03-25,Atlanta,GA
+7831,"['Walter', 'Brown', 'III']",29,Male,Black,2015-03-24,Portsmouth,VA
+7833,"['Devin', 'J.', 'Gates']",24,Male,Black,2015-03-23,Santa Clara,CA
+7836,"['Denzel', 'Brown']",21,Male,Black,2015-03-22,Islip,NY
+7841,"['Richard', 'White']",63,Male,Black,2015-03-20,Kenner,LA
+7844,"['Kendre', 'Alston']",16,Male,Black,2015-03-19,Jacksonville,FL
+7849,"['Brandon', 'Jones']",18,Male,Black,2015-03-19,Cleveland,OH
+7854,"['Askari', 'Roberts']",35,Male,Black,2015-03-17,Rome,GA
+7872,"['Bobby', 'Gross']",35,Male,Black,2015-03-12,Washington,DC
+7876,"['Terry', 'Garnett', 'Jr.']",37,Male,Black,2015-03-11,Elkton,MD
+7881,"['Theodore', 'Johnson']",64,Male,Black,2015-03-10,Cleveland,OH
+7883,"['Jamie', 'Croom']",31,Male,Black,2015-03-10,Baton Rouge,LA
+7884,"['Terrance', 'Moxley']",29,Male,Black,2015-03-10,Mansfield,OH
+7886,"['Cedrick', 'Lamont', 'Bishop']",30,Male,Black,2015-03-09,Cocoa,FL
+7887,"['Anthony', 'Hill']",27,Male,Black,2015-03-09,Chamblee,GA
+7889,"['Monique', 'Jenee', 'Deckard']",43,Female,Black,2015-03-08,Anaheim,CA
+7894,"['Andrew', 'Anthony', 'Williams']",48,Male,Black,2015-03-06,Melrose,FL
+7895,"['Tony', 'Terrell', 'Robinson']",19,Male,Black,2015-03-06,Madison,WI
+7896,"['Naeschylus', 'Vinzant']",37,Male,Black,2015-03-06,Aurora,CO
+7900,"['Tyrone', 'Ryerson', 'Lawrence']",45,Male,Black,2015-03-05,Milwaukee,WI
+7903,"['Fednel', 'Rhinvil']",25,Male,Black,2015-03-03,Salisbury,MD
+7905,"['Shaquille', 'Barrow']",20,Male,Black,2015-03-02,Joliet,IL
+7907,"['DeOntre', 'L.', 'Dorsey']",32,Male,Black,2015-03-01,White Plains,MD
+7908,"['Darrell', '""Hubbard""', 'Gatewood']",47,Male,Black,2015-03-01,Oklahoma City ,OK
+7909,"['Charly', 'Leundeu', '""Africa""', 'Keunang']",43,Male,Black,2015-03-01,Los Angeles ,CA
+7911,"['Ian', 'Sherrod']",40,Male,Black,2015-02-28,Tarboro,NC
+7914,"['Thomas', 'Allen', 'Jr.']",34,Male,Black,2015-02-28,Wellston,MO
+7917,"['Cornelius', 'J.', 'Parker']",28,Male,Black,2015-02-28,Columbia,MO
+7924,"['Glenn', 'C.', 'Lewis']",27,Male,Black,2015-02-25,Oklahoma City ,OK
+7931,"[""A'Donte"", 'Washington']",16,Male,Black,2015-02-23,Millbrook,AL
+7934,"['Calvon', 'A.', 'Reid']",39,Male,Black,2015-02-22,Coconut Creek,FL
+7940,"['Terry', 'Price']",41,Male,Black,2015-02-20,Tulsa,OK
+7941,"['Stanley', 'Lamar', 'Grant']",38,Male,Black,2015-02-20,Birmingham,AL
+7942,"['Janisha', 'Fonville']",20,Female,Black,2015-02-18,Charlotte,NC
+7953,"['Lavall', 'Hall']",25,Male,Black,2015-02-15,Miami Gardens,FL
+7962,"['Phillip', 'Watkins']",23,Male,Black,2015-02-11,San Jose,CA
+7964,"['Anthony', 'Bess']",49,Male,Black,2015-02-10,Memphis,TN
+7967,"['Desmond', 'Luster', 'Sr.']",45,Male,Black,2015-02-09,Dallas,TX
+7970,"['Natasha', 'McKenna']",37,Female,Black,2015-02-08,Fairfax,VA
+7972,"['Joseph', 'Paffen']",46,Male,Black,2015-02-08,Orlando,FL
+7976,"['James', 'Howard', 'Allen']",74,Male,Black,2015-02-07,Gastonia,NC
+7977,"['Herbert', 'Hill']",25,Male,Black,2015-02-06,Oklahoma City ,OK
+7979,"['Jimmy', 'Ray', 'Robinson', 'Jr.']",51,Male,Black,2015-02-04,Lorena,TX
+7980,"['Jeremy', 'Lett']",28,Male,Black,2015-02-04,Tallahassee,FL
+7983,"['Markell', 'Atkins']",36,Male,Black,2015-02-04,Memphis,TN
+7985,"['Dewayne', 'Deshawn', 'Ward', 'Jr.']",29,Male,Black,2015-02-03,Antioch,CA
+7987,"['Yuvette', 'Henderson']",38,Female,Black,2015-02-03,Emeryville,CA
+7989,"['Ledarius', 'D.', 'Williams']",23,Male,Black,2015-02-03,St. Louis,MO
+7994,"['Edward', 'Donnell', 'Bright', 'Sr.']",54,Male,Black,2015-01-31,Randallstown,MD
+8002,"['Jermonte', 'Fletcher']",33,Male,Black,2015-01-27,Columbus,OH
+8011,"['Darin', 'Hutchins']",26,Male,Black,2015-01-24,Baltimore,MD
+8014,"['Demaris', 'Turner']",29,Male,Black,2015-01-23,Lauderhill,FL
+8017,"['Tiano', 'Meton']",25,Male,Black,2015-01-22,Sierra Blanca,TX
+8021,"['Isaac', 'Holmes']",19,Male,Black,2015-01-21,St. Louis,MO
+8024,"['DeWayne', 'Carr']",42,Male,Black,2015-01-20,Scottsdale,AZ
+8029,"['Terence', 'Walker']",21,Male,Black,2015-01-17,Muskogee,OK
+8030,"['Daniel', 'Brumley']",27,Male,Black,2015-01-17,Fort Worth,TX
+8032,"['Rodney', 'Walker']",23,Male,Black,2015-01-16,Tulsa,OK
+8036,"['Kavonda', 'Earl', 'Payton']",39,Male,Black,2015-01-15,Aurora,CO
+8037,"['Donte', 'Sowell']",27,Male,Black,2015-01-15,Indianapolis,IN
+8038,"['Mario', 'A.', 'Jordan']",34,Male,Black,2015-01-15,Chesapeake,VA
+8042,"['Marcus', 'Ryan', 'Golden']",24,Male,Black,2015-01-14,St. Paul,MN
+8054,"['Artago', 'Damon', 'Howard']",36,Male,Black,2015-01-08,Strong,AR
+8057,"['Omarr', 'Jackson']",37,Male,Black,2015-01-07,New Orleans,LA
+8060,"['Andre', 'Larone', 'Murphy', 'Sr.']",42,Male,Black,2015-01-07,Norfolk,NE
+8061,"['Hashim', 'Hanif', 'Ibn', 'Abdul-Rasheed']",41,Male,Black,2015-01-07,Columbus,OH
+8062,"['Ronald', '""Maynard""', 'Sneed']",31,Male,Black,2015-01-07,Freeport,TX
+8063,"['Brian', 'Pickett']",26,Male,Black,2015-01-06,Los Angeles ,CA
+8065,"['Leslie', 'Sapp', 'III']",47,Male,Black,2015-01-06,Knoxville,PA
+8077,"['Kevin', 'Davis']",44,Male,Black,2014-12-31,Decatur,GA
+8079,"['Eric', 'Tyrone', 'Forbes']",28,Male,Black,2014-12-31,Miami,FL
+8083,"['Jerame', 'C.', 'Reid']",36,Male,Black,2014-12-30,Bridgeton,NJ
+8089,"['David', 'Andre', 'Scott']",28,Male,Black,2014-12-28,Jacksonville,FL
+8092,"['Carlton', 'Wayne', 'Smith']",20,Male,Black,2014-12-26,Texas city,TX
+8094,"['Quentin', 'Smith']",23,Male,Black,2014-12-26,Cocoa,FL
+8096,"['Terrance', 'Gilbert']",25,Male,Black,2014-12-25,Chicago,IL
+8099,"['Gregory', 'Marcus', 'Gray']",33,Male,Black,2014-12-24,Washington,DC
+8102,"['Antonio', 'Martin']",18,Male,Black,2014-12-23,Berkeley,MO
+8112,"['Terrell', 'Beasley']",28,Male,Black,2014-12-19,St. Louis,MO
+8125,"['Brandon', 'Tate', 'Brown']",26,Male,Black,2014-12-15,Philadelphia,PA
+8127,"['Xavier', 'McDonald']",16,Male,Black,2014-12-15,Nashville,TN
+8128,"['Dennis', 'Grisgby']",35,Male,Black,2014-12-15,Texarkana,TX
+8130,"['Michael', 'D.', 'Sulton']",23,Male,Black,2014-12-14,Ridgeland,MS
+8135,"['Thurrell', 'Jowers']",22,Male,Black,2014-12-12,Poplar Bluff,MO
+8139,"['Travis', 'Faison']",24,Male,Black,2014-12-10,Sanford,NC
+8141,"['Calvin', 'Peters']",49,Male,Black,2014-12-09,New York,NY
+8142,"['Christopher', 'Bernard', 'Doss']",31,Male,Black,2014-12-08,San Antonio,TX
+8147,"['Jerry', 'Demonte', 'Nowlin']",39,Male,Black,2014-12-07,Oklahoma City ,OK
+8157,"['Isaac', 'Lee', 'Ricks']",68,Male,Black,2014-12-03,Los Angeles ,CA
+8159,"['Rumain', 'Brisbon']",34,Male,Black,2014-12-02,Phoenix,AZ
+8160,"['Lincoln', 'Price']",24,Male,Black,2014-12-02,Oklahoma City ,OK
+8176,"['Eric', 'Ricks']",30,Male,Black,2014-11-25,Mesquite,TX
+8179,"[""O'Tavis"", 'Hall']",35,Male,Black,2014-11-24,Winchester,CA
+8180,"['Leonardo', 'Marquette', 'Little']",33,Male,Black,2014-11-24,Jacksonville,FL
+8187,"['Tamir', 'E.', 'Rice']",12,Male,Black,2014-11-22,Cleveland,OH
+8191,"['Akai', 'Gurley']",28,Male,Black,2014-11-20,Brooklyn,NY
+8193,"['Myron', 'May']",31,Male,Black,2014-11-20,Tallahassee,FL
+8195,"['Keara', 'Crowder']",29,Female,Black,2014-11-19,Memphis,TN
+8205,"['Cecil', 'Chaney', 'Tinker-Smith']",37,Male,Black,2014-11-16,Deming,WA
+8213,"['Darnell', 'Dayron', 'Stafford']",31,Male,Black,2014-11-13,Trenton,NJ
+8216,"['Tanisha', 'N.', 'Anderson']",37,Female,Black,2014-11-13,Cleveland,OH
+8225,"['Aura', 'Rosser']",40,Female,Black,2014-11-09,Ann Arbor,MI
+8230,"['Carlos', 'Davenport']",50,Male,Black,2014-11-08,Kansas City,KS
+8236,"['Cinque', ""D'Jahspora""]",20,Male,Black,2014-11-06,Jackson,TN
+8244,"['Christopher', 'Anderson']",27,Male,Black,2014-11-03,Highland Park,IL
+8245,"['Raphael', 'Thomas']",29,Male,Black,2014-11-03,Akron,OH
+8246,"['Charles', 'Emmett', 'Logan']",68,Male,Black,2014-11-02,Maplewood,MN
+8252,"['John', 'T.', 'Wilson', 'III']",22,Male,Black,2014-11-01,Las Vegas,NV
+8259,"['Kaldrick', 'Donald']",24,Male,Black,2014-10-28,Gretna,FL
+8266,"['Joseph', 'Priolo']",29,Male,Black,2014-10-26,New York,NY
+8271,"['Craig', 'Hall']",29,Male,Black,2014-10-25,Maywood,IL
+8276,"['Brian', 'Burch']",38,Male,Black,2014-10-24,Fayetteville,NC
+8278,"['Zale', 'Thompson']",32,Male,Black,2014-10-23,New York,NY
+8279,"['Michael', 'Ricardo', 'Minor']",38,Male,Black,2014-10-23,Suitland,MD
+8284,"['Laquan', 'McDonald']",17,Male,Black,2014-10-20,Chicago,IL
+8290,"['Ronnie', 'D.', 'McNary']",44,Male,Black,2014-10-18,South Euclid,OH
+8291,"['Tarrell', 'Lucas']",22,Male,Black,2014-10-18,Indianapolis,IN
+8294,"['Adam', 'Ardett', 'Madison']",28,Male,Black,2014-10-17,Warrior,AL
+8299,"['John', 'C.', 'Carr']",20,Male,Black,2014-10-12,Tampa,FL
+8301,"['Ronald', 'Johnson']",25,Male,Black,2014-10-12,Chicago,IL
+8305,"['Qusean', 'Whitten']",18,Male,Black,2014-10-10,Columbus,OH
+8306,"['Elisha', 'Paul', 'Glass']",20,Male,Black,2014-10-10,Columbus,OH
+8307,"['Ahaviel', 'T.', 'Whitfield']",39,Male,Black,2014-10-09,Decatur,GA
+8311,"['VonDerrit', 'D.', 'Myers', 'Jr.']",18,Male,Black,2014-10-08,St. Louis,MO
+8313,"[""O'Shaine"", 'Evans']",26,Male,Black,2014-10-07,San Francisco,CA
+8314,"['Iretha', 'Lilly']",37,Female,Black,2014-10-07,Waco,TX
+8315,"['Aljarreau', 'Cross']",29,Male,Black,2014-10-07,North Las Vegas,NV
+8317,"['Reginald', 'Owens']",34,Male,Black,2014-10-07,Huntsville,AL
+8318,"['Balantine', 'Mbegbu']",65,Male,Black,2014-10-06,Phoenix,AZ
+8320,"['Michael', 'Abney']",36,Male,Black,2014-10-04,Washington,DC
+8321,"['Lashano', 'J.', 'Gilbert']",31,Male,Black,2014-10-04,New London,CT
+8325,"['Miguel', 'Benton']",19,Male,Black,2014-10-02,Decatur,GA
+8327,"['Tracy', 'Ann', 'Oglesby', 'Wade']",39,Female,Black,2014-10-01,Louisville ,KY
+8330,"['Javonta', 'Darden']",20,Male,Black,2014-09-30,Athens,GA
+8334,"['Marlon', 'S.', 'Woodstock']",38,Male,Black,2014-09-30,Sunrise,FL
+8338,"['Oliver', 'Jarrod', 'Gregoire']",26,Male,Black,2014-09-28,Baytown,TX
+8342,"['Eugene', 'Williams']",38,Male,Black,2014-09-27,Kansas City,MO
+8347,"['Nolan', 'Anderson']",50,Male,Black,2014-09-24,LaPlace,LA
+8350,"['John', 'Jolley', 'Jr.']",28,Male,Black,2014-09-23,Louisville ,KY
+8353,"['Cameron', 'Tillman']",14,Male,Black,2014-09-23,Houma,LA
+8366,"['Charles', 'Smith']",29,Male,Black,2014-09-18,Savannah,GA
+8368,"['Michael', 'M.', 'Willis', 'Jr.']",42,Male,Black,2014-09-18,Jennings,MO
+8372,"['Kashad', 'Ashford']",23,Male,Black,2014-09-16,Rutherford,NJ
+8374,"['Michael', 'Bonty']",23,Male,Black,2014-09-15,Wasilla,AK
+8375,"['Kerry', 'Lynn', 'Brown']",26,Male,Black,2014-09-15,Lacey,WA
+8377,"['Caesar', 'Adams']",36,Male,Black,2014-09-14,Gretna,LA
+8379,"['Ricky', 'Deangelo', 'Hinkle']",47,Male,Black,2014-09-13,Birmingham,AL
+8383,"['Darrien', 'Nathaniel', 'Hunt']",22,Male,Black,2014-09-12,Saratoga Springs,UT
+8384,"['Elijah', 'Jackson']",33,Male,Black,2014-09-12,Knoxville,TN
+8388,"['Shawn', 'Brown']",20,Male,Black,2014-09-09,Atlantic City,NJ
+8391,"['Alphonse', 'Edward', 'Perkins']",50,Male,Black,2014-09-08,Los Angeles ,CA
+8403,"['Kendrick', 'Brown']",35,Male,Black,2014-09-02,Cleveland,OH
+8407,"['Naim', 'Owens']",22,Male,Black,2014-08-31,New York,NY
+8408,"['Eugene', 'N.', 'Turner', 'III']",28,Male,Black,2014-08-31,Kansas City,MO
+8415,"['Jeremy', 'Lewis']",33,Male,Black,2014-08-29,Orlando,FL
+8427,"['Kerry', 'Wesson']",45,Male,Black,2014-08-27,Lynwood,CA
+8428,"['Cortez', 'Washington']",32,Male,Black,2014-08-26,Omaha ,NE
+8430,"['Roshad', 'McIntosh']",18,Male,Black,2014-08-26,Chicago,IL
+8433,"['Desean', 'Pittman']",20,Male,Black,2014-08-25,Chicago,IL
+8435,"['Steven', 'Lashone', 'Douglas']",29,Male,Black,2014-08-25,Dallas,TX
+8444,"['Anthony', 'Lamar', 'Brown']",39,Male,Black,2014-08-23,West Palm Beach,FL
+8446,"['Vernicia', 'Woodard']",26,Female,Black,2014-08-22,Hapeville,GA
+8449,"['Arvel', 'Douglas', 'Williams']",30,Male,Black,2014-08-20,Perry Hall,MD
+8451,"['David', 'Ellis']",29,Male,Black,2014-08-19,Philadelphia,PA
+8453,"['Kajieme', 'Powell']",25,Male,Black,2014-08-19,St. Louis,MO
+8454,"['Darius', 'Colegarrit']",21,Male,Black,2014-08-19,Chicago,IL
+8457,"['Andre', 'Maurice', 'Jones']",37,Male,Black,2014-08-18,Los Angeles ,CA
+8458,"['Luther', 'Lathron', 'Walker']",38,Male,Black,2014-08-18,Bellflower,CA
+8459,"['Levon', 'Leroy', 'Love']",44,Male,Black,2014-08-17,San Antonio,TX
+8461,"['Frederick', 'R.', 'Miller']",38,Male,Black,2014-08-16,Temple Hills,MD
+8465,"['Michelle', 'Cusseaux']",50,Female,Black,2014-08-14,Phoenix,AZ
+8466,"['Corey', 'Levert', 'Tanner']",24,Male,Black,2014-08-13,Bunnell,FL
+8475,"['Dante', 'Parker']",36,Male,Black,2014-08-12,Victorville,CA
+8477,"['Ezell', 'Ford']",25,Male,Black,2014-08-11,Los Angeles ,CA
+8478,"['Torrez', 'Harris']",52,Male,Black,2014-08-11,Canton,MS
+8479,"['Eddie', 'Davis']",67,Male,Black,2014-08-11,De Kalb,TX
+8480,"['Dustin', 'Keith', 'Glover']",27,Male,Black,2014-08-11,Port Arthur,TX
+8488,"['Malcoln', 'Franklin']",22,Male,Black,2014-08-09,Dolton,IL
+8491,"['Michael', 'Brown']",18,Male,Black,2014-08-09,Ferguson,MO
+8498,"['Michael', 'Laray', 'Dozer']",26,Male,Black,2014-08-06,Bakersfield,CA
+8499,"['Daniel', 'Row']",37,Male,Black,2014-08-05,Cincinnati,OH
+8500,"['Jeremey', 'Lake']",19,Male,Black,2014-08-05,Tulsa,OK
+8501,"['Cedric', 'Stanley']",35,Male,Black,2014-08-05,Miami Springs,FL
+8502,"['John', 'H.', 'Crawford', 'III']",22,Male,Black,2014-08-05,Beavercreek,OH
+8507,"['Jacorey', 'Calhoun']",23,Male,Black,2014-08-03,Oakland,CA
+8517,"['Daniel', 'Pierre']",42,Male,Black,2014-08-01,Berlin,NJ
+8520,"['Anthony', 'Callaway']",27,Male,Black,2014-08-01,East Point,GA
+8522,"['David', 'A.', 'Mendoza']",32,Male,Black,2014-07-30,Bedford,VA
+8532,"['Patrick', 'Small']",27,Male,Black,2014-07-28,Florence,SC
+8534,"['Steven', 'Isby']",53,Male,Black,2014-07-28,Chicago,IL
+8537,"['Robert', 'Henderson']",37,Male,Black,2014-07-26,Huntington,WV
+8542,"['Harrison', 'Carter']",29,Male,Black,2014-07-23,Belle Isle,FL
+8544,"['Charles', 'Leon', 'Johnson', 'II']",29,Male,Black,2014-07-22,Adairsville,GA
+8545,"['Briatay', 'McDuffie']",19,Male,Black,2014-07-22,White Marsh,MD
+8547,"['Vamond', 'Arqui', 'Elmore']",37,Male,Black,2014-07-22,St. George,SC
+8550,"['Donovan', 'Bayton']",54,Male,Black,2014-07-21,Silver Spring,MD
+8554,"['Jonathan', 'L.', 'Williams']",25,Male,Black,2014-07-18,Tempe,AZ
+8559,"['Eric', 'Garner']",43,Male,Black,2014-07-17,New York,NY
+8560,"['Andre', 'Milton']",36,Male,Black,2014-07-17,San Leandro,CA
+8563,"['Dominique', 'Charon', 'Lewis']",23,Male,Black,2014-07-16,Flint Township,MI
+8567,"['Michael', 'Reams']",47,Male,Black,2014-07-14,Fresno,CA
+8569,"['Lawrence', 'Campbell']",27,Male,Black,2014-07-13,Jersey City,NJ
+8581,"['Tyshawn', 'Hancock']",37,Male,Black,2014-07-10,Columbus,OH
+8585,"['Charles', 'K.', 'Goodridge']",53,Male,Black,2014-07-09,Cypress,TX
+8591,"['Warren', 'Robinson']",16,Male,Black,2014-07-05,Chicago,IL
+8592,"['Christopher', 'Jones']",30,Male,Black,2014-07-05,Pine Lawn,MO
+8596,"['Icarus', 'Randolph']",26,Male,Black,2014-07-04,Wichita,KS
+8603,"['Jerry', 'Brown']",41,Male,Black,2014-07-01,Zephyrhills,FL
+8608,"['Andres', 'Morales']",27,Male,Black,2014-06-27,Bay Shore,NY
+8610,"['Nyocomus', 'Garnett']",35,Male,Black,2014-06-27,Midland,TX
+8612,"['Paul', 'Ray', 'Kemp', 'Jr.']",40,Male,Black,2014-06-27,Inglewood,CA
+8613,"['Rodney', 'Hodge']",33,Male,Black,2014-06-26,Dallas,TX
+8618,"['Samuel', 'Johnson']",45,Male,Black,2014-06-25,Los Angeles ,CA
+8619,"['Dennis', 'Hicks']",29,Male,Black,2014-06-25,Magnolia,DE
+8621,"['Antoine', 'Dominique', 'Hunter']",24,Male,Black,2014-06-24,Compton,CA
+8623,"['Lavon', 'King']",20,Male,Black,2014-06-24,Jersey City,NJ
+8624,"['Juan', 'May']",45,Male,Black,2014-06-22,Duncanville,TX
+8631,"['Ismael', 'Sadiq']",30,Male,Black,2014-06-20,Garland,TX
+8632,"['Denzel', 'Curnell']",19,Male,Black,2014-06-20,Charleston,SC
+8640,"['Darrell', 'Haymon']",53,Male,Black,2014-06-19,Hope Mills,NC
+8643,"['Devaron', 'Ricardo', 'Wilburn']",21,Male,Black,2014-06-18,Charlotte,NC
+8645,"['John', 'Schneider']",24,Male,Black,2014-06-16,Lawrenceville,GA
+8647,"['Eric', 'Harris']",30,Male,Black,2014-06-15,Baltimore,MD
+8651,"['Jason', 'Harrison']",38,Male,Black,2014-06-14,Dallas,TX
+8654,"['Frank', 'Rhodes']",61,Male,Black,2014-06-13,Gulfport,MS
+8663,"['Broderick', 'Johnson']",21,Male,Black,2014-06-10,Chamblee,GA
+8667,"['Roylee', 'Vell', 'Dixon']",48,Male,Black,2014-06-09,Tuscaloosa,AL
+8671,"['Emanuel', 'Jean-Baptiste']",29,Male,Black,2014-06-08,Moss Point,MS
+8675,"['Lonnie', 'Flemming']",31,Male,Black,2014-06-07,East Knoxville,TN
+8681,"['David', 'Latham']",35,Male,Black,2014-06-06,Norfolk,VA
+8683,"['Steven', 'Jerold', 'Thompson']",26,Male,Black,2014-06-05,Lauderhill,FL
+8684,"['Thomas', 'Dewitt', 'Johnson']",28,Male,Black,2014-06-04,Jacksonville,FL
+8686,"['Lawrence', 'H.', 'Faine']",72,Male,Black,2014-06-04,Norfolk,VA
+8692,"['Frank', 'McQueen']",34,Male,Black,2014-06-02,Chester,PA
+8695,"['Tayler', 'Rock']",22,Male,Black,2014-05-31,Cowley County,KS
+8697,"['Etoine', 'Baucum']",44,Male,Black,2014-05-31,Clifton,NJ
+8698,"['Sandy', 'James', 'McCall']",33,Male,Black,2014-05-31,Raeford,NC
+8699,"['Mark', 'Anthony', 'Blocker']",20,Male,Black,2014-05-30,Suitland,MD
+8700,"['Quintico', 'Goolsby']",36,Male,Black,2014-05-30,Indianapolis,IN
+8708,"['Jose', 'Valerio']",17,Male,Black,2014-05-29,New Orleans,LA
+8710,"['Duane', 'Erick', 'Strong']",18,Male,Black,2014-05-29,Tallahassee,FL
+8711,"['Jeremy', 'Vann']",20,Male,Black,2014-05-28,Southaven,MS
+8715,"['Terry', 'Heath']",45,Male,Black,2014-05-26,Dayton,OH
+8717,"['Montez', 'Dewayne', 'Hambric']",26,Male,Black,2014-05-25,Winston Salem,NC
+8721,"['Michael', 'Myers']",62,Male,Black,2014-05-24,Chicago,IL
+8723,"['Shiquan', 'M.', 'Krouser']",27,Male,Black,2014-05-24,Poughkeepsie,NY
+8729,"['Jermassioun', 'Viondrey', 'Rodgers']",20,Male,Black,2014-05-21,Orlando,FL
+8735,"['Osbourne', 'Broadie']",39,Male,Black,2014-05-19,New York,NY
+8740,"['Juvon', 'Allen']",21,Male,Black,2014-05-18,Little Rock,AR
+8748,"['Scott', 'Kato']",45,Male,Black,2014-05-16,New York,NY
+8749,"['Charles', 'D.', 'Broadway', 'Jr.']",24,Male,Black,2014-05-16,Kansas City,KS
+8757,"['James', 'Renee', 'White', 'Jr.']",21,Male,Black,2014-05-12,Universal City,CA
+8759,"['Tommy', 'Jackson']",39,Male,Black,2014-05-12,Tallahassee,FL
+8762,"['Tommy', 'J.', 'Yancy', 'Jr.']",32,Male,Black,2014-05-11,Imperial,CA
+8763,"['Gary', 'Smith']",37,Male,Black,2014-05-11,Chicago,IL
+8765,"['Joseph', 'Givens']",34,Male,Black,2014-05-10,Columbus,OH
+8767,"['Jonathan', 'Lee', 'Asuzu']",32,Male,Black,2014-05-10,Birmingham,AL
+8769,"['Devante', 'Kyshon', 'Hinds']",21,Male,Black,2014-05-09,Birmingham,AL
+8777,"['Howard', 'Wallace', 'Bowe', 'Jr.']",34,Male,Black,2014-05-08,Hallandale Beach,FL
+8779,"['Dominique', 'Franklin', 'Jr.']",23,Male,Black,2014-05-07,Chicago,IL
+8780,"['George', 'V.', 'King']",19,Male,Black,2014-05-07,Baltimore,MD
+8781,"['Perlie', 'Golden']",93,Female,Black,2014-05-06,Hearne,TX
+8785,"['Justin', 'Griffin']",25,Male,Black,2014-05-05,Jackson,MS
+8788,"['Jonathan', 'Swindle']",38,Male,Black,2014-05-04,Center,TX
+8789,"['Armand', 'Martin']",50,Male,Black,2014-05-03,Albuquerque ,NM
+8790,"['Londrell', 'E.', 'Johnson']",33,Male,Black,2014-05-02,Madison,WI
+8791,"['Eddie', 'Macon', 'Jr.']",39,Male,Black,2014-05-02,Niles,MI
+8794,"['Dontre', 'Hamilton']",31,Male,Black,2014-04-30,Milwaukee,WI
+8801,"['Dion', 'Julius', 'Brown']",22,Male,Black,2014-04-29,Tabor City,NC
+8807,"['Joe', 'Huff']",86,Male,Black,2014-04-25,Chicago,IL
+8808,"['Tyrone', 'Davis']",43,Male,Black,2014-04-25,Natchez,MS
+8809,"['Emmanuel', 'Wooten']",20,Male,Black,2014-04-25,Meridian,MS
+8823,"['Adrian', 'Williams']",29,Male,Black,2014-04-21,Wilkinsburg,PA
+8837,"['Claudell', 'Webb', 'Jr.']",23,Male,Black,2014-04-16,Fenton,MO
+8838,"['Michael', 'C.', 'Nichols', 'Jr.']",48,Male,Black,2014-04-15,Hammond,LA
+8842,"['Charles', 'A.', 'Brown', 'IV']",20,Male,Black,2014-04-13,Harvey,IL
+8856,"['Jameel', 'Kareem', 'Ofurum', 'Harrison']",34,Male,Black,2014-04-11,Owings Mills,MD
+8857,"['Gregory', 'Lewis', 'Towns', 'Jr']",24,Male,Black,2014-04-11,East Point,GA
+8868,"['Daniel', 'Christoph', 'Yealu']",29,Male,Black,2014-04-07,Los Angeles ,CA
+8870,"['Tinoris', 'Williams']",31,Male,Black,2014-04-07,West Palm Beach,FL
+8873,"['Robert', 'Antonio', 'Jones']",24,Male,Black,2014-04-05,District Heights,MD
+8874,"['Remis', 'M.', 'Andrews']",38,Male,Black,2014-04-05,Boston,MA
+8882,"['Marcus', 'Garner']",22,Male,Black,2014-04-02,Lawrenceville,GA
+8886,"['Zikarious', 'Flint']",20,Male,Black,2014-03-30,Columbus,GA
+8887,"['Raason', 'Shaw']",20,Male,Black,2014-03-29,Chicago,IL
+8891,"['Bryant', 'Augustus', '""Fluke""', 'Stallings']",35,Male,Black,2014-03-28,New Bern,NC
+8892,"['Tracy', 'L.', 'McCraw']",25,Male,Black,2014-03-28,Louisville ,KY
+8894,"['Antoquan', 'T.', 'Watson']",27,Male,Black,2014-03-27,Atlantic City,NJ
+8899,"['Alfred', 'Redwine']",30,Male,Black,2014-03-25,Albuquerque ,NM
+8903,"['Sakhar', 'Williye', 'Robinson']",20,Male,Black,2014-03-25,Salisbury,NC
+8905,"['DeAndre', 'Lloyd', 'Starks']",27,Male,Black,2014-03-25,Tulsa,OK
+8907,"['Willie', 'Neall', 'Harden']",25,Male,Black,2014-03-23,Phoenix,AZ
+8910,"['Douglas', 'Cooper']",18,Male,Black,2014-03-22,Providence,RI
+8912,"['Rajsaun', 'McCray']",29,Male,Black,2014-03-21,Aberdeen,MD
+8915,"['Homer', 'Ken', 'Warren']",21,Male,Black,2014-03-21,Jacksonville,FL
+8916,"['Aaron', 'Dino', 'Smith', 'Jr.']",51,Male,Black,2014-03-21,Nashville,TN
+8923,"['Winfield', 'Carlton', 'Fisher', 'III']",32,Male,Black,2014-03-18,Salisbury,MD
+8925,"['Daquan', 'Hendrix']",19,Male,Black,2014-03-18,Washington,DC
+8927,"['Hallis', 'Kinsey']",26,Male,Black,2014-03-17,Houston,TX
+8933,"['Daniel', 'Martin']",47,Male,Black,2014-03-16,Lawton,OK
+8948,"['David', 'L.', 'Robinson']",38,Male,Black,2014-03-10,North Las Vegas,NV
+8950,"['Victor', 'White', 'III']",22,Male,Black,2014-03-09,New Iberia,LA
+8952,"['Floyd', 'Gene', 'Hodge']",31,Male,Black,2014-03-09,Sebring,FL
+8957,"['Emerson', 'Clayton', 'Jr.']",21,Male,Black,2014-03-08,Alexander City,AL
+8964,"['Kenny', 'Clinton', 'Walker']",23,Male,Black,2014-03-06,Los Angeles ,CA
+8967,"['Robert', 'J.', 'Storay']",52,Male,Black,2014-03-05,Little Rock,AR
+8970,"['Lew', 'G.', 'Tyree', 'II']",41,Male,Black,2014-03-04,Brandon,FL
+8981,"['Marquise', 'Jones']",23,Male,Black,2014-02-28,San Antonio,TX
+8984,"['Treon', '""Tree""', 'Johnson']",27,Male,Black,2014-02-27,Hialeah,FL
+8993,"['Gregory', 'Sanders']",37,Male,Black,2014-02-24,Cincinnati,OH
+9000,"['David', 'Goins']",60,Male,Black,2014-02-18,San Lorenzo,CA
+9002,"['Oscar', 'Gaspar']",17,Male,Black,2014-02-17,Houston,TX
+9004,"['Keith', 'Atkinson']",31,Male,Black,2014-02-16,New Orleans,LA
+9005,"['Yvette', 'Smith']",47,Female,Black,2014-02-16,Bastrop,TX
+9010,"['Bernard', 'Lofton']",22,Male,Black,2014-02-15,Baltimore,MD
+9011,"[""D'Andre"", 'Berghardt', 'Jr.']",20,Male,Black,2014-02-14,Las Vegas,NV
+9017,"['Stephon', 'Averyhart']",27,Male,Black,2014-02-12,St. Louis,MO
+9021,"['Deonta', 'Dewight', 'Mackey']",16,Male,Black,2014-02-10,Chicago,IL
+9022,"['Anthony', 'Bartley']",21,Male,Black,2014-02-10,Yulee,FL
+9023,"['Leroy', 'Turner']",20,Male,Black,2014-02-10,Houston,TX
+9024,"['Ernest', 'Satterwhite']",68,Male,Black,2014-02-10,North Augusta,SC
+9026,"['Donald', 'Haynes']",45,Male,Black,2014-02-09,Stockton,CA
+9028,"['Johnny', 'Rico', 'Richardson']",27,Male,Black,2014-02-07,Ruston,LA
+9033,"['James', 'L.', 'Norris']",25,Male,Black,2014-02-05,Salisbury,MD
+9035,"['Willie', 'James', 'Sams']",21,Male,Black,2014-02-05,Liberty City,FL
+9037,"['Anesson', 'Joseph']",28,Male,Black,2014-02-04,Delray Beach,FL
+9040,"['Don', 'Pooley']",34,Male,Black,2014-02-04,Arvada,CO
+9043,"['Kevin', 'Dejon', 'Grissett']",25,Male,Black,2014-02-01,Hope Mills,NC
+9045,"['Alton', 'Reaves']",31,Male,Black,2014-01-31,Kingstree,SC
+9050,"['Christopher', 'Stirkens']",25,Male,Black,2014-01-29,Gaithersburg,MD
+9051,"['Cornelius', 'Turner']",19,Male,Black,2014-01-29,Milwaukee,WI
+9060,"['Charles', 'Hull']",56,Male,Black,2014-01-27,Penn Hills,PA
+9062,"['Pierree', 'Davis']",21,Male,Black,2014-01-26,Federal Heights,CO
+9071,"['Eldrin', 'Smart']",31,Male,Black,2014-01-21,Kenner,LA
+9082,"['Jordan', 'Baker']",26,Male,Black,2014-01-16,Houston,TX
+9085,"['Henry', 'Jackson']",19,Male,Black,2014-01-16,Ardmore,OK
+9091,"['Gregory', 'Vaughn', 'Hill', 'Jr']",30,Male,Black,2014-01-14,Fort Pierce,FL
+9095,"['Paul', 'Smith']",58,Male,Black,2014-01-14,Los Angeles ,CA
+9096,"['Perry', 'Webb']",24,Male,Black,2014-01-13,Baltimore,MD
+9117,"['Joeshawn', 'Edward', 'Williams']",21,Male,Black,2014-01-03,Oklahoma City ,OK
+9121,"['Rasheik', 'Calhoun']",33,Male,Black,2014-01-02,Crestview,FL
+9124,"['Julias', 'Michael', 'Reese']",20,Male,Black,2014-01-01,Redford Charter Township,MI
+9125,"['Dontae', 'Daveon', 'Lewis', 'Hayes']",20,Male,Black,2013-12-31,Riverside,CA
+9126,"['Ricky', 'Junior', 'Toney']",34,Male,Black,2013-12-31,Henderson,NC
+9132,"['William', 'Jackson']",43,Male,Black,2013-12-29,Harrisburg,PA
+9134,"['Kendall', 'Alexander']",34,Male,Black,2013-12-29,Breaux Bridge,LA
+9136,"['Somourian', 'Jamal', 'Wingo']",24,Male,Black,2013-12-28,Palatka,FL
+9137,"['Dante', 'Chavful']",37,Male,Black,2013-12-28,Houston,TX
+9139,"['Darrell', 'King']",22,Male,Black,2013-12-27,Oklahoma City ,OK
+9143,"['James', 'Torres']",44,Male,Black,2013-12-26,Bronx,NY
+9151,"['Sharon', 'Rebecca', 'McDowell']",49,Female,Black,2013-12-20,Anderson,SC
+9152,"['Cimarron', 'Lamar', 'Lamb']",33,Male,Black,2013-12-19,Phenix City,AL
+9163,"['Kenneth', 'R.', 'Herring']",50,Male,Black,2013-12-12,Columbus,OH
+9175,"['Jared', 'Brown-Garnham']",21,Male,Black,2013-12-08,Moon,PA
+9177,"['Darryl', 'Dookhran']",20,Male,Black,2013-12-07,Dorchester,MA
+9178,"[""D'Angelo"", 'Davis']",23,Male,Black,2013-12-07,Tukwila,WA
+9180,"['Samuel', 'Freeman']",23,Male,Black,2013-12-06,Pine Bluff,AR
+9186,"['Ananias', 'Shaw']",73,Male,Black,2013-12-04,Selma,AL
+9187,"['Darius', 'Jamal', 'Murphy']",19,Male,Black,2013-12-03,Washington,DC
+9189,"['Jonathan', 'D.', 'Rodgers']",22,Male,Black,2013-12-02,Columbus,OH
+9202,"['Jason', 'Akeem', 'Lewis']",28,Male,Black,2013-11-27,Huntsville,AL
+9204,"['Ervin', 'Edwards']",38,Male,Black,2013-11-26,Port Allen,LA
+9206,"['Robert', 'Brown']",26,Male,Black,2013-11-25,Washington,DC
+9207,"['Carnell', 'Lanair', 'Williams']",23,Male,Black,2013-11-25,Bridgeport,CT
+9209,"['Clarence', 'Dorris']",53,Male,Black,2013-11-25,Mableton,GA
+9215,"['Danny', 'Thornton']",47,Male,Black,2013-11-22,Columbus,OH
+9221,"['Marty', 'Maiden', 'II']",20,Male,Black,2013-11-20,Tuscon,AZ
+9223,"['Lennard', 'Whittle']",25,Male,Black,2013-11-20,Middletown,NY
+9229,"['Tyler', 'Damon', 'Woods']",19,Male,Black,2013-11-19,Long Beach,CA
+9232,"['Rexford', 'Dasrath']",22,Male,Black,2013-11-18,New York,NY
+9233,"['Antoine', 'Duane', 'Goodrum']",27,Male,Black,2013-11-18,Germantown,MD
+9235,"['Jason', 'D.', 'White']",31,Male,Black,2013-11-17,Hilliard,OH
+9236,"['Jonathan', 'Wilcher']",26,Male,Black,2013-11-17,Titusville,FL
+9237,"['Devin', 'Johnson']",32,Male,Black,2013-11-16,Indianapolis,IN
+9242,"['Gary', 'Boyd', 'Sr.']",42,Male,Black,2013-11-15,Hamilton Township,NJ
+9247,"['Willie', 'James', 'Williams']",27,Male,Black,2013-11-13,Columbus,GA
+9248,"['Shawn', 'M.', 'Rieves']",17,Male,Black,2013-11-11,Milwaukee,WI
+9249,"['Abdul', 'Kamal']",30,Male,Black,2013-11-11,Irvington,NJ
+9252,"['Donte', 'Lamonte', 'Jordan']",39,Male,Black,2013-11-10,Long Beach,CA
+9254,"['Don', 'White']",24,Male,Black,2013-11-08,Kenner,LA
+9258,"['Deonte', 'Traylor']",24,Male,Black,2013-11-05,Fairfield,CA
+9260,"['Michael', 'Blair']",26,Male,Black,2013-11-04,Richmond,TX
+9262,"['Robert', 'Desir']",23,Male,Black,2013-11-04,Miami Gardens,FL
+9266,"['Thomas', 'Ardd']",44,Male,Black,2013-11-01,Enterprise,MS
+9275,"['Alfred', 'Ferrell', 'III']",28,Male,Black,2013-10-30,Indianapolis,IN
+9277,"['Dionne', 'L.', 'Jordan']",30,Male,Black,2013-10-30,Erie,PA
+9278,"['Cortdalro', 'Damarcel', 'Brown']",25,Male,Black,2013-10-29,Houston,TX
+9280,"['Dominique', 'Jean']",51,Male,Black,2013-10-29,Miami,FL
+9281,"['Quentin', 'Eric', 'Hicks']",49,Male,Black,2013-10-29,Inglewood,CA
+9283,"['George', 'Pryor']",61,Male,Black,2013-10-28,Statesboro,GA
+9288,"['William', 'Alfred', 'Harvey', 'III']",57,Male,Black,2013-10-27,Bellfower,CA
+9289,"['Jarmel', 'Anthony', 'Cosby']",28,Male,Black,2013-10-27,Jacksonville,FL
+9292,"['Dimetri', 'Polen']",24,Male,Black,2013-10-26,West Palm Beach,FL
+9300,"['Ronald', 'Roland']",18,Male,Black,2013-10-25,Wilmington,NC
+9303,"['Damon', 'Cortez', 'Hall']",34,Male,Black,2013-10-25,St. Louis,MO
+9305,"['Tevin', 'Robinson']",20,Male,Black,2013-10-25,Wilmington,NC
+9307,"['Angelique', 'Styles']",60,Female,Black,2013-10-24,Chicago,IL
+9310,"['Matthew', 'Deshune', 'Swiney']",22,Male,Black,2013-10-24,Houston,TX
+9316,"['Terrance', 'Harris']",40,Male,Black,2013-10-22,Chicago,IL
+9318,"['Tracy', 'Clyde']",42,Male,Black,2013-10-21,Leesburg,GA
+9322,"['David', 'D.', 'Long']",42,Male,Black,2013-10-20,Coffeeville,MS
+9325,"['Taemarr', 'Walker']",24,Male,Black,2013-10-19,Warren,OH
+9328,"['Eddie', 'Hollins']",33,Male,Black,2013-10-18,Columbia,SC
+9333,"['Shawn', 'Dewayne', 'Dean']",40,Male,Black,2013-10-17,Baltimore,MD
+9337,"['Aaron', 'Dumas']",32,Male,Black,2013-10-15,Memphis,TN
+9338,"['Cameron', 'Massey']",26,Male,Black,2013-10-15,Eufaula,AL
+9345,"['Brandon', 'Devone', 'Smith']",30,Male,Black,2013-10-13,Wilmington,NC
+9346,"['William', 'Taylor']",32,Male,Black,2013-10-13,Lorain,OH
+9347,"['Shaqur', 'McNair']",16,Male,Black,2013-10-13,Fayetteville,NC
+9350,"['Darryl', 'Lee', 'Drayton']",51,Male,Black,2013-10-11,James Island,SC
+9359,"['Jack', 'Lamar', 'Robertson']",43,Male,Black,2013-10-08,Waycross,GA
+9360,"['Darrell', 'Atkinson']",49,Male,Black,2013-10-06,Los Angeles ,CA
+9362,"['Jared', 'Harris']",25,Male,Black,2013-10-05,St. Louis,MO
+9366,"['Sherman', 'T.', 'Threets']",28,Male,Black,2013-10-05,Posen,IL
+9367,"['Reginald', 'Williams', 'Jr.']",29,Male,Black,2013-10-04,Cleveland,OH
+9368,"['Jack', 'Lamar', 'Roberson']",43,Male,Black,2013-10-04,Waycross,GA
+9371,"['Dawud', 'Alexander']",24,Male,Black,2013-10-03,Irvington,NJ
+9372,"['Miriam', 'Iris', 'Carey']",34,Female,Black,2013-10-03,Washington,DC
+9373,"['Elijah', 'Glay']",39,Male,Black,2013-10-02,Calverton,MD
+9378,"['Alexander', 'Jamar', '""A.J.""', 'Marion']",19,Male,Black,2013-09-29,Asheville,NC
+9382,"['Tavaris', 'Lokeco', 'Gulley']",34,Male,Black,2013-09-26,Citronelle,AL
+9391,"['Tracy', 'Daquan', 'Bost']",22,Male,Black,2013-09-24,Durham,NC
+9394,"['Antonio', 'Nash']",18,Male,Black,2013-09-23,St. Louis,MO
+9400,"['Steven', 'Byrdo']",24,Male,Black,2013-09-20,Indianapolis,IN
+9405,"['Derek', 'Deandre', 'Walker']",26,Male,Black,2013-09-17,Durham,NC
+9406,"['Mitchell', 'Alanda', 'St.', 'Clair', 'Jr.']",39,Male,Black,2013-09-16,Columbia,SC
+9409,"['Aaron', 'Alexis']",34,Male,Black,2013-09-16,Washington,DC
+9411,"['R.T.', 'McGinty']",27,Male,Black,2013-09-14,Avondale,AZ
+9414,"['Jonathan', 'A.', 'Ferrell']",24,Male,Black,2013-09-14,Charlotte,NC
+9418,"['William', 'Ranaldo', 'Brown', 'Jr.']",31,Male,Black,2013-09-10,Annapolis,MD
+9425,"['Monroe', 'Isadore']",107,Male,Black,2013-09-07,Pine Bluff,AR
+9428,"['Marlon', 'Horton']",28,Male,Black,2013-09-07,Chicago,IL
+9430,"['Ray', 'Anson', 'Mitchell']",37,Male,Black,2013-09-06,Mobile,AL
+9432,"['Charlie', 'Christopher', 'Bates']",24,Male,Black,2013-09-06,Tampa,FL
+9434,"['Benjamin', 'Hickey']",45,Male,Black,2013-09-05,Atlanta,GA
+9435,"['Denis', 'Reynoso']",30,Male,Black,2013-09-05,Lynn,MA
+9436,"['Kenneth', 'Lamar', 'Bedgood']",36,Male,Black,2013-09-05,Mobile,AL
+9437,"['Kendrick', 'Lee', 'Amest']",29,Male,Black,2013-09-05,Houston,TX
+9439,"['Dontre', 'Bennett']",25,Male,Black,2013-09-04,Baltimore,MD
+9455,"['Rickey', 'Rozelle']",28,Male,Black,2013-08-31,Chicago,IL
+9460,"['John', 'Van', 'Allen']",34,Male,Black,2013-08-29,Biggs Junction,OR
+9464,"['Tevon', 'Smith']",25,Male,Black,2013-08-28,Catonsville,MD
+9466,"['Henry', 'Kiner']",27,Male,Black,2013-08-28,Fort Lauderdale,FL
+9467,"['Korey', 'Marcel', 'Germaine']",24,Male,Black,2013-08-27,Antioch,CA
+9477,"['Edmond', 'Demont', 'Fair']",24,Male,Black,2013-08-23,Brooklyn Center,MN
+9488,"['Al', 'Pickett']",52,Male,Black,2013-08-20,Troy,OH
+9491,"['Ronnie', 'Ledesma', 'Jr.']",39,Male,Black,2013-08-19,Bakersfield,CA
+9492,"['Travis', 'Miller']",22,Male,Black,2013-08-19,Charleston,SC
+9500,"['Patrick', 'Othro', 'Sullivan']",74,Male,Black,2013-08-16,Vermont Square,CA
+9507,"['Eric', 'McNeil']",23,Male,Black,2013-08-15,Trenton,NJ
+9515,"['Allen', 'Harvey', 'Jr.']",23,Male,Black,2013-08-13,Baltimore,MD
+9518,"['Martin', 'A.', 'Duckworth']",31,Male,Black,2013-08-12,Seattle,WA
+9520,"['Russell', 'Donahue']",44,Male,Black,2013-08-11,Poplar Grove,IL
+9521,"['Wayne', 'Edwards']",23,Male,Black,2013-08-11,Springfield,MA
+9529,"['Montrell', 'Moss']",23,Male,Black,2013-08-08,Hammond,IN
+9530,"['Jeffery', 'B.', 'Lilly', 'Jr.']",22,Male,Black,2013-08-08,Indianapolis,IN
+9532,"['Roudy', 'Hendricks']",21,Male,Black,2013-08-07,Boston,MA
+9540,"['Shaaliver', 'Douse']",14,Male,Black,2013-08-04,Bronx,NY
+9544,"['Jermaine', 'McBean']",33,Male,Black,2013-07-31,Fort Lauderdale,FL
+9547,"['Allen', 'Desdunes']",37,Male,Black,2013-07-30,New Orleans,LA
+9553,"['Michael', 'Jermaine', 'Lollis']",29,Male,Black,2013-07-29,Hamilton,AL
+9561,"['Ryan', 'L.', 'Stokes']",24,Male,Black,2013-07-28,Kansas City,MO
+9562,"['Tyris', 'Wilkerson']",32,Male,Black,2013-07-28,Baton Rouge,LA
+9569,"['Larry', 'Eugene', 'Jackson', 'Jr.']",32,Male,Black,2013-07-26,Austin,TX
+9570,"['Dainell', 'Simmons']",29,Male,Black,2013-07-25,Middle Island,NY
+9576,"['Tevin', 'Hammond']",21,Male,Black,2013-07-22,Philadelphia,PA
+9580,"['Deomain', 'Hayman']",28,Male,Black,2013-07-21,Wilmington,DE
+9584,"['Leigh', 'Weeden']",47,Male,Black,2013-07-19,Fairfield,CA
+9586,"['Tyrone', 'West']",44,Male,Black,2013-07-18,Baltimore,MD
+9588,"['Andrew', 'Thomas']",23,Male,Black,2013-07-18,Pembroke Pines,FL
+9589,"['Kendall', 'Walker']",24,Male,Black,2013-07-18,Vacaville,CA
+9590,"['Laroy', 'Brown']",42,Male,Black,2013-07-18,Alameda,CA
+9594,"['Daryll', 'Blair']",19,Male,Black,2013-07-16,San Antonio,TX
+9595,"['Carlos', 'Crompton']",39,Male,Black,2013-07-16,St. Petersburg,FL
+9598,"['Deon', 'Williams']",26,Male,Black,2013-07-15,Little Rock,AR
+9604,"['Rashad', 'Jarrett', 'Hopes']",26,Male,Black,2013-07-11,Riverside,CA
+9605,"['Brian', 'Simms', 'Jr.']",24,Male,Black,2013-07-11,Oklahoma City ,OK
+9607,"['Kenneth', 'Jewell', 'Stafford']",27,Male,Black,2013-07-11,Reno,NV
+9610,"['Donald', 'Ray', 'Washington', 'Jr.']",20,Male,Black,2013-07-10,Houston,TX
+9611,"['Shawn', 'Payne']",36,Male,Black,2013-07-10,Loma,CO
+9612,"['Antonio', 'Johnson']",40,Male,Black,2013-07-09,Hazelwood,MO
+9615,"['Herman', 'Pickens']",24,Male,Black,2013-07-09,Jacksonville,FL
+9618,"['Glenn', 'Llewellyn', 'Briggs']",57,Male,Black,2013-07-08,Panama City,FL
+9623,"['Carlos', 'D.', 'Runyon']",29,Male,Black,2013-07-07,Louisville ,KY
+9630,"['Vincent', 'Wood']",66,Male,Black,2013-07-05,Albuquerque ,NM
+9637,"['Christian', 'Green']",17,Male,Black,2013-07-04,Chicago,IL
+9638,"['Ernest', 'Foster']",37,Male,Black,2013-07-04,Indio,CA
+9649,"['George', 'Harvey']",39,Male,Black,2013-06-30,Augusta,GA
+9653,"['Lonnie', 'Taylor']",21,Male,Black,2013-06-29,Vacaville,CA
+9659,"['Deangelo', 'Lopez']",22,Male,Black,2013-06-27,Compton,CA
+9670,"['Cacedrick', 'White']",26,Male,Black,2013-06-23,Lexington,MS
+9677,"['Donnell', 'Carter']",39,Male,Black,2013-06-20,Milwaukee,WI
+9678,"['Jourdan', 'Akili', 'Wagner']",20,Male,Black,2013-06-20,Glendale,AZ
+9680,"['Kenneth', 'Dewayne', 'Cooper']",45,Male,Black,2013-06-19,Oklahoma City ,OK
+9686,"['Jaquaz', 'Walker']",17,Male,Black,2013-06-18,Charlotte,NC
+9690,"['Cedric', 'Howard']",34,Male,Black,2013-06-17,San Antonio,TX
+9692,"['Eliakim', 'Tipan', 'Shabazz']",48,Male,Black,2013-06-16,West Columbia,SC
+9693,"['Antwon', 'Johnson']",24,Male,Black,2013-06-16,Chicago,IL
+9694,"['Sammie', 'Lamont', 'Wallace']",37,Male,Black,2013-06-16,Midwest City,OK
+9697,"['Michael', 'Westley']",15,Male,Black,2013-06-16,Chicago,IL
+9698,"['Joe', 'White', 'III']",48,Male,Black,2013-06-16,Miami,FL
+9701,"['Recardio', 'Shormon', 'Clark']",33,Male,Black,2013-06-15,Gainesville,FL
+9706,"['Quincy', 'Williams']",32,Male,Black,2013-06-14,Castro Valley,CA
+9713,"['Darrius', 'J.', 'Lowery-Baptiste']",23,Male,Black,2013-06-11,Beloit,WI
+9714,"['Joseph', 'Paige']",24,Male,Black,2013-06-10,Orlando,FL
+9722,"['Rustin', 'Wilkerson']",19,Male,Black,2013-06-08,Perris,CA
+9723,"['Craig', 'Devon', 'Rodgers']",40,Male,Black,2013-06-08,Bradenton,FL
+9725,"['Micah', 'Anthony', 'Key']",24,Male,Black,2013-06-08,San Angelo,TX
+9738,"['Lana', 'Morris']",46,Female,Black,2013-06-05,St. Albans,NY
+9748,"['Demetrice', 'D.', 'Presnall']",22,Male,Black,2013-06-04,Flint,MI
+9752,"['Edward', 'Mwaura']",33,Male,Black,2013-06-02,South Bend,IN
+9754,"['Bill', 'Jackson']",59,Male,Black,2013-06-02,Selma,AL
+9755,"['Keoshia', 'L.', 'Hill']",28,Female,Black,2013-06-02,Selma,AL
+9761,"['Ernest', 'Zaus', 'Jaquine', 'Barnett']",30,Male,Black,2013-05-31,Atlanta,GA
+9766,"['Bernard', 'Peters', 'Jr.']",22,Male,Black,2013-05-29,Oakland,CA
+9767,"['Kyree', 'Johnson']",22,Male,Black,2013-05-29,Philadelphia,PA
+9769,"['Nathaniel', 'McRae']",34,Male,Black,2013-05-29,Washington,DC
+9772,"['William', 'Dupree']",32,Male,Black,2013-05-27,St. Louis,MO
+9777,"['Ajani', 'Mitchell']",21,Male,Black,2013-05-25,Columbia,SC
+9779,"['Gary', 'Hatcher']",26,Male,Black,2013-05-25,Mt. Morris Township,MI
+9787,"['Rayshawn', 'Marquis', 'Brown']",27,Male,Black,2013-05-23,Compton,CA
+9789,"['Thomas', 'Bean']",43,Male,Black,2013-05-23,Toledo,OH
+9792,"['Julian', 'Dawkins']",22,Male,Black,2013-05-22,Alexandria,VA
+9794,"['Belton', '""Amir""', 'Lomax']",35,Male,Black,2013-05-22,Philadelphia,PA
+9798,"['Joshua', '""Omar""', 'Johnson']",22,Male,Black,2013-05-20,Norfolk,VA
+9800,"['Anthony', 'Michael', 'Bland']",26,Male,Black,2013-05-20,Williamsburg,VA
+9802,"['Terry', 'Laffitte']",50,Male,Black,2013-05-18,Los Angeles ,CA
+9804,"['Terrence', 'Dawson']",30,Male,Black,2013-05-18,Blytheville,AR
+9805,"['Charles', 'Curl']",46,Male,Black,2013-05-18,Inglewood,CA
+9807,"['Dalton', 'Smith']",30,Male,Black,2013-05-17,Uniondale,NY
+9812,"['Jermaine', 'Darden']",34,Male,Black,2013-05-16,Fort Worth,TX
+9816,"['Christian', 'Leonard', 'Eaddy']",25,Male,Black,2013-05-16,Pacoima,CA
+9817,"['Kourtney', 'Hahn']",21,Female,Black,2013-05-15,Clintonville,OH
+9818,"['Emmanuel', 'Gatewood']",24,Male,Black,2013-05-15,Clintonville,OH
+9819,"['Louis', 'M.', 'Squires']",44,Male,Black,2013-05-15,Springfield,MA
+9826,"['Gerald', '""Skip""', 'Tyrone', 'Murphy']",38,Male,Black,2013-05-12,Trenton,NJ
+9834,"['Terrance', 'Terrell', 'Franklin']",22,Male,Black,2013-05-10,Minneapolis,MN
+9838,"['Marlon', 'Brown']",38,Male,Black,2013-05-09,DeLand,FL
+9845,"['Kendra', 'Diggs']",37,Female,Black,2013-05-07,Baltimore,MD
+9847,"['Deion', 'Fludd']",17,Male,Black,2013-05-05,New York,NY
+9848,"['Tywon', 'Jones']",16,Male,Black,2013-05-05,Chicago,IL
+9852,"['Marquis', 'James', 'Spencer']",21,Male,Black,2013-05-04,Orlando,FL
+9854,"['Ryan', 'Koontz']",22,Male,Black,2013-05-02,Fort Wayne,IN
+9855,"['Clifton', 'Armstrong']",38,Male,Black,2013-05-02,Oklahoma City ,OK
+9858,"['Jordan', 'West-Morson']",26,Male,Black,2013-05-01,Detroit,MI
+9860,"['Lawrence', 'Edward', 'Graham', 'III']",20,Male,Black,2013-05-01,Fayetteville,NC
+9861,"['Kenneth', 'Bernard', 'Williams']",55,Male,Black,2013-05-01,Los Angeles ,CA
+9872,"['Urie', 'Adriel', 'Gilchrist']",23,Male,Black,2013-04-29,Houston,TX
+9878,"['Gabriel', 'Winzer']",25,Male,Black,2013-04-27,Frog,TX
+9880,"['Tavontae', 'Jamar', 'Haney']",19,Male,Black,2013-04-27,Fort Wayne,IN
+9881,"['Ronald', 'Michael', 'Davis']",31,Male,Black,2013-04-27,Georgetown,KY
+9883,"['Cody', 'Point']",18,Male,Black,2013-04-26,Atascocita,TX
+9884,"['Brice', 'Quintin', 'Jefferson']",24,Male,Black,2013-04-26,Athens,CA
+9886,"['Kenzell', 'Hobbs']",18,Male,Black,2013-04-25,Little Rock,AR
+9888,"['Cary', 'Ball']",25,Male,Black,2013-04-24,St. Louis,MO
+9889,"['James', 'Coleman']",24,Male,Black,2013-04-24,Milwaukee,WI
+9893,"['Amjustine', 'Hunter']",28,Male,Black,2013-04-23,Memphis,TN
+9898,"['Larry', 'Hooker']",23,Male,Black,2013-04-22,Baltimore,MD
+9901,"['Fred', 'Bradford', 'Jr.']",51,Male,Black,2013-04-21,Dallas,TX
+9902,"['Dennis', 'Clark', 'III']",28,Male,Black,2013-04-21,Federal Way,WA
+9907,"['Craig', 'Demps']",22,Male,Black,2013-04-20,West Palm Beach,FL
+9919,"['Thomas', 'G.', 'Manuel', 'III']",22,Male,Black,2013-04-17,Genesee Township,MI
+9922,"['Dylan', 'Samuel-Peters']",1,Male,Black,2013-04-15,Brooklyn,NY
+9923,"['Dason', 'Peters']",33,Male,Black,2013-04-15,Brooklyn,NY
+9938,"['Cleman', 'R.', 'Sweptson', 'Jr.']",34,Male,Black,2013-04-09,Washington,DC
+9941,"['Bradford', 'Louis', 'Etheredge']",37,Male,Black,2013-04-08,Baton Rouge,LA
+9943,"['Alexander', 'Wilson']",16,Male,Black,2013-04-07,Phoenix,AZ
+9948,"['Jermaine', 'C.', 'Coleman', 'Jr.']",20,Male,Black,2013-04-04,Dayton,OH
+9952,"['Matthew', 'Renard', 'Joseph']",23,Male,Black,2013-04-02,Detroit,MI
+9953,"['William', 'E.', 'Morris']",24,Male,Black,2013-04-02,Indianapolis,IN
+9955,"['Bryan', 'Stukes']",21,Male,Black,2013-04-01,Bridgeport,CT
+9961,"['Broderick', 'Huggins']",32,Male,Black,2013-03-30,Oakland,CA
+9975,"['Khari', 'Neville', 'Illidge']",25,Male,Black,2013-03-24,Phenix City,AL
+9978,"['Daniel', 'Lee', 'Rhodes']",49,Male,Black,2013-03-22,West Palm Beach,FL
+9979,"['Russell', 'Lydell', 'Smith']",51,Male,Black,2013-03-22,Seattle,WA
+9986,"['Kenneth', 'Knight']",45,Male,Black,2013-03-20,Fort Wayne,IN
+9987,"['Barry', 'Caldwell']",42,Male,Black,2013-03-19,Orangeburg,SC
+9992,"['Ryan', 'Rogers']",27,Male,Black,2013-03-19,East Hazel Crest,IL
+9993,"['Transcini', 'Richerson']",30,Male,Black,2013-03-18,Waco,TX
+9996,"['Kevin', 'M.', 'Bailey']",22,Male,Black,2013-03-17,Solon,OH
+10004,"['Skyler', 'Stewart']",20,Male,Black,2013-03-15,Paxtonia,PA
+10007,"['Tyrique', 'Rashad', 'Johnson']",21,Male,Black,2013-03-14,Dallas,TX
+10009,"['John', 'Harris']",58,Male,Black,2013-03-14,Chicago,IL
+10012,"['Willie', 'Lee', 'Bingham', 'Jr.']",20,Male,Black,2013-03-13,Cleveland,MS
+10013,"['Wayne', 'Arnold', 'Jones']",50,Male,Black,2013-03-13,Martinsburg,WV
+10014,"['Austin', 'Ryan', 'Thomas']",17,Male,Black,2013-03-12,Southfield,MI
+10018,"['Kimani', 'Gray']",16,Male,Black,2013-03-10,New York,NY
+10019,"['Anthony', 'Rawls']",49,Male,Black,2013-03-10,Kathleen,GA
+10021,"['Clinton', 'Roebexar', 'Allen']",25,Male,Black,2013-03-10,Dallas,TX
+10024,"['Horace', 'Whiting']",63,Male,Black,2013-03-10,Memphis,TN
+10026,"['Dashaude', 'J.', 'Carr']",19,Male,Black,2013-03-09,Houston,TX
+10028,"['Khalid', 'Bouaiti']",44,Male,Black,2013-03-08,Jersey City,NJ
+10040,"['Terence', 'Anderson']",37,Male,Black,2013-03-05,St. Louis,MO
+10043,"['Anthony', 'Desean', 'Meeks']",22,Male,Black,2013-03-04,Concord,NC
+10050,"['Amos', 'G.', 'Smith']",26,Male,Black,2013-03-02,Union City,CA
+10052,"['Marcus', 'Dewayne', 'Patterson']",35,Male,Black,2013-03-01,Oklahoma City ,OK
+10055,"['Richard', 'Edward', 'McKenzie']",46,Male,Black,2013-02-28,Houston,TX
+10071,"['Christopher', 'Allen', 'Taylor']",19,Male,Black,2013-02-21,Long Beach,CA
+10072,"['Stephen', ""O'Neal"", 'Wattley', 'II']",21,Male,Black,2013-02-20,Fort Wayne,IN
+10073,"['John', 'Dawson', 'Parker']",23,Male,Black,2013-02-19,Jacksonville,FL
+10077,"['Taft', 'Sellers']",30,Male,Black,2013-02-18,Alexandria,VA
+10083,"['Charles', 'A.', 'Baker', 'Jr.']",30,Male,Black,2013-02-16,Jamestown,NY
+10086,"['Kenny', 'Detrelle', 'Montgomery']",34,Male,Black,2013-02-13,Houston,TX
+10087,"['Alden', 'Patrick', 'Anderson']",32,Male,Black,2013-02-12,St. Paul,MN
+10088,"['Gabriel', 'Vernon', 'Stevenson']",18,Male,Black,2013-02-12,South Lyon,MI
+10094,"['Otis', 'Roberson']",32,Male,Black,2013-02-09,St. Louis,MO
+10106,"['Chaz', 'Devell', 'Williams']",21,Male,Black,2013-02-01,Augusta,GA
+10107,"['Dexter', 'Lee', 'Fair']",20,Male,Black,2013-01-31,Harvest,AL
+10114,"['Ishmael', 'Muhammad']",29,Male,Black,2013-01-28,Harrisburg,PA
+10117,"['Anthony', 'Dwayne', 'Harris']",38,Male,Black,2013-01-28,Jacksonville,FL
+10121,"['James', 'Brown']",41,Male,Black,2013-01-25,Baltimore,MD
+10123,"['Willie', 'Davis', 'Jr.']",23,Male,Black,2013-01-25,Tucson ,AZ
+10126,"['Nijza', 'Lamar', 'Hagans']",22,Male,Black,2013-01-24,Fayetteville,NC
+10128,"['Barbara', 'Lassere']",60,Female,Black,2013-01-24,LaPlace,LA
+10129,"['James', 'Eric', 'Griffin']",48,Male,Black,2013-01-23,Alto,TX
+10134,"['Ray', 'Charles', 'Hayes']",50,Male,Black,2013-01-21,Addis,LA
+10136,"['Donovan', 'Thomas']",22,Male,Black,2013-01-19,St. Louis,MO
+10139,"['Jayvis', 'Benjamin']",20,Male,Black,2013-01-18,Avondale Estates,GA
+10142,"['Reginald', 'Lamont', '""Deucey""', 'Epps']",38,Male,Black,2013-01-18,Roanoke Rapids,NC
+10147,"['Steven', 'Askew']",24,Male,Black,2013-01-17,Memphis,TN
+10148,"['Karvis', 'Jabbar', 'Gamble']",19,Male,Black,2013-01-16,Orlando,FL
+10161,"['Frankie', 'Pitt']",45,Male,Black,2013-01-13,Midlothian,VA
+10162,"['Dushine', 'James', 'Smith']",41,Male,Black,2013-01-13,Corona,CA
+10163,"['Quintine', 'Barksdale']",43,Male,Black,2013-01-13,Phoenix,AZ
+10172,"['Michael', 'W.', 'Daniel']",25,Male,Black,2013-01-11,Little Rock,AR
+10178,"['Robert', 'Earl', 'Gary', 'Jr.']",31,Male,Black,2013-01-09,Tampa,FL
+10183,"['Cedrick', 'Chatman']",17,Male,Black,2013-01-07,Chicago,IL
+10197,"['Yolanda', 'Thomas']",34,Female,Black,2013-01-04,Westwood Lakes,FL
+10198,"['Xavier', 'Tyrell', 'Johnson']",31,Male,Black,2013-01-04,Westwood Lakes,FL
+10201,"['Darrell', 'Banks']",47,Male,Black,2013-01-04,Philadelphia,PA
+10202,"['Peter', 'Jourdan']",37,Male,Black,2013-01-03,Brooklyn,NY
+10208,"['Tyree', 'Bell']",31,Male,Black,2013-01-01,Omaha ,NE
